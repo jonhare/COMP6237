@@ -7,12 +7,12 @@
 ##Key points
 
 * collaborative filtering recommender systems 101
-		- feature spaces
-		- user-item matrices
-		- sparsity
-		- distance measures
-	* item-based versus user-based
-	* the cold start problem
+	- feature spaces
+	- user-item matrices
+	- sparsity
+	- distance measures
+* item-based versus user-based
+* the cold start problem
 
 ##Further Reading
 
