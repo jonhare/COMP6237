@@ -3,7 +3,9 @@
 #Lecture 6 - Making Recommendations
 
 ##Summary
-Recommender systems have increasingly become a common part of everyday life. Common examples include the recommendations Amazon makes for you about products you might like to buy, and the movies Netflix recommends you might enjoy watching. This lecture summarises the different types of recommender systems and looks in detail at a form of recommendation called **Collaborative Filtering** in which the past behaviour of users is captured in order to make predictions about what other items the users may like (or dislike). In particular we're going to look at "neighbourhood-based Collaborative Filtering approaches.
+Recommender systems have increasingly become a common part of everyday life. Common examples include the recommendations Amazon makes for you about products you might like to buy, and the movies Netflix recommends you might enjoy watching. 
+
+This lecture summarises the different types of recommender systems and looks in detail at a form of recommendation called **Collaborative Filtering** in which the past behaviour of users is captured in order to make predictions about what other items the users may like (or dislike). In particular we're going to look at "neighbourhood-based Collaborative Filtering approaches.
 
 ##Key points
 
@@ -26,16 +28,19 @@ Recommender systems have increasingly become a common part of everyday life. Com
 * Collaborative filtering recommender systems 101
 	- Key idea:
 
-Measuring similarity
+* Measuring similarity
 	- feature spaces
 	- user-item matrices
 	- sparsity
 	- distance measures
+
 * User based CF
 * item-based versus user-based
 
 * Problems with CF
 	- the cold start problem
+
+
 
 ##Further Reading
 
