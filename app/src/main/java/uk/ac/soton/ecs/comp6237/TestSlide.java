@@ -18,8 +18,8 @@ import org.openimaj.content.slideshow.SlideshowApplication;
 import uk.ac.soton.ecs.comp6237.utils.Utils;
 
 @uk.ac.soton.ecs.comp6237.utils.annotations.Lecture(title = "L1: Big Data Processing",
-		handoutsURL = "https://github.com/jonhare/COMP6237/raw/master/handouts/pdf/...",
-		slidesURL = "https://github.com/jonhare/COMP6237/raw/master/lectures/pdf/...")
+handoutsURL = "https://github.com/jonhare/COMP6237/raw/master/handouts/pdf/...",
+slidesURL = "https://github.com/jonhare/COMP6237/raw/master/lectures/pdf/...")
 @uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs(vmArguments = "-Xmx1G")
 public class TestSlide implements Slide {
 	public static void main(String[] args) throws IOException {
