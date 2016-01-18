@@ -43,6 +43,6 @@ Measuring similarity
 * Wikipedia has a good overview of Recommender Systems and Collaborative Filtering:
 	- https://en.wikipedia.org/wiki/Recommender_system
 	- https://en.wikipedia.org/wiki/Collaborative_filtering
-* [Recommender systems](../reading/summary_recommender_systems.pdf), Melville and Sindwhani, Encyclopaedia of Machine Learning, 2010
-* [Amazon.com recommendations: item-to-item collaborative filtering](../reading/amazon_recommender_system_2003.pdf), Linden, Smith, and York, 2003  (overview of the basic components of Amazon's recommender system)
-* [Recommender systems: from algorithms to user experience](../reading/recommendations_from_algorithms_to_user_experience_2012.pdf), Konstain and Riedl, 2012 (emphasizes that the user experience is important, not just predictive accuracy)
+* [Recommender systems](http://comp6237.ecs.soton.ac.uk/reading/summary_recommender_systems.pdf), Melville and Sindwhani, Encyclopaedia of Machine Learning, 2010
+* [Amazon.com recommendations: item-to-item collaborative filtering](http://comp6237.ecs.soton.ac.uk/reading/amazon_recommender_system_2003.pdf), Linden, Smith, and York, 2003  (overview of the basic components of Amazon's recommender system)
+* [Recommender systems: from algorithms to user experience](http://comp6237.ecs.soton.ac.uk/reading/recommendations_from_algorithms_to_user_experience_2012.pdf), Konstain and Riedl, 2012 (emphasizes that the user experience is important, not just predictive accuracy)
