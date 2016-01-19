@@ -9,12 +9,12 @@ Team size: 5 or 6 students.
 
 ###Handin #1
 Due date: Friday 12th February 2016, 23:59.  
-Handin: [1516/COMP6237/1/](handin.ecs.soton.ac.uk/1516/COMP6237/1/)  
+Handin: [1516/COMP6237/1/](http://handin.ecs.soton.ac.uk/1516/COMP6237/1/)  
 Required files: brief.pdf  
 
 ###Handin #2
 Due date: Thursday 5th May 2016, 16:00.  
-Handin: [1516/COMP6237/2/](handin.ecs.soton.ac.uk/1516/COMP6237/2/)  
+Handin: [1516/COMP6237/2/](http://handin.ecs.soton.ac.uk/1516/COMP6237/2/)  
 Required files: paper.pdf; mark_split.pdf  
 
 ##Overview
