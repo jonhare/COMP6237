@@ -21,7 +21,7 @@ Required files: paper.pdf; mark_split.pdf
 In this coursework you form a team and choose a predictive data mining problem to tackle. Teams are expected to perform a series of experiments on their chosen problem in order to build a predictive model (or set of models) which they evaluate and compare (across techniques used by the team and any other published approaches). The team must present their work as a written conference paper together with an associated oral presentation. 
 
 ##Details
-Students will form groups of five or six members. Each group will propose a project in consultation with members of staff. The project must demonstrate the team's ability to scientifically tackle a real-world *predictive* data-mining problem (as opposed to a *descriptive* or *understanding* type problem that you'll tackle in the individual coursework). 
+Students will form groups of five or six members. Each group will propose a project in consultation with members of staff; we expect that you'll pick a dataset or challenge that has been or is being used for current data mining research (see the links at the end of this document for some ideas). The project must demonstrate the team's ability to scientifically tackle a real-world *predictive* data-mining problem (as opposed to a *descriptive* or *understanding* type problem that you'll tackle in the individual coursework). 
 
 ###Deliverables
 There are four deliverables for this coursework:
@@ -48,6 +48,7 @@ Each team will receive an overall mark (broken down into sub-categories). Indivi
 ###Mark Scheme
 
 The conference paper and presentation will be marked as a single piece of work using the following criteria:
+
 
 Criterion                    | Description                                                                                | Marks
 -----------------------------|--------------------------------------------------------------------------------------------|-------
