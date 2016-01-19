@@ -49,3 +49,5 @@ This lecture summarises the different types of recommender systems and looks in 
 * [Recommender systems](http://comp6237.ecs.soton.ac.uk/reading/summary_recommender_systems.pdf), Melville and Sindwhani, Encyclopaedia of Machine Learning, 2010
 * [Amazon.com recommendations: item-to-item collaborative filtering](http://comp6237.ecs.soton.ac.uk/reading/amazon_recommender_system_2003.pdf), Linden, Smith, and York, 2003  (overview of the basic components of Amazon's recommender system)
 * [Recommender systems: from algorithms to user experience](http://comp6237.ecs.soton.ac.uk/reading/recommendations_from_algorithms_to_user_experience_2012.pdf), Konstain and Riedl, 2012 (emphasizes that the user experience is important, not just predictive accuracy)
+* [Audioscrobbler: Real-time Data Harvesting and Musical Collaborative Filtering](http://comp6237.ecs.soton.ac.uk/reading/audioscrobbler.pdf), Jones, ECS Project Report, 2003 (The original description of the Audioscrobbler CF system developed as part of an ECS third year project)
+
