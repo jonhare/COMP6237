@@ -5,13 +5,14 @@ Please record your proposed distribution of the total number of marks awarded to
 
 Each team member must sign and date the form before submission to confirm that they agree with the proposed distribution. Only one fully-completed form per team is necessary. A scanned copy must submitted via the ECS Handin system by the team leader, together with the conference paper.
 
- Name | ECS ID | Registration Number | Percentage | Signature | Date
-------|--------|---------------------|------------|-----------|------
-      |        |                     |            |           |      
-      |        |                     |            |           |      
-      |        |                     |            |           |      
-      |        |                     |            |           |      
-      |        |                     |            |           |      
-      |        |                     |            |           |      
-      |        |                     |            |           |      
+ First Name | Last Name | ECS ID | Student No. | Percentage | Signature | Date
+------------|-----------|--------|-------------|------------|-----------|------
+            |           |        |             |            |           |      
+            |           |        |             |            |           |      
+            |           |        |             |            |           |      
+            |           |        |             |            |           |      
+            |           |        |             |            |           |      
+            |           |        |             |            |           |      
+            |           |        |             |            |           |      
+            |           |        |             |            |           |      
 
