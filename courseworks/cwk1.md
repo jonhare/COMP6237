@@ -18,7 +18,7 @@ Handin: [1516/COMP6237/2/](handin.ecs.soton.ac.uk/1516/COMP6237/2/)
 Required files: paper.pdf; mark_split.pdf  
 
 ##Overview
-This coursework allows students to choose a predictive data mining problem and tackle it with their team. Teams are expected to perform a series of experiments on their chosen problem in order to build a predictive model (or set of models) which they evaluate and compare. The team must present their work as a written conference paper together with an associated oral presentation.
+In this coursework you form a team and choose a predictive data mining problem to tackle. Teams are expected to perform a series of experiments on their chosen problem in order to build a predictive model (or set of models) which they evaluate and compare. The team must present their work as a written conference paper together with an associated oral presentation.
 
 ##Details
 Students will form groups of five or six members. Each group will propose a project in consultation with members of staff. The project must demonstrate the team's ability to scientifically tackle a real-world *predictive* data-mining problem. 
@@ -58,7 +58,7 @@ Reflection			         | Reflect on what the experimental results tell us about t
 ###Marks split
 Team members should agree between themselves as to how the marks awarded for the team submission will be divided between the team members (see below for instructions on how to proceed if this is not possible). The Team Leader should print out the form [here](), complete it as agreed and arrange for every member of the team to sign and date it. The completed signed form must be submitted via the ECS Handin system with the conference paper. **An incomplete form (e.g. with missing signatures) means that the entire ECS Handin submission is incomplete and therefore subject to penalties.**
 
-**Teams are encouraged to split the work evenly between all team members (in which case the marks split evenly)**. They are advised to consider any proposed non-linear distribution very carefully before submission. Note that an individual contribution of zero is acceptable and will result in that team member being effectively removed from the team. One or more individual contributions of 10% or less may result in an ad-hoc reduction in the effective team size. Any proposed non-linear distribution will be discussed with the team after the presentation and may be subject to modification by the Module Leader at that stage.
+**Teams are encouraged to split the work evenly between all team members (in which case the marks split evenly)**. They are advised to consider any proposed non-uniform distribution very carefully before submission. Note that an individual contribution of zero is acceptable and will result in that team member being effectively removed from the team. One or more individual contributions of 10% or less may result in an ad-hoc reduction in the effective team size. Any proposed non-uniform distribution will be discussed with the team after the presentation and may be subject to modification by the Module Leader at that stage.
 
 #### 'Failure to Agree'
 Teams are advised to make every effort to agree on the marks distribution because failure to agree will be interpreted as demonstrating a general lack of competence. However, the procedure to follow if there is no agreement is set out below:
