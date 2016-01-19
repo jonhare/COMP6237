@@ -66,7 +66,7 @@ Teams are advised to make every effort to agree on the marks distribution becaus
 
 The team should divide into two or more subteams (in the worst case, a team of size 'N' could have 'N' subteams). Each team should elect a subteam leader, who should make a full submission as detailed above. Each marks distribution form submitted should indicate proposed percentages of the overall team marks to be allocated to the members of that subteam, with a written one-page explanation of why such an allocation would be appropriate. It should be noted that any attempt by a team member to exploit the advice above (that teams should make every effort to agree) by, for example, refusing to sign the marks distribution form will not be successful (in the unlikely event that this happens, each individual should make a brief signed statement as to the facts of the case and submit this with the other documentation).
 
-The final marks breakdown for a team that fails to agree will be determined by the Module Leader, taking all relevant factors into account. This decision will be final.
+The final marks breakdown for a team that fails to agree will be determined by the Module Leader, taking all relevant factors into account. This decision will be final. 
 
 ##Useful Links
 The following list has some pointers to places where you might get some inspiration for data mining challenges together with associated data such as evaluation criteria and comparative performance data:
