@@ -69,11 +69,11 @@ EASTER |               |              |                                         
 Materials to accompany the lectures can be found here:
 
 * [Jon's material](jon.html)
-* [Markus's material](markus.html)
+* [Markus's material](http://users.ecs.soton.ac.uk/mb8/stats/datamining.html)
 
 ##Coursework
 The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
 
-* **Coursework 1**. Set Tuesday XX February. Due Thursday XX February, 16:00. Feedback by XX XX March : 
-* **Coursework 2**. Set Tuesday XX February. Due Thursday XX May, 16:00. Feedback by XX XX May : 
+* **Coursework 1**. Set Monday 25th January. Due Thursday 5th May, 16:00. Feedback by Thursday 2nd June : [Specification](cw/coursework1.html)
+* **Coursework 2**. Set Monday 15th February. Due Thursday 17 March, 16:00. Feedback by Thursday 5th May : Specification coming soon!
 

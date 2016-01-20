@@ -4,7 +4,7 @@
 
 ##Brief
 Due date: Thursday 17th March 2016, 16:00.  
-Handin: [1516/COMP6237/3/](http://handin.ecs.soton.ac.uk/1516/COMP6237/3/)  
+Handin: [1516/COMP6237/3/](http://handin.ecs.soton.ac.uk/handin/1516/COMP6237/3/)  
 Required files: report.pdf  
 Data: [gap-html.zip](https://secure.ecs.soton.ac.uk/notes/comp6237/data/gap-html.zip)  
 Credit: 20% of overall module mark  
