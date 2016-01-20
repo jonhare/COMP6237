@@ -20,8 +20,8 @@ The lecture slots are as follows:
 Day       | Time | Room   
 ----------|------|-----------------------
 Mondays   | 9AM  | 54/7033 (Maths 7C)
-Tuesdays  | 2PM  | 6/1081 (Nuffield B)
-Fridays   | 2PM  | 54/7035 (Maths 7B)
+Tuesdays  | 3PM  | 6/1081 (Nuffield B)
+Fridays   | 9AM  | 54/7035 (Maths 7B)
 
 There will generally be two lectures each week, making use of the Monday and Tuesday slots. For some of the weeks we will also use the Friday tutorial session to provide coursework guidance and run additional lectures. The current draft timetable is shown below - be aware that this may change:
 
