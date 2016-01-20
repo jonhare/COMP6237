@@ -13,7 +13,7 @@ Credit: 20% of overall module mark
 In this coursework your need to perform exploratory data mining on a data set that we provide. You will need to write scripts to parse the data into a usable format, perform some kind of feature extraction and then apply standard techniques to explore relationships between data items, such as K-Means and Hierarchical Clustering, and data-analytic visualisation techniques like Multidimensional Scaling. Finally you need to put together a report that details your approach and your findings.
 
 ##Details
-The data you will be using for this assignment is a set of 24 texts about Antiquity (both classical and secondary literature); the original books have been scanned and run through an Optical Character Recognition system to produce an HTML document for each page. The scans and OCR data itself was produced by Google as part of the [Google Books Library Project](https://en.wikipedia.org/wiki/Google_Books_Library_Project). A typical scanned page and it's OCR result is shown below:
+The data you will be using for this assignment is a set of 24 texts about Antiquity (both classical and secondary literature); the original books have been scanned and run through an Optical Character Recognition system to produce an HTML document for each page. The scans and OCR data were produced by Google as part of the [Google Books Library Project](https://en.wikipedia.org/wiki/Google_Books_Library_Project). A typical scanned page and its OCR result is shown below:
 
 <div style="text-align:center">
 <div style="float:left">
@@ -38,7 +38,7 @@ You can download the a Zip file containing the HTML pages with the OCR results [
 You need to produce a **concise** 2-page "working notes" paper (see http://ceur-ws.org/Vol-1043/ for examples of standard academic working notes papers) using the [ACM proceedings style](https://www.acm.org/publications/proceedings-template). The two page limit on the paper is final; no additional pages or appendices are permitted. We're expecting the paper to illustrate what you have done and also demonstrate your ability to interpret what the data mining techniques are showing.
 
 ##Marking and Feedback
-Each team will receive an overall mark (broken down into sub-categories). Individual marks will be assigned based on a split decided by the team. Full details below:
+Full details of the marking scheme are given below:
 
 ####Learning Outcomes
 * Solve real-word data-mining, data-indexing and information extraction tasks
