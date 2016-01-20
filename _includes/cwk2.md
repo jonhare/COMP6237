@@ -10,7 +10,7 @@ Data: [gap-html.zip](https://secure.ecs.soton.ac.uk/notes/comp6237/data/gap-html
 Credit: 20% of overall module mark  
 
 ##Overview
-In this coursework your need to perform exploratory data mining on a data set that we provide. You will need to write scripts to parse the data into a usable format, perform some kind of feature extraction and then apply standard techniques to explore relationships between data items, such as K-Means and Hierarchical Clustering, and data-analytic visualisation techniques like Multidimensional Scaling. Finally you need to put together a report that details your approach and your findings.
+In this coursework your need to perform exploratory/descriptive data mining on a data set that we provide. You will need to write scripts to parse the data into a usable format, perform some kind of feature extraction and then apply standard techniques to explore relationships between data items, such as K-Means and Hierarchical Clustering, and data-analytic visualisation techniques like Multidimensional Scaling. Finally you need to put together a report that details your approach and your findings.
 
 ##Details
 The data you will be using for this assignment is a set of 24 texts about Antiquity (both classical and secondary literature); the original books have been scanned and run through an Optical Character Recognition system to produce an HTML document for each page. The scans and OCR data were produced by Google as part of the [Google Books Library Project](https://en.wikipedia.org/wiki/Google_Books_Library_Project). A typical scanned page and its OCR result is shown below:
