@@ -52,9 +52,10 @@ The working notes paper will be marked using the following criteria:
 
 Criterion                 | Description                                                                                          | Marks
 --------------------------|------------------------------------------------------------------------------------------------------|-------
-Experimentation           | Analyse the problem and define suitable preprocessing and feature extraction operations              | 33
-Application of techniques | Show ability to apply exploratory data mining techniques                                             | 33
-Analysis                  | Reflection on what can be understood from the data through the application of exploratory techniques | 33
+Experimentation           | Analyse the problem and define suitable preprocessing and feature extraction operations              | 28
+Application of techniques | Show ability to apply exploratory data mining techniques                                             | 28
+Analysis                  | Reflection on what can be understood from the data through the application of exploratory techniques | 28
+Reporting                 | Clear and professional reporting                                                                     | 16
 
 Standard ECS late submission penalties apply.
 

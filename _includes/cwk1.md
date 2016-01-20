@@ -52,9 +52,10 @@ The conference paper and presentation will be marked as a single piece of work u
 
 Criterion                    | Description                                                                                | Marks
 -----------------------------|--------------------------------------------------------------------------------------------|-------
-Experimentation and Analysis | Analyse the problem and results obtained                                                   | 40
-Application of techniques    | Show ability to apply predictive data mining techniques and preprocessing operations       | 40
+Experimentation and Analysis | Analyse the problem and results obtained                                                   | 35
+Application of techniques    | Show ability to apply predictive data mining techniques and preprocessing operations       | 35
 Reflection			         | Reflect on what the experimental results tell us about the problem and the techniques used | 20
+Reporting                    | Clear and professional reporting                                                           | 10
 
 Standard ECS late submission penalties apply.
 
