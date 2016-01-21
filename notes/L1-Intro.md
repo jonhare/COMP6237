@@ -39,7 +39,9 @@ In this module you're going to learn about and experience a number of different 
 		* Dynamic (data that changes over time) versus static 
 	* Also need to consider data mining where we concentrate on a single modality ("Unimodal"; e.g. the analysis of a corpus of text documents), versus data mining where we analyse different modalities of data in harmony ("multimodal"; e.g. the analysis of a dataset of images and textual captions)
 * What is the typical data mining pipeline?
-	* ![Typical Pipeline](https://raw.githubusercontent.com/jonhare/COMP6237/master/app/src/main/resources/uk/ac/soton/ecs/comp6237/l1/l1.025.jpeg)	
+	
+	![Typical Pipeline](https://raw.githubusercontent.com/jonhare/COMP6237/master/app/src/main/resources/uk/ac/soton/ecs/comp6237/l1/l1.025.jpeg)	
+	
 	* Key components:
 		* **Preprocessing** - cleaning the data, parsing it into usable formats, ...
 		* **Feature Extraction** - making measurements, extracting statistics, creating features, ...
