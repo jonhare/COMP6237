@@ -45,7 +45,7 @@ In this module you're going to learn about and experience a number of different 
 	* Key components:
 		* **Preprocessing** - cleaning the data, parsing it into usable formats, ...
 		* **Feature Extraction** - making measurements, extracting statistics, creating features, ...
-		* *Intelligent Algorithms** - The core of the data mining process; falls into **descriptive** and **predictive** techniques
+		* *Intelligent Algorithms* - The core of the data mining process; falls into **descriptive** and **predictive** techniques
 
 ##Further Reading
 
