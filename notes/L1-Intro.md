@@ -1,13 +1,13 @@
 *COMP6237 Data Mining*
 
-#Lecture 1 - Introduction to Data Mining
+# Lecture 1 - Introduction to Data Mining
 
-##Summary
+## Summary
 Data Mining is a process of transforming raw data into information. To quote from Wikipedia, data mining " is the computational process of discovering patterns in large data sets involving methods at the intersection of artificial intelligence, machine learning, statistics, and database systems." 
 
 In this module you're going to learn about and experience a number of different aspects of data mining. This first lecture gives an overview of what data mining is and isn't, what types of data we might mine, the typical pipeline of all data mining systems and the two characteristic types of data mining approach.
 
-##Key points
+## Key points
 
 * What is data mining? 
 	* In a single sentence: "the process of analysing and transforming raw data into information"
@@ -47,7 +47,7 @@ In this module you're going to learn about and experience a number of different 
 		* **Feature Extraction** - making measurements, extracting statistics, creating features, ...
 		* *Intelligent Algorithms* - The core of the data mining process; falls into **descriptive** and **predictive** techniques
 
-##Further Reading
+## Further Reading
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Data_mining) has quite a good page describing data mining as a concept, which also touches on some of the non-technical aspects like legal and ethical issues surrounding the use of data mining.
 
