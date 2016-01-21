@@ -356,7 +356,7 @@ public class MainMenu extends JPanel {
 		f.getContentPane().add(mm);
 		f.setSize(800, 600);
 		f.setLocationRelativeTo(null);
-		mm.tabs.setSelectedIndex(1);
+		// mm.tabs.setSelectedIndex(1);
 		mm.tabs.setSelectedIndex(0);
 		f.setVisible(true);
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

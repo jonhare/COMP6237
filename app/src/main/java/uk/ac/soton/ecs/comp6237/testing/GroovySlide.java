@@ -1,4 +1,4 @@
-package uk.ac.soton.ecs.comp6237;
+package uk.ac.soton.ecs.comp6237.testing;
 
 import groovy.lang.Binding;
 import groovy.lang.GroovyShell;
