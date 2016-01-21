@@ -15,4 +15,4 @@ The launcher program that opens when you launch the jar is self explanatory, but
 
 Date     | Title        | Slides                             | Handouts
 ---------| ------------ | ---------------------------------- | ---------
-25/1/16  | L1. Introduction to Data Mining | [PDF](./lectures/pdf/L1-Intro.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L1-Intro.pdf) : ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L1-Intro.md)) 
+25/1/16  | L1. Introduction to Data Mining | [PDF](./lectures/pdf/L1-Intro.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L1-Intro.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L1-Intro.md)) 
