@@ -25,6 +25,7 @@ Students will form groups of five or six members. Each group will propose a proj
 
 ###Deliverables
 There are four deliverables for this coursework:
+
 * **Project Brief.** Teams must submit a short (1 side A4 max) project brief by **Friday 12th February**. In addition to describing the proposed project, the brief must include the names and email addresses of all the team members.
 * **Project Pitch + Q&A.** In the tutorial slot on the Friday of week 4 the groups will provide a 2 minute pitch of the project to the class, followed by 3 minutes of discussion.
 * **Conference Paper.** Teams must submit a final report in the style of a conference paper by **16:00 on Thursday 5th May** to ECS Handin. The paper must use the [ACM proceedings style](https://www.acm.org/publications/proceedings-template) and be at most 6 pages in length, including all references and appendices (if used). Additionally each team is required to submit a proposed marks distribution form (see below).
