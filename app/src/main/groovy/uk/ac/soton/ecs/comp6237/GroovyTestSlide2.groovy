@@ -8,7 +8,6 @@ import java.awt.BorderLayout
 import java.awt.Color
 import java.awt.Component
 import java.awt.Font
-import java.awt.GraphicsEnvironment
 
 import javax.swing.JLabel
 import javax.swing.JTable
@@ -78,6 +77,9 @@ public class GroovyTestSlide2 implements Slide {
 			def sz = tab.tableHeader.getPreferredSize()
 			sz.height *= 3
 			tab.tableHeader.setPreferredSize(sz)
+
+			tab.setGridColor(new Color(0xB7BABA))
+			tab.setShowVerticalLines(false)
 		}
 
 		return table;
@@ -88,8 +90,6 @@ public class GroovyTestSlide2 implements Slide {
 	}
 
 	public static void main(String[] args) throws IOException {
-		GraphicsEnvironment.getLocalGraphicsEnvironment().getAvailableFontFamilyNames().each { println it }
-
 		new SlideshowApplication(new GroovyTestSlide2(), 1024, 768, Utils.BACKGROUND_IMAGE);
 	}
 }

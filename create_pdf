@@ -1,1 +1,1 @@
-~/Work/gitprint.com/node_modules/markdown-pdf/bin/markdown-pdf -h ~/Work/gitprint.com/lib/runnings.js -s ~/Work/gitprint.com/public/css/print.css -z ~/Work/gitprint.com/public/css/highlight.css -b 1cm $1
+~/Work/gitprint.com/node_modules/markdown-pdf/bin/markdown-pdf -d 1000 -h ~/Work/gitprint.com/lib/runnings.js -s ~/Work/gitprint.com/public/css/print.css -z ~/Work/gitprint.com/public/css/highlight.css -b 1cm $1
