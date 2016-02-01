@@ -18,4 +18,12 @@ public class MovieData {
 		'Jack': ['Lady in the Water': 3.0, 'Snakes on a Plane': 4.0,
 			'The Night Listener': 3.0, 'Superman Returns': 5.0, 'You, Me and Dupree': 3.5],
 		'Toby': ['Snakes on a Plane':4.5,'You, Me and Dupree':1.0,'Superman Returns':4.0]]
+
+	public static def SMALLDATA_SHORTNAMES = [
+		'Lady in the Water': 'Lady',
+		'Snakes on a Plane': 'Snakes',
+		'Just My Luck': 'Luck',
+		'Superman Returns': 'Superman',
+		'You, Me and Dupree': 'Dupree',
+		'The Night Listener': 'Night']
 }
