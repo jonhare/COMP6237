@@ -14,7 +14,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration;
 public class ItemItemPrecompDemo extends GroovyREPLConsoleSlide {
 
 	public ItemItemPrecompDemo() throws IOException {
-		super(JSplitPane.VERTICAL_SPLIT, Lecture6.class.getResource("../ItemPrecomp.groovy"));
+		super(JSplitPane.VERTICAL_SPLIT, Lecture6.class.getResource("ItemPrecomp.groovy"),
+				"calculateSimilarItems(data, 2)");
 	}
 
 	public static void main(String[] args) throws IOException {

@@ -12,12 +12,13 @@ import jline.TerminalFactory;
 import org.codehaus.groovy.tools.shell.AnsiDetector;
 import org.codehaus.groovy.tools.shell.Groovysh;
 import org.codehaus.groovy.tools.shell.IO;
+import org.codehaus.groovy.tools.shell.IO.Verbosity;
 import org.fusesource.jansi.Ansi;
 import org.fusesource.jansi.AnsiConsole;
 
 public class GroovyInterpreter implements Runnable {
 	Binding binding;
-	private Groovysh shell;
+	public Groovysh shell;
 	private PipedInputStream is;
 	private PipedOutputStream os;
 	private PipedInputStream pis;
@@ -46,7 +47,7 @@ public class GroovyInterpreter implements Runnable {
 		// // do nothing
 		// }
 		// };
-		// shell.getIo().setVerbosity(Verbosity.QUIET);
+		shell.getIo().setVerbosity(Verbosity.QUIET);
 	}
 
 	public PipedInputStream getInputStream() {

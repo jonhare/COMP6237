@@ -14,7 +14,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration;
 public class ItemItemSimDemo extends GroovyREPLConsoleSlide {
 
 	public ItemItemSimDemo() throws IOException {
-		super(JSplitPane.VERTICAL_SPLIT, Lecture6.class.getResource("../ItemSim.groovy"));
+		super(JSplitPane.VERTICAL_SPLIT, Lecture6.class.getResource("ItemSim.groovy"),
+				"rank(transpose(data), 'Superman Returns')");
 	}
 
 	public static void main(String[] args) throws IOException {

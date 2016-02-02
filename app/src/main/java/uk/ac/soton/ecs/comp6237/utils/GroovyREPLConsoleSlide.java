@@ -18,9 +18,11 @@ import java.util.List;
 import javax.swing.BoxLayout;
 import javax.swing.JPanel;
 import javax.swing.JSplitPane;
+import javax.swing.SwingUtilities;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 
+import org.codehaus.groovy.tools.shell.IO.Verbosity;
 import org.fife.ui.rsyntaxtextarea.RSyntaxTextArea;
 import org.fife.ui.rsyntaxtextarea.SyntaxConstants;
 import org.fife.ui.rtextarea.RTextScrollPane;
@@ -34,22 +36,26 @@ public class GroovyREPLConsoleSlide implements Slide {
 	private int orientation;
 	private String initialScript;
 	private transient boolean codeChanged;
+	private String[] initialCommands;
 
 	public GroovyREPLConsoleSlide(int orientation) {
 		this(orientation, "");
 	}
 
-	public GroovyREPLConsoleSlide(int orientation, String initialScript) {
+	public GroovyREPLConsoleSlide(int orientation, String initialScript, String... initialCommands) {
 		this.orientation = orientation;
 		this.initialScript = initialScript;
+		this.initialCommands = initialCommands;
 	}
 
-	public GroovyREPLConsoleSlide(int orientation, URL initialScript) throws IOException {
-		this(orientation, initialScript.openStream());
+	public GroovyREPLConsoleSlide(int orientation, URL initialScript, String... initialCommands) throws IOException {
+		this(orientation, initialScript.openStream(), initialCommands);
 	}
 
-	public GroovyREPLConsoleSlide(int orientation, InputStream initialScript) throws IOException {
-		this(orientation, FileUtils.readall(initialScript));
+	public GroovyREPLConsoleSlide(int orientation, InputStream initialScript, String... initialCommands)
+			throws IOException
+	{
+		this(orientation, FileUtils.readall(initialScript), initialCommands);
 		initialScript.close();
 	}
 
@@ -129,6 +135,20 @@ public class GroovyREPLConsoleSlide implements Slide {
 
 		// run any initial content
 		interpreter.execute(textArea.getText());
+
+		// bit risky - rather dependent on timing!
+		interpreter.shell.getIo().setVerbosity(Verbosity.INFO);
+
+		SwingUtilities.invokeLater(new Runnable() {
+			@Override
+			public void run() {
+				// bootstrap history
+				for (int i = 0; i < initialCommands.length; i++)
+					console.history.add(initialCommands[i]);
+				if (initialCommands.length > 0)
+					console.historyUp();
+			}
+		});
 	}
 
 	@Override

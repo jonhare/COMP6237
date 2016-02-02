@@ -24,7 +24,6 @@ import org.jfree.ui.TextAnchor
 import org.openimaj.content.slideshow.Slide
 import org.openimaj.content.slideshow.SlideshowApplication
 
-import uk.ac.soton.ecs.comp6237.MovieData
 import uk.ac.soton.ecs.comp6237.utils.Utils
 import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration
 

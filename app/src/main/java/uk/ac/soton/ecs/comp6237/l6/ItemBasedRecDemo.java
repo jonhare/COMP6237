@@ -14,7 +14,9 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration;
 public class ItemBasedRecDemo extends GroovyREPLConsoleSlide {
 
 	public ItemBasedRecDemo() throws IOException {
-		super(JSplitPane.VERTICAL_SPLIT, Lecture6.class.getResource("../ItemRec.groovy"));
+		super(JSplitPane.VERTICAL_SPLIT, Lecture6.class.getResource("ItemRec.groovy"),
+				"getRecommendations(data, 'Toby')",
+				"getRecommendedItems(data, itemsim, 'Toby')");
 	}
 
 	public static void main(String[] args) throws IOException {

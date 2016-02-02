@@ -16,6 +16,7 @@ import javax.swing.table.DefaultTableCellRenderer
 import org.openimaj.content.slideshow.Slide
 import org.openimaj.content.slideshow.SlideshowApplication
 
+import uk.ac.soton.ecs.comp6237.l6.MovieData;
 import uk.ac.soton.ecs.comp6237.utils.Utils
 
 public class GroovyTestSlide2 implements Slide {

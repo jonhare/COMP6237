@@ -14,7 +14,7 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration;
 public class UserUserSimDemo extends GroovyREPLConsoleSlide {
 
 	public UserUserSimDemo() throws IOException {
-		super(JSplitPane.VERTICAL_SPLIT, Lecture6.class.getResource("../UserSim.groovy"));
+		super(JSplitPane.VERTICAL_SPLIT, Lecture6.class.getResource("UserSim.groovy"), "rank(data, 'Lisa')");
 	}
 
 	public static void main(String[] args) throws IOException {

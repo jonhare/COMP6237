@@ -136,4 +136,4 @@ This lecture summarises the different types of recommender systems and looks in 
 ## Practical exercises
 * Have a play with the demos in the slides and make sure the results you get match those you compute by hand on the same data.
 * Implement cosine similarity and see what effect it has compared to Pearson correlation
-
+* Try playing with a bigger dataset - you can use `MovieData.loadMovieLens100K()` instead of `MovieData.SMALLDATA` in the interactive slides to load the MovieLens100K dataset, which has 100,000 ratings from 1000 users over 1700 movies!

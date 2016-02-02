@@ -13,8 +13,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(title = "L6: Making Recommendations",
-handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L6-Recommendation.pdf",
-slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L6-Recommendation.pdf")
+		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L6-Recommendation.pdf",
+		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L6-Recommendation.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
 public class Lecture6 {
 	public static void main(String[] args) throws IOException {
@@ -27,7 +27,7 @@ public class Lecture6 {
 		slides.set(30, new ItemSpaceSlide());
 		slides.set(33, new UserSpaceSlide());
 
-		slides.set(36, new UserUserSimDemo());// user-user sim
+		slides.set(36, new UserUserSimDemo()); // user-user sim
 		slides.set(39, new UserBasedRecDemo()); // user based rec
 		slides.set(42, new ItemItemSimDemo()); // item-item sim
 

@@ -124,7 +124,7 @@ MouseListener, ActionListener, PropertyChangeListener
 	}
 
 	private int cmdStart = 0;
-	private List<String> history = new ArrayList<String>();
+	public List<String> history = new ArrayList<String>();
 	private String startedLine;
 	private int histLine = 0;
 
@@ -475,7 +475,7 @@ MouseListener, ActionListener, PropertyChangeListener
 		return s;
 	}
 
-	private void historyUp() {
+	public void historyUp() {
 		if (history.size() == 0)
 			return;
 		if (histLine == 0) // save current line

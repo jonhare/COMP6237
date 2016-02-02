@@ -1,6 +1,7 @@
 import static Math.sqrt
 
-data = uk.ac.soton.ecs.comp6237.MovieData.SMALLDATA
+import uk.ac.soton.ecs.comp6237.l6.MovieData
+data = MovieData.SMALLDATA
 
 //Compute a Euclidean-distance based similarity
 simEuclidean = {prefs, key1, key2 ->

@@ -1,6 +1,7 @@
 import static Math.sqrt
 
-data = uk.ac.soton.ecs.comp6237.MovieData.SMALLDATA
+import uk.ac.soton.ecs.comp6237.l6.MovieData
+data = MovieData.SMALLDATA
 
 //Compute a Euclidean-distance based similarity
 simEuclidean = {prefs, key1, key2 ->
@@ -50,6 +51,37 @@ rank = {prefs, key, limit=10, sim=simPearson ->
 	scores.sort{ -it[0] }
 	return scores.take(limit)
 }
+
+//Compute user-based recommendations, returning a ranked list of results
+getRecommendations = {prefs, person, limit=10, similarity=simPearson ->
+	def simUsers = rank(prefs, person, limit, similarity)
+	
+	def totals = [:]
+	def simSums = [:]
+	
+	simUsers.each{ othersim, other ->
+		//irrespectively of the limit we'll ignore highly dissimilar users
+		if (othersim<0) return
+		prefs[other].each { movie, rating ->
+			if (prefs[person][movie]) return
+			
+			if (!totals[movie]) {
+				totals[movie] = 0
+				simSums[movie] = 0
+			}
+			
+			totals[movie] += rating * othersim
+			simSums[movie] += Math.abs(othersim)
+		}
+	}
+	
+	def ranking = totals.findResults{k, v ->
+		[v/simSums[k],k]
+	}
+	ranking.sort{-it[0]}
+	return ranking
+}
+
 
 //transpose the sparse ratings matrix so that rank
 //can be used to compare items to items
