@@ -31,11 +31,11 @@ Date   | Semester Week | Lecturer(s)  | Topic                                   
 26-Jan |               | Markus       | Stats + R Lecture 1                          | 
 29-Jan |               | Jon & Markus | Group coursework discussion                  | 
 01-Feb | 2             | Markus       | Stats + R Lecture 2                          |  
-02-Feb |               | Markus       | Stats + R Lecture 3                          | 
-05-Feb |               | Markus       | Stats + R Tutorial                           | 
+02-Feb |               | Jon          | Making recommendations                       | 
+05-Feb |               | Markus       | Stats + R Lecture 3                          | 
 08-Feb | 3             | Markus       | Stats + R Lecture 4                          | 
-09-Feb |               | Jon          | Making recommendations                       | 
-12-Feb |               | Jon          | Covariance and PCA Tutorial                  | 
+09-Feb |               | Jon          | Covariance, EVD, PCA and SVD                 | 
+12-Feb |               | Markus       | Stats + R                                    | 
 15-Feb | 4             | Jon          | Discovering Groups                           | 
 16-Feb |               | Jon          | Searching and ranking                        | 
 19-Feb |               | Jon & Markus | Group coursework pitches                     | 
