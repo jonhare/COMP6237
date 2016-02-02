@@ -12,7 +12,6 @@ import jline.TerminalFactory;
 import org.codehaus.groovy.tools.shell.AnsiDetector;
 import org.codehaus.groovy.tools.shell.Groovysh;
 import org.codehaus.groovy.tools.shell.IO;
-import org.codehaus.groovy.tools.shell.InteractiveShellRunner;
 import org.fusesource.jansi.Ansi;
 import org.fusesource.jansi.AnsiConsole;
 
@@ -40,12 +39,13 @@ public class GroovyInterpreter implements Runnable {
 
 		binding.setProperty("out", new ImmediateFlushingPrintWriter(pos));
 
-		shell = new Groovysh(binding, new IO(pis, pos, pos)) {
-			@Override
-			public void displayWelcomeBanner(InteractiveShellRunner runner) {
-				// do nothing
-			}
-		};
+		shell = new Groovysh(binding, new IO(pis, pos, pos));
+		// {
+		// @Override
+		// public void displayWelcomeBanner(InteractiveShellRunner runner) {
+		// // do nothing
+		// }
+		// };
 		// shell.getIo().setVerbosity(Verbosity.QUIET);
 	}
 
@@ -59,7 +59,11 @@ public class GroovyInterpreter implements Runnable {
 
 	@Override
 	public void run() {
-		shell.run("");
+		try {
+			shell.run("");
+		} catch (final Throwable t) {
+			System.out.println(t);
+		}
 	}
 
 	public void execute(String script) {

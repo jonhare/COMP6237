@@ -63,6 +63,12 @@ public class GroovyREPLConsoleSlide implements Slide {
 		final JPanel controls = new JPanel();
 		base.add(controls, BorderLayout.NORTH);
 
+		createEditorAndConsole(orientation == JSplitPane.HORIZONTAL_SPLIT ? width / 2 : height / 2, base);
+
+		return base;
+	}
+
+	protected void createEditorAndConsole(int dividerLocation, final JPanel base) throws IOException {
 		textArea = new RSyntaxTextArea(20, 60);
 		Font font = textArea.getFont();
 		font = font.deriveFont(font.getStyle(), 18);
@@ -98,7 +104,7 @@ public class GroovyREPLConsoleSlide implements Slide {
 
 		splitPane = new JSplitPane(orientation, inputScrollPane, console);
 		splitPane.setOneTouchExpandable(true);
-		splitPane.setDividerLocation(width / 2);
+		splitPane.setDividerLocation(dividerLocation);
 
 		final Dimension minimumSize = new Dimension(100, 50);
 		inputScrollPane.setMinimumSize(minimumSize);
@@ -121,7 +127,8 @@ public class GroovyREPLConsoleSlide implements Slide {
 			}
 		});
 
-		return base;
+		// run any initial content
+		interpreter.execute(textArea.getText());
 	}
 
 	@Override

@@ -26,7 +26,9 @@ import org.openimaj.content.slideshow.SlideshowApplication
 
 import uk.ac.soton.ecs.comp6237.MovieData
 import uk.ac.soton.ecs.comp6237.utils.Utils
+import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration
 
+@Demonstration(title='Visualising correlations between users')
 public class UserSpaceSlide implements Slide {
 	def transpose(prefs) {
 		def newprefs = [:]

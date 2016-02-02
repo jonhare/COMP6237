@@ -24,7 +24,9 @@ import org.openimaj.content.slideshow.SlideshowApplication
 
 import uk.ac.soton.ecs.comp6237.MovieData
 import uk.ac.soton.ecs.comp6237.utils.Utils
+import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration
 
+@Demonstration(title='Visualising users in item space')
 public class ItemSpaceSlide implements Slide {
 	@Override
 	public Component getComponent(int width, int height) throws IOException {
