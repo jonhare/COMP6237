@@ -66,8 +66,12 @@ public class GroovyREPLConsoleSlide implements Slide {
 		base.setPreferredSize(new Dimension(width, height));
 		base.setLayout(new BorderLayout());
 
-		final JPanel controls = new JPanel();
-		base.add(controls, BorderLayout.NORTH);
+		// border all the way around to make it possible to get to the
+		// next/previous slide
+		base.add(new JPanel(), BorderLayout.NORTH);
+		base.add(new JPanel(), BorderLayout.EAST);
+		base.add(new JPanel(), BorderLayout.WEST);
+		base.add(new JPanel(), BorderLayout.SOUTH);
 
 		createEditorAndConsole(orientation == JSplitPane.HORIZONTAL_SPLIT ? width / 2 : height / 2, base);
 
