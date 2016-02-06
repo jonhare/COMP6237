@@ -94,7 +94,7 @@ Eigendecomposition (EVD) and Singular Value Decomposition (SVD) are important ma
 			* The diagonal values are the "Singular Values" of **M**
 			* **Σ** has dimensions *ρ*⨉*ρ*
 			* The singular values are normally arranged in monotonically decreasing order: **Σ**<sub>*i,i*</sub> ≥ **Σ**<sub>*i+1,i+1*</sub>
-		* The matrices **U** and **V** are orthogonal: **U**<sup>T</sup>**U** = **UU**<sup>T</sup> = *I* and **V**<sup>T</sup>**V** = **VV**<sup>T</sup> = *I*, where *I* is the identity matrix (note that the size of *I* is different for the identities involving **U** and **V** respectively).
+		* The matrices **U** and **V** are orthogonal: **U**<sup>T</sup>**U** = **UU**<sup>T</sup> = **I** and **V**<sup>T</sup>**V** = **VV**<sup>T</sup> = **I**, where **I** is the identity matrix (note that the size of **I** is different for the identities involving **U** and **V** respectively).
 			* **U** has dimensions *m*⨉*ρ*
 				* The *m* dimensional vectors that form the columns of **U** are called the *left singular vectors*
 				* The left singular vectors are the eigenvectors of **MM**<sup>T</sup>
@@ -103,25 +103,33 @@ Eigendecomposition (EVD) and Singular Value Decomposition (SVD) are important ma
 				* The right singular vectors are the eigenvectors of **M**<sup>T</sup>**M**
 		* The singular values are the square roots of the corresponding eigenvalues of *both* **MM**<sup>T</sup> and **M**<sup>T</sup>**M**
 	* Relationship of SVD to PCA
-
-		* Why use SVD over EVD for computing PCA?
+		* If **Z** is a matrix of mean-centred feature vectors, then the left singular values of **Z** are the eigenvectors of **ZZ**<sup>T</sup> and thus are the principal components of **Z**
+			* This means you can actually perform PCA without explicitly computing the covariance matrix
+				* Better numerical stability
+				* Potentially much faster
 	* Truncated SVD
-
-		* Low rank approximation
+		* Given the relationship between PCA and SVD, it's easy to see that computing a truncated SVD that only considers the top-*r* singular values and respective left and right singular vectors is useful for dimensionality reduction
+		* Low rank matrix approximation is also possible and it can be proved (the Eckart-Young theorem) that keeping only the top-*r* S.V.s and reconstructing a matrix **Ḿ**=**U**<sub>*r*</sub>**Σ**<sub>*r*</sub>**V**<sub>*r*</sub><sup>T</sup> gives the *best* possible rank-*r* approximation of the original matrix, **M**, in the sense that the Frobenius norm ||**M**-**Ḿ**||<sub>F</sub> is minimised.
+			* Frobenius Norm of **A** is just the square root of the sum of all the elements of **A** squared; it's basically a generalisation of the Euclidean norm of a vector to a matrix.
 	* Other uses of SVD
 		* Pseudoinverse
-			* Example: Least squares line fitting using the pseudo-inverse:
-				* assume we have a set of (*x*, *y*) points [(*x*<sub>1</sub>, *y*<sub>1</sub>), ..., (*x<sub>i</sub>*, *y<sub>i</sub>*)] that we want to fit a straight line of best fit of the form *y* = *mx* + *c* to. We can write this in the form <strong>A</strong>*x* = *b* as follows: <br/>
-				<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \begin{bmatrix}x_1 & 1 \\ x_2 & 1 \\ \vdots & \vdots \\ x_i & 1\end{bmatrix}\begin{bmatrix} m \\ c \end{bmatrix} = \begin{bmatrix}y_1\\y_2\\\vdots\\y_3\end{bmatrix}"/><br/>
-				and solve by taking the pseudo-inverse:<br/>
-				<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \begin{bmatrix} m \\ c \end{bmatrix} = \begin{bmatrix}x_1 & 1 \\ x_2 & 1 \\ \vdots & \vdots \\ x_i & 1\end{bmatrix}^\dagger\begin{bmatrix}y_1\\y_2\\\vdots\\y_3\end{bmatrix}"/>
-		* Solving homogeneous equations
+			* The Moore-Penrose pseudoinverse is a generalisation of the standard matrix inverse.
+				* Can be computed using SVD: **A**<sup>†</sup> = **VΣ**<sup>-1</sup>**U**<sup>T</sup>
+			* Key application is in finding least squares ("best-fit") solutions to systems of linear equations
+				* Solution of <strong>A</strong>*x*=*b* for *x* where ||<strong>A</strong>*x*-*b*||<sub>2</sub> is minimised is *x*=**A**<sup>†</sup>*b*
+				* Example: Least squares line fitting using the pseudo-inverse:
+					* assume we have a set of (*x*, *y*) points [(*x*<sub>1</sub>, *y*<sub>1</sub>), ..., (*x<sub>i</sub>*, *y<sub>i</sub>*)] for which we want to fit a straight line of best fit of the form *y* = *mx* + *c*. We can write this in the form <strong>A</strong>*x* = *b* as follows: <br/>
+					<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \begin{bmatrix}x_1 & 1 \\ x_2 & 1 \\ \vdots & \vdots \\ x_i & 1\end{bmatrix}\begin{bmatrix} m \\ c \end{bmatrix} = \begin{bmatrix}y_1\\y_2\\\vdots\\y_3\end{bmatrix}"/><br/>
+					and solve by taking the pseudo-inverse:<br/>
+					<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \begin{bmatrix} m \\ c \end{bmatrix} = \begin{bmatrix}x_1 & 1 \\ x_2 & 1 \\ \vdots & \vdots \\ x_i & 1\end{bmatrix}^\dagger\begin{bmatrix}y_1\\y_2\\\vdots\\y_3\end{bmatrix}"/> <br/><br/>
+		* Solving homogeneous equations of the form <strong>A</strong>*x*=0
+			* Solution for the non-zero *x* case is any right singular vector with a corresponding singular value of 0.
+				* Requires a modification to the SVD, called the "full SVD" to be computed, where the left and right singular vectors for the null-space of the matrix is computed (i.e. singular vectors that have corresponding singular values equal to zero).
 		* Data mining
 			* Model based CF
 			* Latent factor models
 			* Information retrieval
 			* ... *and many more*
-
 * Computing SVD and EVD
 	* All general EVD algorithms are iterative
 	* Simplest classical approach to computing eigenvectors is the "Power Iteration"
@@ -145,7 +153,4 @@ Eigendecomposition (EVD) and Singular Value Decomposition (SVD) are important ma
 	* http://en.wikipedia.org/wiki/Eigenface 
 	* https://en.wikipedia.org/wiki/Singular_value_decomposition
 	* https://en.wikipedia.org/wiki/Power_iteration
-
-## Practical exercises
-	* ???
 

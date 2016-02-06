@@ -307,8 +307,6 @@ public class HACDemo extends MouseAdapter implements Slide, ActionListener {
 						} else
 							break;
 					}
-					// if (isRunning)
-					// kmeansAssignmentStep(false);
 
 					runBtn.setEnabled(true);
 					clearBtn.setEnabled(true);
