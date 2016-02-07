@@ -9,6 +9,7 @@ import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.event.FocusAdapter;
 import java.awt.event.FocusEvent;
+import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
@@ -16,12 +17,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 import javax.swing.BoxLayout;
+import javax.swing.Icon;
+import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 import javax.swing.JSplitPane;
 import javax.swing.SwingUtilities;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 
+import org.codehaus.groovy.runtime.MethodClosure;
 import org.codehaus.groovy.tools.shell.IO.Verbosity;
 import org.fife.ui.rsyntaxtextarea.RSyntaxTextArea;
 import org.fife.ui.rsyntaxtextarea.SyntaxConstants;
@@ -37,6 +41,7 @@ public class GroovyREPLConsoleSlide implements Slide {
 	private String initialScript;
 	private transient boolean codeChanged;
 	private String[] initialCommands;
+	private JConsole console;
 
 	public GroovyREPLConsoleSlide(int orientation) {
 		this(orientation, "");
@@ -108,9 +113,10 @@ public class GroovyREPLConsoleSlide implements Slide {
 		final RTextScrollPane inputScrollPane = new RTextScrollPane(textArea);
 
 		final Binding binding = new Binding();
+		binding.setVariable("display", new MethodClosure(this, "display"));
 		final GroovyInterpreter interpreter = new GroovyInterpreter(binding);
 
-		final JConsole console = new JConsole(interpreter.getInputStream(), interpreter.getOutputStream());
+		console = new JConsole(interpreter.getInputStream(), interpreter.getOutputStream());
 
 		splitPane = new JSplitPane(orientation, inputScrollPane, console);
 		splitPane.setOneTouchExpandable(true);
@@ -157,6 +163,15 @@ public class GroovyREPLConsoleSlide implements Slide {
 
 	@Override
 	public void close() {
+	}
+
+	void display(Object obj) {
+		if (obj instanceof Icon)
+			console.println((Icon) obj);
+		if (obj instanceof BufferedImage)
+			console.println(new ImageIcon((BufferedImage) obj));
+		else
+			console.println(obj.toString());
 	}
 
 	public static void main(String[] args) throws IOException {
