@@ -77,14 +77,15 @@ Eigendecomposition (EVD) and Singular Value Decomposition (SVD) are important ma
 		* Given a low-dimensional vector formed from PCA, it is possible to reconstruct the original vector: *t<sub>L</sub>* = *z* <strong>Q</strong><sub>*L*</sub> ⇒ *z* = *t<sub>L</sub>*<strong>Q</strong><sub>*L*</sub><sup>-1</sup> = *t<sub>L</sub>*<strong>Q</strong><sub>*L*</sub><sup>T</sup>
 			* Then add the mean vector to get back into the original space before mean centring.
 		* Summary of the steps for PCA:
-			1. Mean-centre the data vectors
-			2. Form the vectors into a matrix **Z**, such that each row corresponds to a vector
-			3. Perform the Eigendecomposition of the matrix **Z**<sup>T</sup>**Z**, to recover the eigenvector matrix **Q** and diagonal eigenvalue matrix **Λ**:
-			**Z**<sup>T</sup>**Z** = **QΛQ**<sup>-1</sup>
-			4. Sort the columns of **Q** and corresponding diagonal values of **Λ** so that the eigenvalues are decreasing.
-			5. Select the *L* largest eigenvectors of **Q** (the first *L* columns) to create the transform matrix **Q**<sub>*L*</sub>.
-			6. Project the original vectors into a lower dimensional space, **T**<sub>*L*</sub>:
-			**T**<sub>*L*</sub> = **ZQ**<sub>*L*</sub>
+			<div class="highlight highlight-source-shell">
+				<ol>
+					<li>Mean-centre the data vectors</li>
+					<li>Form the vectors into a matrix **Z**, such that each row corresponds to a vector</li>
+					<li>Perform the Eigendecomposition of the matrix **Z**<sup>T</sup>**Z**, to recover the eigenvector matrix **Q** and diagonal eigenvalue matrix **Λ**: **Z**<sup>T</sup>**Z** = **QΛQ**<sup>-1</sup></li>
+					<li>Sort the columns of **Q** and corresponding diagonal values of **Λ** so that the eigenvalues are decreasing.</li>
+					<li>Select the *L* largest eigenvectors of **Q** (the first *L* columns) to create the transform matrix **Q**<sub>*L*</sub>.</li>
+					<li>Project the original vectors into a lower dimensional space, **T**<sub>*L*</sub>: **T**<sub>*L*</sub> = **ZQ**<sub>*L*</sub></li>
+			</ol></div>
 
 * Singular Value Decomposition (SVD)
 	* Recall the rank, *ρ*, of a matrix, **M** is the number of linearly independent rows or columns: *ρ* = rank(**M**)
@@ -126,10 +127,7 @@ Eigendecomposition (EVD) and Singular Value Decomposition (SVD) are important ma
 			* Solution for the non-zero *x* case is any right singular vector with a corresponding singular value of 0.
 				* Requires a modification to the SVD, called the "full SVD" to be computed, where the left and right singular vectors for the null-space of the matrix is computed (i.e. singular vectors that have corresponding singular values equal to zero).
 		* Data mining
-			* Model based CF
-			* Latent factor models
-			* Information retrieval
-			* ... *and many more*
+			* Model based CF, Latent factor models, Information retrieval, ... *and many more*
 * Computing SVD and EVD
 	* All general EVD algorithms are iterative
 	* Simplest classical approach to computing eigenvectors is the "Power Iteration"
@@ -153,4 +151,3 @@ Eigendecomposition (EVD) and Singular Value Decomposition (SVD) are important ma
 	* http://en.wikipedia.org/wiki/Eigenface 
 	* https://en.wikipedia.org/wiki/Singular_value_decomposition
 	* https://en.wikipedia.org/wiki/Power_iteration
-
