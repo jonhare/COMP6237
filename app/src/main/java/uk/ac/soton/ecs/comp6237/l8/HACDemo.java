@@ -45,7 +45,7 @@ import uk.ac.soton.ecs.comp6237.utils.Utils;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration;
 
 /**
- * Demo showing K-Means clustering
+ * Demo showing Hierarchial Agglomerative Clustering
  *
  * @author Jonathon Hare (jsh2@ecs.soton.ac.uk)
  */
