@@ -1,9 +1,9 @@
 *COMP6237 Data Mining*
 
-#Lecture 9 - Searching and Ranking
+# Lecture 9 - Searching and Ranking
 
-##Summary
+## Summary
 
-##Key points
+## Key points
 
-##Further Reading
+## Further Reading
