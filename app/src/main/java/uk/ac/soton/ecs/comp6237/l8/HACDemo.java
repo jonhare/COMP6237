@@ -43,6 +43,7 @@ import org.openimaj.math.geometry.shape.Rectangle;
 
 import uk.ac.soton.ecs.comp6237.utils.Utils;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration;
+import cern.colt.Arrays;
 
 /**
  * Demo showing Hierarchial Agglomerative Clustering
@@ -56,6 +57,21 @@ public class HACDemo extends MouseAdapter implements Slide, ActionListener {
 		BiCluster right;
 		float[] vec;
 		double distance;
+
+		List<float[]> getAllLeaves() {
+			final List<float[]> leafs = new ArrayList<>();
+			getAllLeaves(leafs);
+			return leafs;
+		}
+
+		private void getAllLeaves(List<float[]> leafs) {
+			if (left != null) {
+				left.getAllLeaves(leafs);
+				right.getAllLeaves(leafs);
+			} else {
+				leafs.add(vec);
+			}
+		}
 	}
 
 	private MBFImage image;
@@ -216,6 +232,16 @@ public class HACDemo extends MouseAdapter implements Slide, ActionListener {
 		newcluster.left = clusters.get(lowestpair[0]);
 		newcluster.right = clusters.get(lowestpair[1]);
 		newcluster.distance = closest;
+
+		final float[] mean = new float[2];
+		final List<float[]> leaves = newcluster.getAllLeaves();
+		for (final float[] v : leaves) {
+			mean[0] += v[0];
+			mean[1] += v[1];
+		}
+		mean[0] /= leaves.size();
+		mean[1] /= leaves.size();
+		System.out.println(Arrays.toString(newcluster.vec) + " " + Arrays.toString(mean));
 
 		image.drawLine((int) newcluster.left.vec[0], (int)
 				newcluster.left.vec[1], (int) newcluster.right.vec[0],
