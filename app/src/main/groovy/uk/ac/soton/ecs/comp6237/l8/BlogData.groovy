@@ -1,5 +1,6 @@
 package uk.ac.soton.ecs.comp6237.l8;
 
+
 public class BlogData {
 	List<String> blogNames
 	List<String> terms

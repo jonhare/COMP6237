@@ -122,7 +122,7 @@ This lecture summarises the different types of recommender systems and looks in 
 	- Monitoring/tracking behaviour
 
 ## Further Reading
-* Chapter 1 of "Programming Collective Intelligence" gives a good overview of the basic techniques.
+* Chapter 2 of "Programming Collective Intelligence" gives a good overview of the basic techniques.
 * Wikipedia has a good overview of Recommender Systems and Collaborative Filtering:
 	- https://en.wikipedia.org/wiki/Recommender_system
 	- https://en.wikipedia.org/wiki/Collaborative_filtering
