@@ -36,19 +36,19 @@ Date   | Semester Week | Lecturer(s)  | Topic                                   
 08-Feb | 3             | Markus       | Stats + R Lecture 4                          | 
 09-Feb |               | Jon          | Covariance, EVD, PCA and SVD                 | 
 12-Feb |               | Markus       | Stats + R                                    | 
-15-Feb | 4             | Jon          | Discovering Groups                           | 
-16-Feb |               | Jon          | Searching and ranking                        | 
+15-Feb | 4             | Markus       | Stats + R                                    | 
+16-Feb |               | Jon          | Discovering Groups                           | 
 19-Feb |               | Jon & Markus | Group coursework pitches                     | 
-22-Feb | 5             | Jon          | Document filtering                           | 
-23-Feb |               | Jon          | Modelling with decision trees                | 
+22-Feb | 5             | Jon          | Searching and ranking                        | 
+23-Feb |               | Jon          | Document filtering                           | 
 26-Feb |               |              |                                              | 
-29-Feb | 6             | Jon          | Building price models                        | 
-01-Mar |               | Jon          | Semantic spaces                              | 
+29-Feb | 6             | Jon          | Modelling with decision trees                | 
+01-Mar |               | Jon          | Building price models                        | 
 04-Mar |               |              |                                              | 
-07-Mar | 7             | Jon          | 'Market Basket' Analysis                     | 
-08-Mar |               | Jon          | Finding Independent Features                 | 
+07-Mar | 7             | Jon          | Semantic spaces                              |  
+08-Mar |               | Jon          | 'Market Basket' Analysis                     | 
 11-Mar |               |              |                                              | 
-14-Mar | 8             | Jon          | Generative modelling                         | 
+14-Mar | 8             | Jon          | Independent Features and Topic Modelling     | 
 15-Mar |               | Jon          | Big data processing                          | 
 18-Mar |               |              |                                              | 
 EASTER |               |              |                                              | 
