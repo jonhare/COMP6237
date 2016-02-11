@@ -3,8 +3,12 @@
 # Lecture 9 - Searching and Ranking
 
 ## Summary
+Search engines are a key tool for data mining; they in particular help us find _relevant information_ that meets an _information need_. In this lecture we'll focus on text search. We'll look at how text documents can be processed (feature extraction) and indexed to allow for _efficient_ retrieval. We'll also look in some detail about how documents can be ranked against a query to make the retrieval process _effective_.
 
 ## Key points
+
+
+
 
 ### Text-search basics
 - Most text-search systems (and textual document classification systems) represent the text in a form called a bag of words.

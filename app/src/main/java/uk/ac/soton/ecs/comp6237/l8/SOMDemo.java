@@ -54,9 +54,9 @@ public class SOMDemo implements Slide, ActionListener {
 	private JButton cnclBtn;
 	private volatile boolean isRunning;
 	private MBFImageRenderer renderer;
-	// private BlogData rawdata = BlogData.loadSmallData(50);
+	private BlogData rawdata = BlogData.loadSmallData(10);
 	// private BlogData rawdata = new BlogData();
-	private BlogData rawdata = RGBData.eightColors();
+	// private BlogData rawdata = RGBData.eightColors();
 	float[][] data = normalise(rawdata.getCounts());
 
 	private float[][][] som;

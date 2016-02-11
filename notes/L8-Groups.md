@@ -80,7 +80,7 @@ Being able to group data into clusters is a good basis for understanding that da
 	* The only variable of the mean shift algorithm is the __kernel__ and the __kernel bandwidth__ of a __kernel density estimator__.
 	* Clustering is an application of the mean shift procedure
 		- Automatically chooses the number of clusters!
-* The probability density function (PDF) of a continuous random variable is a function that describes the relative likelihood for this random variable to take on a given value
+* The PDF of a continuous random variable is a function that describes the relative likelihood for this random variable to take on a given value
 	* The PDF is non-negative everywhere and sums to 1
 * In the context of a feature space, the PDF is a function that tells you how likely it is that a featurevector is _drawn_ from a specific location in a feature space.
 	- A feature vector drawn from part of the space where there are lots of similar items would have a higher probability density than if the drawn feature vector were from a part of the space with very few similar items
@@ -135,7 +135,7 @@ Being able to group data into clusters is a good basis for understanding that da
 	* Just because axes are the oriented along greatest variances, doesn't mean similar items will appear close to each other
 
 #### Self Organising Maps 
-* A self-organizing map (SOM) is a type of artificial neural network (ANN) that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretised representation of the input space of the training samples, called a __map__. 
+* A __self-organizing map__ (__SOM__) or a _Kohonen Map_ is a type of __artificial neural network__ (__ANN__) that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretised representation of the input space of the training samples, called a __map__. 
 * Self-organizing maps are different from other artificial neural networks
 	- they apply competitive learning as opposed to error-correction learning (such as backpropagation with gradient descent),
 	- they use a neighbourhood function to preserve the topological properties of the input space.
@@ -147,7 +147,7 @@ Being able to group data into clusters is a good basis for understanding that da
 			+ The SOM maps high dimensional vectors to a 2D coordinate given by the unit which has a weight vector which is most similar to the input vector (typically in terms of Euclidean distance); this unit is called the _best matching unit_
 * The are two parts to using a SOM
 	*  The training process in which the weights of the units are learned
-	*  The projection process in which an vector is assigned to the _best matching unit_ (__BMU__)
+	*  The projection process in which an vector is assigned to the __best matching unit__ (__BMU__)
 		-  The coordinate of this unit is the projection of the input vector onto the 2D plane
 * Training a SOM:
 	- Prerequisite definitions - Let:
@@ -169,7 +169,7 @@ Being able to group data into clusters is a good basis for understanding that da
 				<li>α(_s_) defines the learning rate
 					<ul>
 						<li>Typically this is a function that falls off as iterations increase</li>
-						<li>for example: _r_<sub>_initial_</>exp(-_s_/_λ_), where _r_<sub>_initial_ is the initial learning rate (usually a small value between 0.1 and 0.001).</li>
+						<li>for example: _r_<sub>_initial_</sub>exp(-_s_/_λ_), where _r_<sub>_initial_</sub> is the initial learning rate (usually a small value between 0.1 and 0.001).</li>
 					</ul>
 				</li>
 			</ul>
@@ -185,7 +185,7 @@ Being able to group data into clusters is a good basis for understanding that da
 						__W__<sub>_v_</sub>(_s_ + 1) = __W__<sub>_v_</sub>(_s_) + Θ(_u_, _v_, _s_) α(_s_)(__D__(_t_) - __W__<sub>_v_</sub>(_s_))</li>
 				</ol>
 			</li>
-			<li>Increase s and repeat from step 2 while s < \lambda</li>
+			<li>Increase _s_ and repeat from step 2 while _s_ < _λ_</li>
 		</ol>
 	</div>
 * The SOM idea generalises in a number of ways:

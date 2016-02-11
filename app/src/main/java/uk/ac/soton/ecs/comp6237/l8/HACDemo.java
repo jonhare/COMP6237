@@ -46,11 +46,11 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration;
 import cern.colt.Arrays;
 
 /**
- * Demo showing Hierarchial Agglomerative Clustering
+ * Demo showing Hierarchial Agglomerative Clustering with WPGMC
  *
  * @author Jonathon Hare (jsh2@ecs.soton.ac.uk)
  */
-@Demonstration(title = "Hierarchial Agglomerative Clustering Demo")
+@Demonstration(title = "WPGMC Hierarchial Agglomerative Clustering Demo")
 public class HACDemo extends MouseAdapter implements Slide, ActionListener {
 	class BiCluster {
 		BiCluster left;
