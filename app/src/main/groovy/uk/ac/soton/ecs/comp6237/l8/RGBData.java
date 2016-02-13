@@ -1,6 +1,6 @@
 package uk.ac.soton.ecs.comp6237.l8;
 
-public class RGBData extends BlogData {
+public class RGBData extends ItemTermData {
 	public static RGBData threeColors() {
 		final RGBData rgb = new RGBData();
 		rgb.setCounts(new float[][] {
@@ -13,10 +13,10 @@ public class RGBData extends BlogData {
 				}
 		});
 
-		rgb.getBlogNames().clear();
-		rgb.getBlogNames().add("Red");
-		rgb.getBlogNames().add("Green");
-		rgb.getBlogNames().add("Blue");
+		rgb.getItemNames().clear();
+		rgb.getItemNames().add("Red");
+		rgb.getItemNames().add("Green");
+		rgb.getItemNames().add("Blue");
 
 		rgb.getTerms().clear();
 		rgb.getTerms().add("R");
@@ -33,15 +33,15 @@ public class RGBData extends BlogData {
 				{ 255, 255, 0 }, { 0, 255, 255 }, { 255, 0, 255 }, { 255, 255, 255 }
 		});
 
-		rgb.getBlogNames().clear();
-		rgb.getBlogNames().add("0 0 0");
-		rgb.getBlogNames().add("1 0 0");
-		rgb.getBlogNames().add("0 1 0");
-		rgb.getBlogNames().add("0 0 1");
-		rgb.getBlogNames().add("1 1 0");
-		rgb.getBlogNames().add("0 1 1");
-		rgb.getBlogNames().add("1 0 1");
-		rgb.getBlogNames().add("1 1 1");
+		rgb.getItemNames().clear();
+		rgb.getItemNames().add("0 0 0");
+		rgb.getItemNames().add("1 0 0");
+		rgb.getItemNames().add("0 1 0");
+		rgb.getItemNames().add("0 0 1");
+		rgb.getItemNames().add("1 1 0");
+		rgb.getItemNames().add("0 1 1");
+		rgb.getItemNames().add("1 0 1");
+		rgb.getItemNames().add("1 1 1");
 
 		rgb.getTerms().clear();
 		rgb.getTerms().add("R");

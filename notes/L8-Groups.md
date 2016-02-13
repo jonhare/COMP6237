@@ -103,8 +103,8 @@ Being able to group data into clusters is a good basis for understanding that da
 	<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \nabla f(\mathbf{x})  =  \frac{2c_{k,d}}{nh^{d+2}} \sum\limits_{i=1}^{n} (\mathbf{x} - \mathbf{x}_i) g\left( \left\Vert \frac{\mathbf{x} - \mathbf{x}_i}{h}\right\Vert^2 \right)"/>
 	<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small =  \frac{2c_{k,d}}{nh^{d+2}} \left[\sum\limits_{i=1}^{n} g\left( \left\Vert \frac{\mathbf{x} - \mathbf{x}_i}{h}\right\Vert^2 \right)\right]\left[\frac{\sum_{i=1}^n \mathbf{x}_ig\left( \left\Vert \frac{\mathbf{x} - \mathbf{x}_i}{h}\right\Vert^2 \right)}{\sum_{i=1}^{n}g\left( \left\Vert \frac{\mathbf{x} - \mathbf{x}_i}{h}\right\Vert^2 \right)}-\mathbf{x}\right]"/> <br/>
 	where _g_(_s_)=-_k_'(_s_). 
-		* The first term in the above is proportional to the density estimate at __x__ computed with a kernel _G_(__x__)=_c_<sub>_g,d_</sub>(||__x__||<sup>2</sup>), and the second term <br/>
-		<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \mathbf{m}_h(\mathbf{x})\frac{\sum_{i=1}^n \mathbf{x}_ig\left( \left\Vert \frac{\mathbf{x} - \mathbf{x}_i}{h}\right\Vert^2 \right)}{\sum_{i=1}^{n}g\left( \left\Vert \frac{\mathbf{x} - \mathbf{x}_i}{h}\right\Vert^2 \right)}-\mathbf{x}"/> <br/>
+		* The first term in the above is proportional to the density estimate at __x__ computed with a kernel _G_(__x__)=_c_<sub>_g,d_</sub>g(||__x__||<sup>2</sup>), and the second term <br/>
+		<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \mathbf{m}_h(\mathbf{x})=\frac{\sum_{i=1}^n \mathbf{x}_ig\left( \left\Vert \frac{\mathbf{x} - \mathbf{x}_i}{h}\right\Vert^2 \right)}{\sum_{i=1}^{n}g\left( \left\Vert \frac{\mathbf{x} - \mathbf{x}_i}{h}\right\Vert^2 \right)}-\mathbf{x}"/> <br/>
 		is the __mean shift__.
 			* The mean shift vector always points toward the direction of the maximum increase in the density. 
 	* The mean shift procedure, obtained by successive
@@ -211,7 +211,7 @@ Being able to group data into clusters is a good basis for understanding that da
 		- _Shepard-Kruskal non-metric scaling_
 	* Some stress functions can be solved using Eigendecomposition, however many must be solved using _gradient descent_ based optimisation
 		- e.g. for Sammon Mapping:
-			- Each point __z__<sub>_j_</sub> can be iteratively updated by: <img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \mathbf z_j(k+1) = \mathbf z_j(k) + \gamma_k\nabla_{\mathbf z_j}S(\mathbf z_1(k), \mathbf z_2(k), ..., \mathbf z_n(k))"/> <br/>
+			- Each point __z__<sub>_j_</sub> can be iteratively updated by: <img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \mathbf z_j(k+1) = \mathbf z_j(k) - \gamma_k\nabla_{\mathbf z_j}S(\mathbf z_1(k), \mathbf z_2(k), ..., \mathbf z_n(k))"/> <br/>
 			where ɣ is a scalar _learning rate_ (Sammon's original paper refers to this as the "magic factor"!) and the derivative of the stress function w.r.t __z__<sub>_j_</sub> is: <br/>
 			<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \nabla_{\mathbf z_j}S(\mathbf z_1(k), \mathbf z_2(k), ..., \mathbf z_n(k)) = 2\sum\limits_{i \ne j}\left(\frac{\Vert \mathbf z_i(k) - \mathbf z_j(k)\Vert - \delta_{ij}}{\delta_{ij}}\right)\left(\frac{\mathbf z_j(k) - \mathbf z_i(k)}{\Vert \mathbf z_i(k) - \mathbf z_j(k) \Vert}\right)"/>
 			

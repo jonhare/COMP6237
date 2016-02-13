@@ -54,9 +54,9 @@ public class SOMDemo implements Slide, ActionListener {
 	private JButton cnclBtn;
 	private volatile boolean isRunning;
 	private MBFImageRenderer renderer;
-	private BlogData rawdata = BlogData.loadSmallData(10);
-	// private BlogData rawdata = new BlogData();
-	// private BlogData rawdata = RGBData.eightColors();
+	// private ItemTermData rawdata = new ItemTermData("moduledata-small.txt");
+	// private ItemTermData rawdata = new BlogData();
+	private ItemTermData rawdata = RGBData.eightColors();
 	float[][] data = normalise(rawdata.getCounts());
 
 	private float[][][] som;
@@ -226,9 +226,9 @@ public class SOMDemo implements Slide, ActionListener {
 				}
 			}
 
-			System.out.println(rawdata.getBlogNames().get(k) + " " + bestScore);
+			System.out.println(rawdata.getItemNames().get(k) + " " + bestScore);
 
-			labels.add(IndependentPair.pair(rawdata.getBlogNames().get(k),
+			labels.add(IndependentPair.pair(rawdata.getItemNames().get(k),
 					new Point2dImpl(bestj * somfactor, besti * somfactor)));
 
 			// Perform update
