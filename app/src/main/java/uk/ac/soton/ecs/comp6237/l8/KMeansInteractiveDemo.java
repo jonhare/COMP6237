@@ -15,7 +15,9 @@ public class KMeansInteractiveDemo extends GroovyREPLConsoleSlide {
 
 	public KMeansInteractiveDemo() throws IOException {
 		super(JSplitPane.VERTICAL_SPLIT, Lecture8.class.getResource("kmeanscluster.groovy"),
-				"result = kmeans(moduledata.transpose())", "result = kmeans(moduledata)");
+				"prettyPrint(kmeans(moduledata.transpose(),20).items)",
+				"prettyPrint(result.topFeatures)",
+				"prettyPrint((result=kmeans(moduledata,20)).items)");
 	}
 
 	public static void main(String[] args) throws IOException {

@@ -107,7 +107,7 @@ where **T** is the transformed space (vectors *t<sub>i</sub>* from the rows of *
 			* The right singular vectors are the eigenvectors of **M**<sup>T</sup>**M**
 	* The singular values are the square roots of the corresponding eigenvalues of *both* **MM**<sup>T</sup> and **M**<sup>T</sup>**M**
 * Relationship of SVD to PCA
-	* If **Z** is a matrix of mean-centred feature vectors, then the left singular values of **Z** are the eigenvectors of **ZZ**<sup>T</sup> and thus are the principal components of **Z**
+	* If **Z** is a matrix of mean-centred feature vectors, then the right singular vectors of **Z** are the eigenvectors of **Z**<sup>T</sup>**Z** and thus are the principal components of **Z**
 		* This means you can actually perform PCA without explicitly computing the covariance matrix
 			* Better numerical stability
 			* Potentially much faster
