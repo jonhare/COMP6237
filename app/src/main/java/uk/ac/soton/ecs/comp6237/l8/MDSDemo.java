@@ -45,7 +45,7 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration;
  *
  * @author Jonathon Hare (jsh2@ecs.soton.ac.uk)
  */
-@Demonstration(title = "Multidimensional Scaling Demo")
+@Demonstration(title = "Multidimensional Scaling Demo (Sammon Mapping)")
 public class MDSDemo implements Slide, ActionListener {
 	private static final int MAX_ITER = 50000;
 	private static final double INIT_LEARNING_RATE = 0.005;

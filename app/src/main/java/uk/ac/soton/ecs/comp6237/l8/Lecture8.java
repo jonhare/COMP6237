@@ -20,13 +20,19 @@ public class Lecture8 {
 	public static void main(String[] args) throws IOException {
 		final List<Slide> slides = new ArrayList<Slide>();
 
-		for (int i = 1; i <= 52; i++) {
+		for (int i = 1; i <= 49; i++) {
 			slides.add(new PictureSlide(Lecture8.class.getResource(String.format("l8.%03d.jpeg", i))));
 		}
 
-		// slides.set(9, new CovarianceDemo());
-		// slides.set(27, new EigenDecompositionDemo());
-		// slides.set(33, new PCADemo());
+		slides.set(15, new HClusterDemo());
+		slides.set(16, new HClusterInteractiveDemo());
+		slides.set(19, new KMeansDemo());
+		slides.set(20, new KMeansInteractiveDemo());
+		slides.set(30, new MeanShiftDemo());
+
+		slides.set(33, new PCASlide());
+		slides.set(41, new SOMDemo());
+		slides.set(47, new MDSDemo());
 
 		new SlideshowApplication(slides, 1024, 768, Utils.BACKGROUND_IMAGE);
 	}
