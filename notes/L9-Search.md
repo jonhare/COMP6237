@@ -51,3 +51,9 @@ Search engines are a key tool for data mining; they in particular help us find _
 ### Other issues in search
 
 ## Further Reading
+
+
+
+
+f(\mathbf q,\mathbf d) = \sum\limits_{i=1}^N q_i y_i = \sum\limits_{w \in q \cap d}c(q,d)c(w,d)log\frac{M+1}{df(w)}
+
