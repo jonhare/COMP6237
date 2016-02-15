@@ -59,7 +59,7 @@ Reporting                 | Clear and professional reporting                    
 
 Standard ECS late submission penalties apply.
 
-Individual feedback will be given covering the above points.
+Written individual feedback will be given covering the above points, and will be emailed out once marking is complete.
 
 ## Tools
 You can use any available existing tools, programming environments and software libraries for this coursework. It is however important that you include full details in your report - this must include specific details about which specific variant of the standard techniques are being used, with references as appropriate. Also include any details of the implementation doing something non-standard (for example making approximations in the sake of efficiency), and all parameters.

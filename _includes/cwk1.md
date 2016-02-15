@@ -60,7 +60,7 @@ Reporting                    | Clear and professional reporting                 
 
 Standard ECS late submission penalties apply.
 
-Group feedback will be given covering the above points.
+Written group feedback will be given covering the above points, and will be emailed out once marking is complete.
 
 ### Marks split
 Team members should agree between themselves as to how the marks awarded for the team submission will be divided between the team members (see below for instructions on how to proceed if this is not possible). The Team Leader should print out the form [here](marks_split.pdf), complete it as agreed and arrange for every member of the team to sign and date it. The completed signed form must be submitted via the ECS Handin system with the conference paper. **An incomplete form (e.g. with missing signatures) means that the entire ECS Handin submission is incomplete and therefore subject to penalties.**
