@@ -18,6 +18,7 @@ Date     | Title        | Slides                             | Handouts
 25/1/16  | L1. Introduction to Data Mining | [PDF](./lectures/pdf/L1-Intro.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L1-Intro.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L1-Intro.md))
 2/2/16  | L6. Making Recommendations | [PDF](./lectures/pdf/L6-Recommendation.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L6-Recommendation.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L6-Recommendation.md)) 
 9/2/16  | L7. Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/L7-Covariance-PCA.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L7-Covariance-PCA.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L7-Covariance-PCA.md)) 
+16/2/16  | L8. Discovering Groups | [PDF](./lectures/pdf/L8-Groups.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L8-Groups.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L8-Groups.md)) 
 
 
 
