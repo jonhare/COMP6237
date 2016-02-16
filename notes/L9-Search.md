@@ -57,3 +57,4 @@ Search engines are a key tool for data mining; they in particular help us find _
 
 f(\mathbf q,\mathbf d) = \sum\limits_{i=1}^N q_i y_i = \sum\limits_{w \in q \cap d}c(q,d)c(w,d)log\frac{M+1}{df(w)}
 
+f(q,d) = \sum_{w \in q \cap d} \frac{c(w,q) \cdot c(w, d) \cdot (k_1 + 1)}{c(w, d) + k_1 \cdot \left(1 - b + b \cdot \frac{|d|}{\text{avgdl}}\right)} \cdot \log\frac{M-df(w)+0.5}{df(w)+0.5}
