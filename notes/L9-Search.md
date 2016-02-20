@@ -54,7 +54,8 @@ Search engines are a key tool for data mining; they in particular help us find _
 			+ Very hard to find the middle-ground
 		- Even if the classifier for result selection is accurate, can't assume that all documents are equally relevant
 			+ Relevance is clearly not a binary attribute
-	- ...indicates that results need to be prioritised - **ranking is needed!**
+	- ...indicates that results need to be prioritised 
+		- **ranking is needed!**
 	- Formalised by Robertson's **Probability Ranking Principle**:
 		+ Returning a ranked list of documents in descending order of probability that a document is relevant to the query is the optimal strategy under the following two assumptions: 
 			- The utility of a document (to a user) is **independent** of the utility of any other document 
@@ -133,9 +134,10 @@ Search engines are a key tool for data mining; they in particular help us find _
 
 
 ### Inside a retrieval system
-
-* Overview of key components:
-* Inside the index
+* Overview of key components: <br/>
+	<img width="60%" src="https://github.com/jonhare/COMP6237/raw/master/app/src/main/resources/uk/ac/soton/ecs/comp6237/l9/l9.036.jpeg"/>
+* Inside the index <br/>
+	<img width="60%" src="https://github.com/jonhare/COMP6237/raw/master/app/src/main/resources/uk/ac/soton/ecs/comp6237/l9/l9.037.jpeg"/>
 	- Four key components:
 		+ Inverted index
 		+ Document index
@@ -154,7 +156,8 @@ Search engines are a key tool for data mining; they in particular help us find _
 		+ Step 2: Sort tuples within the run and write to disk
 		+ Step 3: Pair-wise merge runs on disk
 		+ Step 4: Output inverted file 
-	- Runs typically set-up to exhaust memory before sorting and flushing to disk
+	- Runs typically set-up to exhaust memory before sorting and flushing to disk <br/>
+	<img width="60%" src="https://github.com/jonhare/COMP6237/raw/master/app/src/main/resources/uk/ac/soton/ecs/comp6237/l9/l9.039.jpeg"/>
 * Index compression is important for efficiency
 	- Leverage skewed distribution of values and use variable-length integer encoding 
 	- TF compression
