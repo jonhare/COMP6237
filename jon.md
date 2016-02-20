@@ -19,6 +19,6 @@ Date     | Title        | Slides                             | Handouts
 2/2/16  | L6. Making Recommendations | [PDF](./lectures/pdf/L6-Recommendation.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L6-Recommendation.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L6-Recommendation.md)) 
 9/2/16  | L7. Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/L7-Covariance-PCA.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L7-Covariance-PCA.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L7-Covariance-PCA.md)) 
 16/2/16  | L8. Discovering Groups | [PDF](./lectures/pdf/L8-Groups.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L8-Groups.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L8-Groups.md)) 
-
-
+16/2/16  | L9. Searching and Ranking | [PDF](./lectures/pdf/L9-Search.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L9-Search.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L9-Search.md))
+16/2/16  | L10. Document Filtering | [PDF](./lectures/pdf/L10-Filtering.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L10-Filtering.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L10-Filtering.md))
 
