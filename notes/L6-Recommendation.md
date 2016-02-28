@@ -55,17 +55,17 @@ This lecture summarises the different types of recommender systems and looks in 
 - Feature extractors are often defined so that they produce vectors that are close together for similar inputs (for some given notion of similarity between the input objects)
 - Closeness of two vectors can be computed in the feature space by measuring a distance between the vectors.
 - perhaps the most common distance measure is the Euclidean Distance or L2 distance, which represents the straight-line distance between two points **p** = *(p<sub>1</sub>, p<sub>2</sub>, ..., p<sub>n</sub>)* and **q** = *(q<sub>1</sub>, q<sub>2</sub>, ..., q<sub>n</sub>)*:<br />
-<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\textrm{D}_2(\mathbf{p},\mathbf{q})=\sqrt{\sum\limits_{i=1}^n(p_i-q_i)^2}"/>
+<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \textrm{D}_2(\mathbf{p},\mathbf{q})=\sqrt{\sum\limits_{i=1}^n(p_i-q_i)^2}"/>
 	- and equivalently in vector form: 
 	<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\textrm{D}_2(\mathbf{p},\mathbf{q})=||\mathbf{p}-\mathbf{q}||=\sqrt{(\mathbf{p}-\mathbf{q})^T(\mathbf{p}-\mathbf{q})}"/>
 - The L1 distance (aka taxicab or Manhattan distance) is also often used:
-<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\textrm{D}_1(\mathbf{p},\mathbf{q})=||\mathbf{p}-\mathbf{q}||_1=\sum\limits_{i=1}^n|p_i-q_i|"/>
+<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \textrm{D}_1(\mathbf{p},\mathbf{q})=||\mathbf{p}-\mathbf{q}||_1=\sum\limits_{i=1}^n|p_i-q_i|"/>
 
 - The Lp distances are a generalisation to other orders:
-<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\textrm{D}_p(\mathbf{x},\mathbf{y})=||\mathbf{x}-\mathbf{y}||_p=(\sum\limits_{i=1}^n|x_i-y_i|)^{\frac{1}{p}}"/>
+<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \textrm{D}_p(\mathbf{x},\mathbf{y})=||\mathbf{x}-\mathbf{y}||_p=(\sum\limits_{i=1}^n|x_i-y_i|)^{\frac{1}{p}}"/>
 
 - The Cosine similarity is another commonly used measure:
-	<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\cos(\theta)=\frac{p\cdot q}{||p|| ||q||}=\frac{\sum\limits_{i=1}^n p_i q_i}{\sqrt{\sum\limits_{i=1}^n p_i^2} \sqrt{\sum\limits_{i=1}^n q_i^2}}"/>
+	<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \cos(\theta)=\frac{p\cdot q}{||p|| ||q||}=\frac{\sum\limits_{i=1}^n p_i q_i}{\sqrt{\sum\limits_{i=1}^n p_i^2} \sqrt{\sum\limits_{i=1}^n q_i^2}}"/>
 	- **This is not a distance measure!**
 	- similarity=1 if vectors are in the same direction; decreases as angle increases
 	- Useful if you only care about relative direction, but not magnitude
@@ -75,8 +75,8 @@ This lecture summarises the different types of recommender systems and looks in 
 - But not all users have ratings for all items (i.e. the vectors are sparse)
 	- Need to take this into account, typically by only computing similarity over items users have in common (denoted below by the set *I<sub>xy</sub>* for users *x* and *y*)
 	- for example: 
-		- "Euclidean Similarity": <br /> <img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\textrm{sim}_{L2}(x,y) = \frac{1}{1+\sqrt{\sum\limits_{i \in I_{xy}}(r_{x,i}-r_{y,i})^2}}"/>
-		- "Pearson correlation": <img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\textrm{sim}_{pearson}(x,y) = \frac{\sum\limits_{i \in I_{xy}}(r_{x,i}-\bar{r_x})(r_{y,i}-\bar{r_y})}{\sqrt{\sum\limits_{i \in I_{xy}}(r_{x,i}-\bar{r_x})^2\sum\limits_{i \in I_{xy}}(r_{y,i}-\bar{r_y})^2}}"/>
+		- "Euclidean Similarity": <br /> <img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \textrm{sim}_{L2}(x,y) = \frac{1}{1+\sqrt{\sum\limits_{i \in I_{xy}}(r_{x,i}-r_{y,i})^2}}"/>
+		- "Pearson correlation": <img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \textrm{sim}_{pearson}(x,y) = \frac{\sum\limits_{i \in I_{xy}}(r_{x,i}-\bar{r_x})(r_{y,i}-\bar{r_y})}{\sqrt{\sum\limits_{i \in I_{xy}}(r_{x,i}-\bar{r_x})^2\sum\limits_{i \in I_{xy}}(r_{y,i}-\bar{r_y})^2}}"/>
 			- Pearson correlation automatically adjusts for grade inflation, where users have differing ideas of absolute ratings but are relatively consistent across items
 				- Grade inflation can be removed by data standardisation (mean-centring and normalising)
 
@@ -87,7 +87,7 @@ This lecture summarises the different types of recommender systems and looks in 
 		- Rather than considering all users, might want to only consider those that rated a specific item...
 
 * Recommending items for a user
-	- Predict the rating, *r<sub>u,i</sub>*, of an item *i* by user *u* as an aggregation of the ratings of item *i* by users similar to *u*: <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?r_{u,i} = \mathrm{aggr}_{\hat u \in U}(r_{\hat u, i})"/>, where *U* is the set *N* of top users most similar to *u* that rated item *i*.
+	- Predict the rating, *r<sub>u,i</sub>*, of an item *i* by user *u* as an aggregation of the ratings of item *i* by users similar to *u*: <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?\small r_{u,i} = \mathrm{aggr}_{\hat u \in U}(r_{\hat u, i})"/>, where *U* is the set *N* of top users most similar to *u* that rated item *i*.
 	- Possible aggregation functions:
 		- <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?\small r_{u,i} = \frac{1}{N} \sum\limits_{\hat u \in U} r_{\hat u, i}"/>
 		- <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?\small r_{u,i} = \frac{\sum\limits_{\hat u \in U} \mathrm{sim}(u, \hat u)r_{\hat u, i}}{\sum\limits_{\hat u \in U}|\mathrm{sim}(u, \hat u)|}"/>

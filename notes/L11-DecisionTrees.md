@@ -33,13 +33,13 @@ Decision trees provide a representation for classifiers that are easily understo
 		+ Often tree is created automatically and expert will use it to understand key factors and refine to match their own beliefs (**domain knowledge**)
 
 ### Learning Trees
-* Lots of different algorithms (largely originating from research in the 1980's):
+* Lots of different algorithms (largely originating from research in the 1980s):
 	- ID3 (Iterative Dichotomiser 3) 
 	- C4.5 (ID3's successor)
 	- CART (Classification And Regression Trees) - kind of a catch-all term referring to many of the different algorithms
 	- CHAID (CHi-squared Automatic Interaction Detector)
 * CART is based on a conceptually simple idea
-	- Recursively split dataset by choosing a feature and a value to split on
+	- Recursively split dataset by choosing a feature and a value to branch
 		- For numeric features splits can be `feature >= value`
 		- For categorical features split can be `feature == value`
 	- Key is choosing the optimal split
@@ -52,7 +52,7 @@ Decision trees provide a representation for classifiers that are easily understo
 					- if there are 4 labels with equal likelihood, Gini impurity is 0.75
 			- **Entropy**
 				+ Measure the amount of disorder in the set:<br/>
-				<img style="vertical-align:text-top;" src="http://latex.codecogs.com/svg.latex?\small I_{E}(f) = - \sum^{m}_{i=1} f_i \log^{}_2 f_i"/>
+				<img style="vertical-align:text-top;" src="http://latex.codecogs.com/svg.latex?\small I_{E}(f) = - \sum^{m}_{i=1} f_i \log_{2}f_i"/>
 					- if all items have the same label, entropy is 0 bits
 					- if there are 4 labels with equal likelihood, entropy is 2 bits
 	- Splitting a node: 
@@ -132,3 +132,8 @@ Decision trees provide a representation for classifiers that are easily understo
 	- https://en.wikipedia.org/wiki/Decision_tree_learning
 	- https://en.wikipedia.org/wiki/Pruning_(decision_trees)
 	- https://en.wikipedia.org/wiki/Gradient_boosting
+
+## Practical exercises
+* Have a play with the demos in the slides and make sure the results you get match those you compute by hand on the same data.
+* The demos in the slides have a function called `mdclassify` - this works in the same way the the `classify` function, but deals with missing data (represented by a Python `None` in the input). Read the code and have a play to understand how this works.
+
