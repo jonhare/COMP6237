@@ -89,9 +89,9 @@ This lecture summarises the different types of recommender systems and looks in 
 * Recommending items for a user
 	- Predict the rating, *r<sub>u,i</sub>*, of an item *i* by user *u* as an aggregation of the ratings of item *i* by users similar to *u*: <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?r_{u,i} = \mathrm{aggr}_{\hat u \in U}(r_{\hat u, i})"/>, where *U* is the set *N* of top users most similar to *u* that rated item *i*.
 	- Possible aggregation functions:
-		- <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?r_{u,i} = \frac{1}{N} \sum\limits_{\hat u \in U} r_{\hat u, i}"/>
-		- <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?r_{u,i} = \frac{\sum\limits_{\hat u \in U} \mathrm{sim}(u, \hat u)r_{\hat u, i}}{\sum\limits_{\hat u \in U}|\mathrm{sim}(u, \hat u)|}"/>
-		- <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?r_{u,i} = \bar{r}_u + \frac{\sum\limits_{\hat u \in U} \mathrm{sim}(u, \hat u)(r_{\hat u, i} - \bar{r}_{\hat{u}})}{\sum\limits_{\hat u \in U}|\mathrm{sim}(u, \hat u)|}"/>
+		- <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?\small r_{u,i} = \frac{1}{N} \sum\limits_{\hat u \in U} r_{\hat u, i}"/>
+		- <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?\small r_{u,i} = \frac{\sum\limits_{\hat u \in U} \mathrm{sim}(u, \hat u)r_{\hat u, i}}{\sum\limits_{\hat u \in U}|\mathrm{sim}(u, \hat u)|}"/>
+		- <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?\small r_{u,i} = \bar{r}_u + \frac{\sum\limits_{\hat u \in U} \mathrm{sim}(u, \hat u)(r_{\hat u, i} - \bar{r}_{\hat{u}})}{\sum\limits_{\hat u \in U}|\mathrm{sim}(u, \hat u)|}"/>
 
 ### Problems with user based CF
 * Computationally expensive if there are lots of users
@@ -103,7 +103,7 @@ This lecture summarises the different types of recommender systems and looks in 
 * Top-N items are computed and cached for every item
 	- Only updated occasionally on the assumption that product similarity doesn't change as frequently as user similarity
 * Recommendations are created by taking each item a user *u* has rated and scoring all products similar to those (excluding any the user has rated)
-	* Rating for an unrated item î computed as follows: <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?r_{u,\hat i} = \frac{\textrm{sim}(i,\hat i) r_{u,i}}{\sum\limits_{i^\prime  \in I}\textrm{sim}(i, i^\prime)}"/>, where *I* is the subset of *N* items similar to *i*, excluding items rated by user *u*
+	* Rating for an unrated item *î* computed as follows: <img style="vertical-align:middle" src="http://latex.codecogs.com/svg.latex?\small r_{u,\hat i} = \frac{\sum\limits_{i \in I}\textrm{sim}(\hat i, i) r_{u,i}}{\sum\limits_{i \in I}\textrm{sim}(\hat i, i)}"/>, where *I* is the subset of *N* items similar to *î*
 
 ### Item-based versus user-based
 * With small and dense data, performance of the two approaches is about equivalent

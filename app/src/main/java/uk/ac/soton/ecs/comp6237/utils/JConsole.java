@@ -90,8 +90,8 @@ import bsh.util.NameCompletion;
  * Modifications to work better with Groovysh by Jonathon Hare.
  */
 public class JConsole extends JScrollPane
-implements GUIConsoleInterface, Runnable, KeyListener,
-MouseListener, ActionListener, PropertyChangeListener
+		implements GUIConsoleInterface, Runnable, KeyListener,
+		MouseListener, ActionListener, PropertyChangeListener
 {
 	private static final long serialVersionUID = 1L;
 
@@ -137,8 +137,14 @@ MouseListener, ActionListener, PropertyChangeListener
 	// hack to prevent key repeat for some reason?
 	private boolean gotUp = true;
 
+	private String hackchar = ";";
+
 	public JConsole() {
 		this(null, null);
+	}
+
+	public void setPythonMode() {
+		hackchar = "";
 	}
 
 	public JConsole(InputStream cin, OutputStream cout)
@@ -246,23 +252,23 @@ MouseListener, ActionListener, PropertyChangeListener
 					text.setCaretPosition(cmdStart);
 				}
 			}
-		e.consume();
-		text.repaint();
-		break;
+			e.consume();
+			text.repaint();
+			break;
 
 		case (KeyEvent.VK_UP):
 			if (e.getID() == KeyEvent.KEY_PRESSED) {
 				historyUp();
 			}
-		e.consume();
-		break;
+			e.consume();
+			break;
 
 		case (KeyEvent.VK_DOWN):
 			if (e.getID() == KeyEvent.KEY_PRESSED) {
 				historyDown();
 			}
-		e.consume();
-		break;
+			e.consume();
+			break;
 
 		case (KeyEvent.VK_LEFT):
 		case (KeyEvent.VK_BACK_SPACE):
@@ -272,16 +278,16 @@ MouseListener, ActionListener, PropertyChangeListener
 				// See default case for workaround
 				e.consume();
 			}
-		break;
+			break;
 
 		case (KeyEvent.VK_RIGHT):
 			forceCaretMoveToStart();
-		break;
+			break;
 
 		case (KeyEvent.VK_HOME):
 			text.setCaretPosition(cmdStart);
-		e.consume();
-		break;
+			e.consume();
+			break;
 
 		case (KeyEvent.VK_U): // clear line
 			if ((e.getModifiers() & InputEvent.CTRL_MASK) > 0) {
@@ -289,7 +295,7 @@ MouseListener, ActionListener, PropertyChangeListener
 				histLine = 0;
 				e.consume();
 			}
-		break;
+			break;
 
 		case (KeyEvent.VK_ALT):
 		case (KeyEvent.VK_CAPS_LOCK):
@@ -327,15 +333,15 @@ MouseListener, ActionListener, PropertyChangeListener
 				}
 				e.consume();
 			}
-		break;
+			break;
 
 		case (KeyEvent.VK_TAB):
 			if (e.getID() == KeyEvent.KEY_RELEASED) {
 				final String part = text.getText().substring(cmdStart);
 				doCommandCompletion(part);
 			}
-		e.consume();
-		break;
+			e.consume();
+			break;
 
 		default:
 			if ((e.getModifiers() & (InputEvent.CTRL_MASK
@@ -370,7 +376,7 @@ MouseListener, ActionListener, PropertyChangeListener
 		// Character.isJavaIdentifierPart() How convenient for us!!
 		while (i >= 0 &&
 				(Character.isJavaIdentifierPart(part.charAt(i))
-						|| part.charAt(i) == '.'))
+				|| part.charAt(i) == '.'))
 			i--;
 
 		part = part.substring(i + 1);
@@ -452,7 +458,7 @@ MouseListener, ActionListener, PropertyChangeListener
 		String s = getCmd();
 
 		if (s.length() == 0) // special hack for empty return!
-			s = ";\n";
+			s = hackchar + "";// ";\n";
 		else {
 			history.add(s);
 			s = s + "\n";
