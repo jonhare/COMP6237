@@ -1,9 +1,9 @@
 *COMP6237 Data Mining*
 
-#Lecture 13 - Semantic Spaces
+# Lecture 13 - Semantic Spaces
 
-##Summary
+## Summary
 
-##Key points
+## Key points
 
-##Further Reading
+## Further Reading

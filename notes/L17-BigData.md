@@ -1,9 +1,9 @@
 *COMP6237 Data Mining*
 
-#Lecture 17 - Big Data Processing
+# Lecture 17 - Big Data Processing
 
-##Summary
+## Summary
 
-##Key points
+## Key points
 
-##Further Reading
+## Further Reading

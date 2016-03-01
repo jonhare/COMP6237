@@ -1,9 +1,9 @@
 *COMP6237 Data Mining*
 
-#Lecture 15 - Finding Independent Features
+# Lecture 15 - Finding Independent Features
 
-##Summary
+## Summary
 
-##Key points
-
-##Further Reading
+## Key points
+ 
+## Further Reading

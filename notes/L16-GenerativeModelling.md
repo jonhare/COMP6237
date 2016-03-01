@@ -1,9 +1,9 @@
 *COMP6237 Data Mining*
 
-#Lecture 16 - Generative Models
+# Lecture 16 - Generative Models
 
-##Summary
+## Summary
 
-##Key points
+## Key points
 
-##Further Reading
+## Further Reading

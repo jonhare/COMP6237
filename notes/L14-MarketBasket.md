@@ -1,9 +1,9 @@
 *COMP6237 Data Mining*
 
-#Lecture 14 - Market Basket Analysis
+# Lecture 14 - Market Basket Analysis
 
-##Summary
+## Summary
 
-##Key points
+## Key points
 
-##Further Reading
+## Further Reading
