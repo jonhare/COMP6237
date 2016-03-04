@@ -45,8 +45,8 @@ Date   | Semester Week | Lecturer(s)  | Topic                                   
 29-Feb | 6             | Jon          | Modelling with decision trees                | 
 01-Mar |               | Jon          | Modelling Prices & Nearest Neighbours        | 
 04-Mar |               |              |                                              | 
-07-Mar | 7             | Jon          | Semantic spaces & Latent Semantics           |  
-08-Mar |               | Jon          | 'Market Basket' Analysis                     | 
+07-Mar | 7             | Jon          | 'Market Basket' Analysis                     | 
+08-Mar |               | Jon          | Semantic spaces & Latent Semantics           |  
 11-Mar |               |              |                                              | 
 14-Mar | 8             | Jon          | Independent Features and Topic Modelling     | 
 15-Mar |               | Jon          | Big data processing                          | 
