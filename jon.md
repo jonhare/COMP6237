@@ -23,5 +23,7 @@ Date     | Title        | Slides                             | Handouts
 16/2/16  | L10. Document Filtering | [PDF](./lectures/pdf/L10-Filtering.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L10-Filtering.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L10-Filtering.md))
 29/2/16  | L11. Modelling with Decision Trees | [PDF](./lectures/pdf/L11-DecisionTrees.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L11-DecisionTrees.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L11-DecisionTrees.md))
 1/3/16  | L12. Modelling Prices & Nearest Neighbours | [PDF](./lectures/pdf/L12-KNN.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L12-KNN.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L12-KNN.md))
+7/3/16  | L13. Market Basket Analysis | [PDF](./lectures/pdf/L13-MarketBasket.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L13-MarketBasket.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L13-MarketBasket.md))
+8/3/16  | L14. Semantic Spaces | [PDF](./lectures/pdf/L14-SemanticSpaces.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L14-SemanticSpaces.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L14-SemanticSpaces.md))
 
 
