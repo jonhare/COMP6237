@@ -20,7 +20,7 @@ public class Lecture18 {
 	public static void main(String[] args) throws IOException {
 		final List<Slide> slides = new ArrayList<Slide>();
 
-		for (int i = 1; i <= 50; i++) {
+		for (int i = 1; i <= 30; i++) {
 			slides.add(new PictureSlide(Lecture18.class.getResource(String.format("l18.%03d.jpeg", i))));
 		}
 
