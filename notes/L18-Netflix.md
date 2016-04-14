@@ -5,7 +5,7 @@
 ## Summary
 The announcement and release of data for the "Netflix Challenge" in 2006 changed the way recommender systems research was done. Until this point research datasets of this size were simply not publicly available. The challenge itself also spawned a host of new ideas in recommender system design. 
 
-One idea that arose from the competition and had a lot of impact was to build factor models using SVD to create a low-rank approximation from which estimated ratings could be extracted; this in itself was not new, but the problem of the size of the data was a problem until in a blog post an alternative way of computing SVD was introduced that not only could work with the large amount of data in a time-efficient manner, but could also explicitly deal with the missing values.
+One idea that arose from the competition and had a lot of impact was to build factor models using SVD to create a low-rank approximation from which estimated ratings could be extracted. This in itself was not new, but the size of the data stopped this being practical until an alternative way of computing SVD was introduced by a blogger known as *Simon Funk* having a go at the challenge for himself. This new approach could not only work with a large amount of data in a time-efficient manner, but could also explicitly deal with the missing values.
 
 By 2010, we had learned another thing from the data released for the Netflix Challenge; even though it had been anonymised before release, through the use of some relatively simple data mining techniques, researchers demonstrated that it was highly probable that specific individuals could be identified. 
 
@@ -16,14 +16,14 @@ By 2010, we had learned another thing from the data released for the Netflix Cha
 	- for training over 100M <user, movie, date, rating> quadruplets 
 		+ from just under 500K users and 18K movies
 	- almost 3M <user, movie, date> triplets for performing testing
-		+ Online system would computer performance (using RMSE) of predicted ratings against the (hidden) actual ratings
+		+ Online system would compute performance (using RMSE) of predicted ratings against the (hidden) actual ratings
 * Lots of teams took part in the competition
 	- Led to a lot of new approaches to recommendation
 * Key findings:
 	- RMSE is not a good success measure
-		+ Doesn’t reflect user satisfaction
+		+ Doesn't reflect user satisfaction
 	- Time matters
-		+ Just because I liked something in the past doesn’t mean I would like it now
+		+ Just because I liked something in the past doesn't mean I would like it now
 	- Matrix Factorisation can be very powerful
 		+ SVD-like solutions played a very big part...
 	- One method is not enough
@@ -40,12 +40,12 @@ By 2010, we had learned another thing from the data released for the Netflix Cha
 		+ although won't necessarily be understandable as such
 * Just need to compute a rank-k SVD of the original ratings matrix, then reconstruct the estimate and read out the predicted ratings...
 	- Two problems:
-		+ The ratings matrix might be very big (in the Netflix data it would have over 8B elements)
+		+ The ratings matrix might be very big (in the Netflix data it would have over 8 Billion elements)
 			* Standard SVD solvers will have problems with that!
 		+ The ratings matrix is sparse because of the unknowns
 			* We don't really want to treat these as zeros
 	- Solution proposed by Simon Funk (aka Brandyn Webb)
-		+ Just solve it directly using stochastic gradient decent (SGD)
+		+ Just solve it directly using **stochastic gradient decent** (**SGD**)
 			* Turns out to be a rather simple and eloquent solution
 				- See the Appendix for the derivation
 				- It's approximate in the sense that if there is missing data it isn't really and SVD; if every value in the input ratings matrix was know it is exactly equivalent to SVD
@@ -66,8 +66,7 @@ By 2010, we had learned another thing from the data released for the Netflix Cha
 		+ Users only represented by sequential IDs
 		+ Only personal information about a user ID was the ratings of movies associated with it + the dates those ratings were created
 			* Some amount of random noise was added to the ratings and dates
-	- But, even with all this anonymisation it was possible to deanonymise some of the data and identify specific users
-		+ Literally by comparing against public ratings on IMDB
+	- But, even with all this anonymisation it was possible to deanonymise some of the data and identify specific users, literally by comparing against public ratings on IMDB
 
 <br/>
 <br/>
