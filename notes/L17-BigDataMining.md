@@ -164,9 +164,9 @@ In the last lecture we looked at how distributed computation over large amounts 
 	<strong>Output on shutdown:</strong> &lt;<em>Key:</em> null, <em>Value:</em> vector&gt;
 	Output K uniformly randomly sampled vectors on shutdown of the mapper.
 <strong>Reduce function:</strong>
-	<strong>Input:</strong> &lt;<em>Key:</em> centroid_id, <em>Value:</em> [vectors of the items assigned to the cluster]&gt;
-	<strong>Outputs:</strong> &lt;<em>Key:</em> Null, <em>Value:</em> centroid vector&gt;
-	Average the vectors to compute the new centroid, and emit this with a null key.
+	<strong>Input:</strong> &lt;<em>Key:</em> null, <em>Value:</em> [all sampled vectors]&gt;
+	<strong>Outputs:</strong> &lt;<em>Key:</em> Null, <em>Value:</em> sub sampled vectors&gt;
+	Select <em>K</em> items from the value list and return them
 </pre>
 </div>
 
