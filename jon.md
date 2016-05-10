@@ -30,3 +30,4 @@ Date     | Title        | Slides                             | Handouts
 19/4/16  | L17. Data Mining & Machine Learning with Big Data | [PDF](./lectures/pdf/L17-BigDataMining.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L17-BigDataMining.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L17-BigDataMining.md))
 26/4/16  | L18. Recommending Netflix Movies | [PDF](./lectures/pdf/L18-Netflix.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/L18-Netflix.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/L18-Netflix.md))
 29/4/16  | L19. Mining Events from Multimedia Streams | [PDF](./lectures/pdf/L19-SED.pdf) | [Paper 1](http://eprints.soton.ac.uk/352460/) [Paper 2](http://eprints.soton.ac.uk/380227/)
+10/5/16  | Exam Prep and Q&A | [PDF](./lectures/pdf/ExamPrepQA.pdf) | 
