@@ -62,7 +62,7 @@ This lecture summarises the different types of recommender systems and looks in 
 <img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \textrm{D}_1(\mathbf{p},\mathbf{q})=||\mathbf{p}-\mathbf{q}||_1=\sum\limits_{i=1}^n|p_i-q_i|"/>
 
 - The Lp distances are a generalisation to other orders:
-<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \textrm{D}_p(\mathbf{x},\mathbf{y})=||\mathbf{x}-\mathbf{y}||_p=(\sum\limits_{i=1}^n|x_i-y_i|)^{\frac{1}{p}}"/>
+<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \textrm{D}_p(\mathbf{x},\mathbf{y})=||\mathbf{x}-\mathbf{y}||_p=(\sum\limits_{i=1}^n|x_i-y_i|^p)^{\frac{1}{p}}"/>
 
 - The Cosine similarity is another commonly used measure:
 	<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \cos(\theta)=\frac{p\cdot q}{||p|| ||q||}=\frac{\sum\limits_{i=1}^n p_i q_i}{\sqrt{\sum\limits_{i=1}^n p_i^2} \sqrt{\sum\limits_{i=1}^n q_i^2}}"/>
