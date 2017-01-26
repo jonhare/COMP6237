@@ -3,7 +3,7 @@
 # Lecture 1 - Introduction to Data Mining
 
 ## Summary
-Data Mining is a process of transforming raw data into information. To quote from Wikipedia, data mining " is the computational process of discovering patterns in large data sets involving methods at the intersection of artificial intelligence, machine learning, statistics, and database systems." 
+Data Mining is a process of transforming raw data into information. To quote from Wikipedia, data mining "is the computational process of discovering patterns in large data sets involving methods at the intersection of artificial intelligence, machine learning, statistics, and database systems." 
 
 In this module you're going to learn about and experience a number of different aspects of data mining. This first lecture gives an overview of what data mining is and isn't, what types of data we might mine, the typical pipeline of all data mining systems and the two characteristic types of data mining approach.
 
