@@ -16,8 +16,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(title = "L12: Modelling Prices & Nearest Neighbours",
-		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L12-KNN.pdf",
-		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L12-KNN.pdf")
+handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/KNN.pdf",
+slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/KNN.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
 public class Lecture12 {
 	public static void main(String[] args) throws IOException {

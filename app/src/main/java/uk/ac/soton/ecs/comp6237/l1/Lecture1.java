@@ -13,8 +13,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(title = "L1: Introduction to Data Mining",
-handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L1-Intro.pdf",
-slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L1-Intro.pdf")
+		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/Intro.pdf",
+		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/Intro.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
 public class Lecture1 {
 	public static void main(String[] args) throws IOException {

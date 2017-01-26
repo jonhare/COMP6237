@@ -16,8 +16,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(title = "L11: Modelling with Decision Trees",
-		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L11-DecisionTrees.pdf",
-		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L11-DecisionTrees.pdf")
+handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/DecisionTrees.pdf",
+slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/DecisionTrees.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
 public class Lecture11 {
 	public static void main(String[] args) throws IOException {

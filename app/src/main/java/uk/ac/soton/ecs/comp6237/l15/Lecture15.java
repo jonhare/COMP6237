@@ -13,8 +13,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(title = "L15: Finding Independent Features",
-		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L15-TopicModelling.pdf",
-		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L14-TopicModelling.pdf")
+handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/TopicModelling.pdf",
+slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/TopicModelling.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
 public class Lecture15 {
 	public static void main(String[] args) throws IOException {

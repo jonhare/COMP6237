@@ -13,8 +13,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(title = "L9: Searching and Ranking",
-handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L9-Search.pdf",
-slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L9-Search.pdf")
+		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/Search.pdf",
+		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/Search.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
 public class Lecture9 {
 	public static void main(String[] args) throws IOException {

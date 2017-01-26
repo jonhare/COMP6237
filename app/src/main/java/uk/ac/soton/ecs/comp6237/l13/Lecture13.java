@@ -13,8 +13,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(title = "L13: Market Basket Analysis",
-		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L13-MarketBasket.pdf",
-		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L13-MarketBasket.pdf")
+handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/MarketBasket.pdf",
+slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/MarketBasket.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
 public class Lecture13 {
 	public static void main(String[] args) throws IOException {

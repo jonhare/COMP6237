@@ -13,8 +13,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(title = "L14: Semantic Spaces",
-		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L14-SemanticSpaces.pdf",
-		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L14-SemanticSpaces.pdf")
+handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/SemanticSpaces.pdf",
+slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/SemanticSpaces.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
 public class Lecture14 {
 	public static void main(String[] args) throws IOException {

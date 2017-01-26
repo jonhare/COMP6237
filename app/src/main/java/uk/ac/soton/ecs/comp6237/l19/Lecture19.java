@@ -15,8 +15,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(title = "L19: Mining Events from Multimedia Streams",
-		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L19-SED.pdf",
-		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L19-SED.pdf")
+handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/SED.pdf",
+slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/SED.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
 public class Lecture19 {
 	public static void main(String[] args) throws IOException {

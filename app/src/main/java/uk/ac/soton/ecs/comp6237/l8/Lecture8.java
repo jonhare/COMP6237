@@ -13,8 +13,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(title = "L8: Discovering Groups",
-handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L8-Groups.pdf",
-slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L8-Groups.pdf")
+		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/Groups.pdf",
+		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/Groups.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
 public class Lecture8 {
 	public static void main(String[] args) throws IOException {

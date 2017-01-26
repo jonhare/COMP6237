@@ -13,8 +13,8 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(title = "L17: Data Mining and Machine Learning with Big Data",
-		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/L17-BigDataMining.pdf",
-		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/L17-BigDataMining.pdf")
+handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/BigDataMining.pdf",
+slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/BigDataMining.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
 public class Lecture17 {
 	public static void main(String[] args) throws IOException {
