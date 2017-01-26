@@ -3,8 +3,8 @@
 # Coursework 2: Understanding Data
 
 ## Brief
-Due date: Thursday 17th March 2016, 16:00.  
-Handin: [1516/COMP6237/3/](http://handin.ecs.soton.ac.uk/handin/1516/COMP6237/3/)  
+Due date: Wednesday 22th March 2017, 16:00.  
+Handin: [1617/COMP6237/3/](http://handin.ecs.soton.ac.uk/handin/1617/COMP6237/3/)  
 Required files: report.pdf  
 Data: [gap-html.zip](https://secure.ecs.soton.ac.uk/notes/comp6237/data/gap-html.zip)  
 Credit: 20% of overall module mark  
@@ -48,7 +48,7 @@ Full details of the marking scheme are given below:
 
 ### Mark Scheme
 
-The working notes paper will be marked using the following criteria:
+Good working notes papers not only effectively apply techniques and describe results, but also offer insight into the findings of the analysis in the context of the underlying data. The working notes paper will be marked using the following criteria:
 
 Criterion                 | Description                                                                                          | Marks
 --------------------------|------------------------------------------------------------------------------------------------------|-------

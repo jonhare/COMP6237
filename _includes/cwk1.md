@@ -8,13 +8,13 @@ Credit: 30% of overall module mark
 Team size: 5 or 6 students.  
 
 ### Handin #1
-Due date: Friday 12th February 2016, 23:59.  
-Handin: [1516/COMP6237/1/](http://handin.ecs.soton.ac.uk/handin/1516/COMP6237/1/)  
+Due date: Friday 17th February 2017, 16:00.  
+Handin: [1617/COMP6237/1/](http://handin.ecs.soton.ac.uk/handin/1617/COMP6237/1/)  
 Required files: brief.pdf  
 
 ### Handin #2
-Due date: Thursday 5th May 2016, 16:00.  
-Handin: [1516/COMP6237/2/](http://handin.ecs.soton.ac.uk/handin/1516/COMP6237/2/)  
+Due date: Wednesday 10th May 2017, 16:00.  
+Handin: [1617/COMP6237/2/](http://handin.ecs.soton.ac.uk/handin/1617/COMP6237/2/)  
 Required files: paper.pdf; mark_split.pdf  
 
 ## Overview
@@ -26,20 +26,21 @@ Students will form groups of five or six members. Each group will propose a proj
 ### Deliverables
 There are four deliverables for this coursework:
 
-* **Project Brief.** Teams must submit a short (1 side A4 max) project brief by **Friday 12th February**. In addition to describing the proposed project, the brief must include the names and email addresses of all the team members.
-* **Project Pitch + Q&A.** In the tutorial slot on the Friday of week 4 the groups will provide a 2 minute pitch of the project to the class, followed by 3 minutes of discussion.
-* **Conference Paper.** Teams must submit a final report in the style of a conference paper by **16:00 on Thursday 5th May** to ECS Handin. The paper must use the [ACM proceedings style](https://www.acm.org/publications/proceedings-template) and be at most 6 pages in length, including all references and appendices (if used). Additionally each team is required to submit a proposed marks distribution form (see below).
-* **Project Presentation.** Teams will present their work during the lecture/tutorial slots from the end of week 11. A timetable of presentations will be published nearer the time.
+* **Project Brief.** Teams must submit a short (1 side A4 max) project brief to ECS handin by **Friday 17th February**. In addition to describing the proposed project, the brief must include the names and email addresses of all the team members.
+* **Project Pitch + Q&A.** In the afternoon slot on the Friday of week 4 (24th Feb) the groups will provide a 2 minute pitch of the project to the class, followed by 3 minutes of open discussion/questions.
+* **Conference Paper.** Teams must submit a final report in the style of a conference paper by **16:00 on Wednesday 10th May** to ECS Handin. The paper must use the [ACM proceedings style](https://www.acm.org/publications/proceedings-template) and be at most 6 pages in length, including all references and appendices (if used). Additionally each team is required to submit a proposed marks distribution form (see below).
+* **Project Presentation.** Teams will present their work during the lecture/tutorial slots from the end of week 11. To ensure fairness, all teams must be prepared to present in the first of these sessions, and the presentation order will be picked randomly during the sessions.
 
 ### Notes
 * Students taking COMP6208 Advanced Machine Learning must ensure that they are tackling a different problem to the one they choose in that module.
-* Teams can book time to meet with the teaching staff during the tutorial slots in weeks 5 through 8 should they need help or guidance.
+* Teams can book time to meet with Markus or Jon (ideally in the unused lecture slots) should they need help or guidance. Enrique is available at the Zepler help desk every Monday and can also offer advice.
 * ECS Handin wasn't really designed with group submissions in mind; **each team should nominate a team leader to make the submission on behalf of their team**. The other team members will see that handin says that their submission is overdue, however this can be safely ignored.
 
 ## Marking and Feedback
 Each team will receive an overall mark (broken down into sub-categories). Individual marks will be assigned based on a split decided by the team. Full details below:
 
 #### Learning Outcomes
+
 * Solve real-word data-mining, data-indexing and information extraction tasks
 * Demonstrate knowledge and understanding of:
 	- Key concepts, tools and approaches for data mining on complex unstructured data sets
