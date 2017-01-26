@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "COMP3204/6223 Computer Vision"
+title: "COMP6237 Data Mining"
 subtitle: "Notes, Slides and Demos for COMP6237 2016-17"
 githubHeader: "true"
 credits: Maintained and taught by <a href="http://www.ecs.soton.ac.uk/people/jsh2">Dr Jonathon Hare</a> (<a href="https://github.com/jonhare">jonhare</a>)
