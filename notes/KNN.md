@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 12 - Modelling Prices
+# Modelling Prices
 
 ## Summary
 Predicting the price of an item based using the prices of similar items is something data mining is often used for. This is clearly a regression problem, although the underlying function could potentially be extremely complex. You've probably seen the **K Nearest Neighbours** (KNN) algorithm used for classification, but in this lecture you'll see how we can use it for regression. We'll look at a number of extensions of KNN and then look at how some of the computational problems associated with KNN-like methods can be mitigated.

@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 1 - Introduction to Data Mining
+# Introduction to Data Mining
 
 ## Summary
 Data Mining is a process of transforming raw data into information. To quote from Wikipedia, data mining "is the computational process of discovering patterns in large data sets involving methods at the intersection of artificial intelligence, machine learning, statistics, and database systems." 

@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 14 - Semantic Spaces
+# Semantic Spaces
 
 ## Summary
 Up to this point when we've been considering BOW models, we've always made the assumption that words are independent. This is clearly not the case with natural language however as there are many words which for example are synonymous. In this lecture we'll look at techniques which begin to deal with this problem and allow better measurements of distances between both words and documents to be made. We'll also look at extreme examples of dealing with synonyms where the words are in different languages, and even different modalities.

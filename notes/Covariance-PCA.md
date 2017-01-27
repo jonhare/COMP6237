@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 7 - Covariance, EVD, PCA & SVD
+# Covariance, EVD, PCA & SVD
 
 ## Summary
 Understanding the shape of data in a feature space is important to effectively using it. In addition, by understanding the distribution of really highly dimensional data, it is possible to determine the most important modes of variation of that data, and thus represent the data in a space with many fewer dimensions. This is the goal of Principle Component Analysis (PCA).

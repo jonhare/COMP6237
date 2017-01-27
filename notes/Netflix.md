@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 18: Recommending Netflix Movies
+# Recommending Netflix Movies
 
 ## Summary
 The announcement and release of data for the "Netflix Challenge" in 2006 changed the way recommender systems research was done. Until this point research datasets of this size were simply not publicly available. The challenge itself also spawned a host of new ideas in recommender system design. 

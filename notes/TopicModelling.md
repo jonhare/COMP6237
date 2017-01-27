@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 15 - Finding Independent Features
+# Finding Independent Features
 ## Summary
 In the last lecture we saw how the SVD could be used in the context of Latent Semantic Analysis (LSA) to decompose documents (and terms) into sets of concepts. The problem with this approach was that the concepts were not necessarily interpretable by a human. Topic modelling extends the idea of LSA, but works to ensure that the concepts (henceforth called "topics") are actually meaningful and interpretable.
 

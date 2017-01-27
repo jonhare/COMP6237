@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 16 - Big Data Processing
+# Big Data Processing
 
 ## Summary
 Big data is currently a very hot topic in machine learning, data analytics and computer science in general. Distributed computing techniques can help solve these problems, however, there can be problems with more traditional distributed computing methods as these require moving data to the processing units; with even moderately big data this is a massive bottleneck due to the limited I/O speeds of networks and disks. To be truly effective, distributed processing needs to be coupled with distributed data storage, and computational tasks need to be "pushed to the data" in order to minimise the amount of data that needs to be transferred. MapReduce is a popular computational framework that aims to achieve these goals by posing the computational processing task as map and reduce functions that are readily distributed to the data.

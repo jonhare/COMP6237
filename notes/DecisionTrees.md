@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 11 - Modelling with Decision Trees
+# Modelling with Decision Trees
 
 ## Summary
 Decision trees provide a representation for classifiers that are easily understood by humans. At each node of the tree, the decision to go to the left or right branch is based on a simple predicate formed from a single feature of the data. From the data-mining perspective, decision trees not only allow us to make classifiers, but also allow us to see which features are most important. In this lecture, we'll explore how to learn decision trees from data and explore the situations in which they should be used.

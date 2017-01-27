@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 17: Data Mining & Machine Learning with Big Data
+# Data Mining & Machine Learning with Big Data
 
 ## Summary
 

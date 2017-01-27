@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 10 - Document Filtering
+# Document Filtering
 
 ## Summary
 Document filtering - the ability to categorise a document as one of many known classes - is a classic data mining problem. In this lecture, we'll review the fundamentals of supervised machine learning and then look in detail at statistical classification techniques in which we compute and combine probabilities of features which can be measured to occur in documents.

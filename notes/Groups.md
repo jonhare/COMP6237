@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 8 - Discovering Groups
+# Discovering Groups
 
 ## Summary
 Being able to meaningfully cluster data into groups using **Clustering** or **Cluster Analysis** is a key part of the process of exploratory and descriptive data mining. Clustering techniques are all a form of unsupervised machine learning. Numerous techniques for clustering exist; in this lecture we'll look at two of the most common and useful: __Hierarchical Clustering__ and __K-Means Clustering__. We'll also look briefly at a more advanced, but computationally intensive algorithm called __Mean Shift Clustering__ that both produces clusters and finds the _modes_ of the data. 

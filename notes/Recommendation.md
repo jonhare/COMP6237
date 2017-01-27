@@ -1,6 +1,6 @@
 *COMP6237 Data Mining*
 
-# Lecture 6 - Making Recommendations
+# Making Recommendations
 
 ## Summary
 Recommender systems have increasingly become a common part of everyday life. Common examples include the recommendations Amazon makes for you about products you might like to buy, and the movies Netflix recommends you might enjoy watching. 
