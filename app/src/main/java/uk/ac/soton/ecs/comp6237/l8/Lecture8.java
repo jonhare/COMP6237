@@ -12,7 +12,8 @@ import uk.ac.soton.ecs.comp6237.utils.Utils;
 import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
-@Lecture(title = "L8: Discovering Groups",
+@Lecture(
+		title = "L8: Discovering Groups",
 		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/Groups.pdf",
 		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/Groups.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
@@ -32,7 +33,7 @@ public class Lecture8 {
 
 		slides.set(33, new PCASlide());
 		slides.set(41, new SOMDemo());
-		slides.set(47, new MDSDemo());
+		slides.set(46, new MDSDemo());
 
 		new SlideshowApplication(slides, 1024, 768, Utils.BACKGROUND_IMAGE);
 	}
