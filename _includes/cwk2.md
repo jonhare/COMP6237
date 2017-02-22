@@ -35,7 +35,7 @@ You can download the a Zip file containing the HTML pages with the OCR results [
 **The aim of this coursework is for you to explore how these 24 texts are related by applying appropriate data mining techniques.** You'll need to create software to extract the contents of the HTML files and build some form of feature representation to which you can apply standard descriptive data mining techniques. At a minimum, we're expecting you to experiment with Hierarchical Clustering and Multi-Dimensional Scaling, however you might also explore other approaches.
 
 ### Deliverable
-You need to produce a **concise** 2-page "working notes" paper (see http://ceur-ws.org/Vol-1043/ for examples of standard academic working notes papers) using the [ACM proceedings style](https://www.acm.org/publications/proceedings-template). The two page limit on the paper is final; no additional pages or appendices are permitted. We're expecting the paper to illustrate what you have done and also demonstrate your ability to interpret what the data mining techniques are showing.
+You need to produce a **concise** 2-page "working notes" paper (see http://ceur-ws.org/Vol-1043/ for examples of standard academic working notes papers) using the [standard 2017 ACM conference proceedings style](https://www.acm.org/publications/proceedings-template) (use the `sigconf` style option for the template). The two page limit on the paper is final; no additional pages or appendices are permitted. We're expecting the paper to illustrate what you have done and also demonstrate your ability to interpret what the data mining techniques are showing.
 
 ## Marking and Feedback
 Full details of the marking scheme are given below:
@@ -48,7 +48,7 @@ Full details of the marking scheme are given below:
 
 ### Mark Scheme
 
-Good working notes papers not only effectively apply techniques and describe results, but also offer insight into the findings of the analysis in the context of the underlying data. The working notes paper will be marked using the following criteria:
+Good working notes papers not only effectively apply techniques and describe results, but also **offer citical insight** into the findings of the analysis in the context of the underlying data. In particular you need to demonstrate that you understand the data, and, in the context of that understanding, that you can rationalise and reflect on why the analytic techniques are giving the results they do. The working notes paper will be marked using the following criteria:
 
 Criterion                 | Description                                                                                          | Marks
 --------------------------|------------------------------------------------------------------------------------------------------|-------
@@ -59,7 +59,7 @@ Reporting                 | Clear and professional reporting                    
 
 Standard ECS late submission penalties apply.
 
-Written individual feedback will be given covering the above points, and will be emailed out once marking is complete.
+Written individual feedback will be given covering the above points, and will be emailed out once marking is complete. We'll also use one of the lecture slots for a further group feedback as well as a discussion about the data and the analysis.
 
 ## Tools
 You can use any available existing tools, programming environments and software libraries for this coursework. It is however important that you include full details in your report - this must include specific details about which specific variant of the standard techniques are being used, with references as appropriate. Also include any details of the implementation doing something non-standard (for example making approximations in the sake of efficiency), and all parameters.
