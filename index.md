@@ -93,8 +93,7 @@ Materials to accompany the lectures can be found here:
 The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
 
 * **Coursework 1**. Set Tuesday 31st January. Due Wednesday 10th May, 16:00. Feedback by Wednesday 31st May : [Specification](cw/coursework1.html)
-* **Coursework 2**. Set Friday 24th February. Due Wednesday 22 March, 16:00. Feedback by Wednesday 3rd May : * 
-<!--- [Specification](cw/coursework2.html) --->
+* **Coursework 2**. Set Friday 24th February. Due Wednesday 22 March, 16:00. Feedback by Wednesday 3rd May : [Specification](cw/coursework2.html)
 
 ## Where to get additional help
 Talk to us! As we said above, you are more than welcome to arrange to meet with us in the unused lecture slots (or at other times if necessary) to discuss issues related to the course. <a href="http://www.ecs.soton.ac.uk/people/jsh2">Jon</a> ([email](mailto:jsh2@ecs.soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can both be reached by email or by coming to find us in our offices (1/2003 for Jon & 32/4033 for Markus). 
