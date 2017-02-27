@@ -47,7 +47,7 @@ Document filtering - the ability to categorise a document as one of many known c
 	p(f | c) = n(docs with feature f in class c) / n(docs in class c)
 		+ Estimates will be overly affected by lack of prior evidence due to _insufficient sample size_
 		+ Need a better way to estimate... use Bayesian statistics to create a prior based on an assumed initial probability: <br/>
-		p<sub>w</sub>(f | c) = (weight ⨉ assumed + count ⨉ p<sub>raw</sub>(f | c)) / (count + weight)
+		p<sub>w</sub>(f | c) = (weight ✕ assumed + count ✕ p<sub>raw</sub>(f | c)) / (count + weight)
 			* Assumption for this is that the classification for a given feature is _binomial_ with a _beta distribution_ prior
 	- Now want to compute the conditional probability of an entire document rather than a single word
 		+ If we make the assumption that the features are independent, then this is nothing more than the product of the per-feature conditionals: <br/>
@@ -60,7 +60,7 @@ Document filtering - the ability to categorise a document as one of many known c
 	- The ability to compute p(d|c) isn't directly useful to determining if a document is SPAM or not; actually want to compute p(c|d)
 		+ This is known as the posterior probability
 		+ Bayes theorem lets us convert a likelihood p(d|c) to the posterior p(c|d):
-			- p(c|d) = p(d|c) ⨉ p(c) / p(d)
+			- p(c|d) = p(d|c) ✕ p(c) / p(d)
 				+ p(c) is the **prior**; the probability a randomly selected document will be in class c
 					* the prior is either estimated empirically (i.e. n(docs in class c)/n(docs)) or set assuming all classes are equally likely (an **unbiased** prior)
 				+ p(d) doesn't actually matter - it's constant for all classes
@@ -78,7 +78,7 @@ Document filtering - the ability to categorise a document as one of many known c
 
 * Multiplying many small probabilities could be disastrous with fixed-precision floating point representations
 	- Underflow is highly likely to occur
-* Solution is to take logs to convert multiplication to addition (recall: log(a⨉b) = log(a) + log(b)):
+* Solution is to take logs to convert multiplication to addition (recall: log(a✕b) = log(a) + log(b)):
 	<img style="vertical-align:text-top;" src="http://latex.codecogs.com/svg.latex?\small \log(p(c|d)) \propto \log(p(c)) + \sum\limits_{f \in d}\log(p(f|c))"/>
 	
 ### Classifying spam: Fisher's Method
