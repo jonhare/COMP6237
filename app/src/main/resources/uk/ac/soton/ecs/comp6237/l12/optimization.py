@@ -166,7 +166,7 @@ def annealingoptimize(domain,costf,T=10000.0,cool=0.95,step=1):
     i=random.randint(0,len(domain)-1)
 
     # Choose a direction to change it
-    dir=random.randint(-step,step)
+    dir=(random.randint(0,1)*2 - 1)*step
 
     # Create a new list with one of the values changed
     vecb=vec[:]
@@ -177,7 +177,7 @@ def annealingoptimize(domain,costf,T=10000.0,cool=0.95,step=1):
     # Calculate the current cost and the new cost
     ea=costf(vec)
     eb=costf(vecb)
-    p=pow(math.e,(-eb-ea)/T)
+    p=pow(math.e,-(eb-ea)/T)
 
     print vec,ea
 
