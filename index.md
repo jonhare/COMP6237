@@ -68,7 +68,7 @@ EASTER |               |              |                                         
 25-Apr | 9             | Markus       | Networks -- data and analysis                   |
 27-Apr |               | Markus       | Networks -- analysis and models                 |
 28-Apr |               | Markus       | Tutorial/seminar: Network analysis              |
-29-Apr |               |              |                                                 |
+28-Apr |               |              |                                                 |
 02-May | 10            | Jon          | Individual Coursework Discussion + Q & A        |
 04-May |               | Markus       | Page rank                                       |
 05-May |               | Markus       | Network analysis tutorial/seminar               |
