@@ -75,10 +75,10 @@ EASTER |               |              |                                         
 05-May |               |              |                                                 |
 09-May | 11            | Jon          | Recommending Netflix Movies                     |
 11-May |               | Jon          | Social event detection in multimedia streams    |
-12-May |               |              |                                                 |
 12-May |               | Jon & Markus | Group presentations 1                           |
-16-May | 12            | Jon & Markus | Group presentations 2                           |
-18-May |               | Jon & Markus | Group presentations 3                           |
+12-May |               | Jon & Markus | Group presentations 2                           |
+16-May | 12            | Jon & Markus | Group presentations 3                           |
+18-May |               |              |                                                 |
 19-May |               | Jon          | Exam Revision/Q & A                             |
 19-May |               | Markus       | Exam Revision/Q & A                             |
 TBC    | 13 or 14      |              | **EXAM**                                        | 
