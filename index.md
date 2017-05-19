@@ -68,17 +68,17 @@ EASTER |               |              |                                         
 25-Apr | 9             | Markus       | Networks -- data and analysis                   |
 27-Apr |               | Markus       | Networks -- analysis and models                 |
 28-Apr |               | Markus       | Tutorial/seminar: Network analysis              |
-29-Apr |               |              |                                                 |
+28-Apr |               |              |                                                 |
 02-May | 10            | Jon          | Individual Coursework Discussion + Q & A        |
 04-May |               | Markus       | Page rank                                       |
 05-May |               | Markus       | Network analysis tutorial/seminar               |
 05-May |               |              |                                                 |
 09-May | 11            | Jon          | Recommending Netflix Movies                     |
 11-May |               | Jon          | Social event detection in multimedia streams    |
-12-May |               |              |                                                 |
 12-May |               | Jon & Markus | Group presentations 1                           |
-16-May | 12            | Jon & Markus | Group presentations 2                           |
-18-May |               | Jon & Markus | Group presentations 3                           |
+12-May |               | Jon & Markus | Group presentations 2                           |
+16-May | 12            | Jon & Markus | Group presentations 3                           |
+18-May |               |              |                                                 |
 19-May |               | Jon          | Exam Revision/Q & A                             |
 19-May |               | Markus       | Exam Revision/Q & A                             |
 TBC    | 13 or 14      |              | **EXAM**                                        | 
