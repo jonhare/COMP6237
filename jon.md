@@ -30,6 +30,4 @@ Date     | Title        | Slides                             | Handouts
 24/4/16  | Data Mining & Machine Learning with Big Data | [PDF](./lectures/pdf/BigDataMining.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/BigDataMining.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/BigDataMining.md))
 9/5/16   | Recommending Netflix Movies | [PDF](./lectures/pdf/Netflix.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Netflix.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Netflix.md))
 11/5/16  | Mining Events from Multimedia Streams | [PDF](./lectures/pdf/SED.pdf) | [Paper 1](http://eprints.soton.ac.uk/352460/) [Paper 2](http://eprints.soton.ac.uk/380227/)
-19/5/16  | Exam Prep and Q&A | TBC |
-
-<!--- [PDF](./lectures/pdf/ExamPrepQA.pdf) | --->
+19/5/16  | Exam Prep and Q&A | [PDF](./lectures/pdf/ExamPrepQA.pdf) | |
