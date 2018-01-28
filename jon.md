@@ -1,7 +1,7 @@
 ---
 layout: index
 title: "COMP6237 Data Mining"
-subtitle: "Notes, Slides and Demos for COMP6237 2016-17"
+subtitle: "Notes, Slides and Demos for COMP6237 2017-18"
 githubHeader: "true"
 credits: Maintained and taught by <a href="http://www.ecs.soton.ac.uk/people/jsh2">Dr Jonathon Hare</a> (<a href="https://github.com/jonhare">jonhare</a>)
 ---
@@ -15,19 +15,20 @@ The launcher program that opens when you launch the jar is self explanatory, but
 
 Date     | Title        | Slides                             | Handouts
 ---------| ------------ | ---------------------------------- | ---------
-31/1/16  | Introduction to Data Mining | [PDF](./lectures/pdf/Intro.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Intro.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Intro.md))
-21/2/16  | Making Recommendations | [PDF](./lectures/pdf/Recommendation.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Recommendation.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Recommendation.md)) 
-23/2/16  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/Covariance-PCA.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Covariance-PCA.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Covariance-PCA.md)) 
-24/2/16  | Discovering Groups | [PDF](./lectures/pdf/Groups.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Groups.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Groups.md)) 
-28/2/16  | Searching and Ranking | [PDF](./lectures/pdf/Search.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Search.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Search.md))
-2/3/16   | Document Filtering | [PDF](./lectures/pdf/Filtering.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Filtering.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Filtering.md))
-7/3/16   | Modelling with Decision Trees | [PDF](./lectures/pdf/DecisionTrees.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/DecisionTrees.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/DecisionTrees.md))
-9/3/16   | Modelling Prices & Nearest Neighbours | [PDF](./lectures/pdf/KNN.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/KNN.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/KNN.md))
-14/3/16  | Market Basket Analysis | [PDF](./lectures/pdf/MarketBasket.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/MarketBasket.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/MarketBasket.md))
-16/3/16  | Semantic Spaces | [PDF](./lectures/pdf/SemanticSpaces.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/SemanticSpaces.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/SemanticSpaces.md))
-21/3/16  | Finding Independent Features | [PDF](./lectures/pdf/TopicModelling.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/TopicModelling.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/TopicModelling.md))
-23/3/16  | Processing Big Data | [PDF](./lectures/pdf/BigData.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/BigData.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/BigData.md)) 
-24/4/16  | Data Mining & Machine Learning with Big Data | [PDF](./lectures/pdf/BigDataMining.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/BigDataMining.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/BigDataMining.md))
-9/5/16   | Recommending Netflix Movies | [PDF](./lectures/pdf/Netflix.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Netflix.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Netflix.md))
-11/5/16  | Mining Events from Multimedia Streams | [PDF](./lectures/pdf/SED.pdf) | [Paper 1](http://eprints.soton.ac.uk/352460/) [Paper 2](http://eprints.soton.ac.uk/380227/)
-19/5/16  | Exam Prep and Q&A | [PDF](./lectures/pdf/ExamPrepQA.pdf) | |
+29/1/18  | Introduction to Data Mining | [PDF](./lectures/pdf/Intro.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Intro.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Intro.md))
+19/2/18  | Making Recommendations | [PDF](./lectures/pdf/Recommendation.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Recommendation.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Recommendation.md)) 
+21/2/18  | Discovering Groups | [PDF](./lectures/pdf/Groups.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Groups.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Groups.md)) 
+22/2/18  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/Covariance-PCA.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Covariance-PCA.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Covariance-PCA.md)) 
+26/2/18  | Embedding Data | [PDF](./lectures/pdf/Embedding.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Embedding.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Embedding.md)) 
+28/2/18  | Searching and Ranking | [PDF](./lectures/pdf/Search.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Search.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Search.md))
+1/3/18   | Document Filtering | [PDF](./lectures/pdf/Filtering.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Filtering.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Filtering.md))
+5/3/18   | Modelling with Decision Trees | [PDF](./lectures/pdf/DecisionTrees.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/DecisionTrees.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/DecisionTrees.md))
+6/3/18   | Modelling Prices & Nearest Neighbours | [PDF](./lectures/pdf/KNN.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/KNN.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/KNN.md))
+7/3/18  | Market Basket Analysis | [PDF](./lectures/pdf/MarketBasket.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/MarketBasket.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/MarketBasket.md))
+8/3/18  | Semantic Spaces | [PDF](./lectures/pdf/SemanticSpaces.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/SemanticSpaces.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/SemanticSpaces.md))
+16/4/18  | Finding Independent Features | [PDF](./lectures/pdf/TopicModelling.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/TopicModelling.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/TopicModelling.md))
+18/4/18  | Processing Big Data | [PDF](./lectures/pdf/BigData.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/BigData.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/BigData.md)) 
+19/4/18  | Data Mining & Machine Learning with Big Data | [PDF](./lectures/pdf/BigDataMining.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/BigDataMining.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/BigDataMining.md))
+9/5/18   | Recommending Netflix Movies | [PDF](./lectures/pdf/Netflix.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Netflix.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Netflix.md))
+10/5/18  | Mining Events from Multimedia Streams | [PDF](./lectures/pdf/SED.pdf) | [Paper 1](http://eprints.soton.ac.uk/352460/) [Paper 2](http://eprints.soton.ac.uk/380227/)
+17/5/18  | Exam Prep and Q&A | [PDF](./lectures/pdf/ExamPrepQA.pdf) | |

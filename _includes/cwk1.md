@@ -5,38 +5,42 @@
 ## Brief
 Effort: ~40 hours per student  
 Credit: 30% of overall module mark  
-Team size: 5 or 6 students.  
+Team size: 5, 6 or 7 students.  
 
 ### Handin #1
-Due date: Friday 17th February 2017, 16:00.  
-Handin: [1617/COMP6237/1/](http://handin.ecs.soton.ac.uk/handin/1617/COMP6237/1/)  
+Due date: Friday 16th February 2018, 16:00.  
+Handin: [1718/COMP6237/1/](http://handin.ecs.soton.ac.uk/handin/1718/COMP6237/1/)  
 Required files: brief.pdf  
 
 ### Handin #2
-Due date: Wednesday 10th May 2017, 16:00.  
-Handin: [1617/COMP6237/2/](http://handin.ecs.soton.ac.uk/handin/1617/COMP6237/2/)  
+Due date: Wednesday 16th May 2018, 16:00.  
+Handin: [1718/COMP6237/2/](http://handin.ecs.soton.ac.uk/handin/1718/COMP6237/2/)  
 Required files: paper.pdf; mark_split.pdf  
 
 ## Overview
-In this coursework you form a team and choose a predictive data mining problem to tackle. Teams are expected to perform a series of experiments on their chosen problem in order to build a predictive model (or set of models) which they evaluate and compare (across techniques used by the team and any other published approaches). The team must present their work as a written conference paper together with an associated oral presentation. 
+In this coursework you form a team and choose a predictive data mining problem to tackle. Teams are expected to perform a series of experiments on their chosen problem in order to build a predictive model (or set of models) which they **evaluate** and **compare** (across techniques used by the team and any other published approaches). The team must present their work as a written conference paper. The team is also expected to orally present an interim progress report to the class in the week before the Easter vacation. 
 
 ## Details
-Students will form groups of five or six members. Each group will propose a project in consultation with members of staff; we expect that you'll pick a dataset or challenge that has been or is being used for current data mining research (see the links at the end of this document for some ideas). The project must demonstrate the team's ability to scientifically tackle a real-world *predictive* data-mining problem (as opposed to a *descriptive* or *understanding* type problem that you'll tackle in the individual coursework). 
+Students will form groups of five or six, or seven members. We've made a page on the student wiki to help you form teams: https://secure.ecs.soton.ac.uk/student/wiki/w/COMP6237-1718-classlist.
+
+Each group will propose a project in consultation with members of staff; we expect that you'll pick a dataset or challenge that has been or is being used for current data mining research (see the links at the end of this document for some ideas). The project must demonstrate the team's ability to scientifically tackle a real-world *predictive* data-mining problem (as opposed to a *descriptive* or *understanding* type problem that you'll tackle in the individual coursework).
 
 ### Deliverables
-There are four deliverables for this coursework:
 
-* **Project Brief.** Teams must submit a short (1 side A4 max) project brief to ECS handin by **Friday 17th February**. In addition to describing the proposed project, the brief must include the names and email addresses of all the team members.
-* **Project Pitch + Q&A.** In the afternoon slot on the Friday of week 4 (24th Feb) the groups will provide a 2 minute pitch of the project to the class, followed by 3 minutes of open discussion/questions.
-* **Conference Paper.** Teams must submit a final report in the style of a conference paper by **16:00 on Wednesday 10th May** to ECS Handin. The paper must use the [standard 2017 ACM conference proceedings style](https://www.acm.org/publications/proceedings-template) (use the `sigconf` style option for the template) and be at most 6 pages in length, including all references and appendices (if used). Additionally each team is required to submit a proposed marks distribution form (see below).
-* **Project Presentation.** Teams will present their work during the lecture/tutorial slots from the end of week 11. To ensure fairness, all teams must be prepared to present in the first of these sessions, and the presentation order will be picked randomly during the sessions.
+There are three deliverables for this coursework:
+
+* **Project Brief.** Teams must submit a short (1 side A4 max) project brief to ECS handin by **Friday 16th February**. In addition to describing the proposed project, the brief must include the names and email addresses of all the team members.
+* **Project Pitch, Progress Report and Q&A.** The lecture and tutorial slots in week 7 will be devoted to team progress presentations. Each team will have 7-10 minutes to present their idea to the class and describe the approaches they have taken (or are thinking of taking). This will be followed by a few minutes of questions and discussion. To ensure fairness, all teams must be prepared to present in the first of these sessions, and the presentation order will be picked randomly during the sessions (although teams can volunteer to go first).
+* **Conference Paper.** Teams must submit a final report in the style of a conference paper by **16:00 on Wednesday 16th May** to ECS Handin. The paper must use the [standard 2017 ACM conference proceedings style](https://www.acm.org/publications/proceedings-template) (use the `sigconf` style option for the template) and be at most 6 pages in length, including all references and appendices (if used). Additionally, each team is required to submit a proposed marks distribution form (see below).
 
 ### Notes
+
 * Students taking COMP6208 Advanced Machine Learning must ensure that they are tackling a different problem to the one they choose in that module.
 * Teams can book time to meet with Markus or Jon (ideally in the unused lecture slots) should they need help or guidance. Enrique is available at the Zepler help desk every Monday and can also offer advice.
 * ECS Handin wasn't really designed with group submissions in mind; **each team should nominate a team leader to make the submission on behalf of their team**. The other team members will see that handin says that their submission is overdue, however this can be safely ignored.
 
 ## Marking and Feedback
+
 Each team will receive an overall mark (broken down into sub-categories). Individual marks will be assigned based on a split decided by the team. Full details below:
 
 #### Learning Outcomes
