@@ -1,4 +1,4 @@
-package uk.ac.soton.ecs.comp6237.l12;
+package uk.ac.soton.ecs.comp6237.l4;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -13,17 +13,21 @@ import uk.ac.soton.ecs.comp6237.utils.annotations.JvmArgs;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Lecture;
 
 @Lecture(
-		title = "L12: Finding Independent Features",
-		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/TopicModelling.pdf",
-		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/TopicModelling.pdf")
+		title = "L4: Covariance, EVD, PCA & SVD",
+		handoutsURL = "https://github.com/jonhare/COMP6237/blob/master/notes/Covariance-PCA.pdf",
+		slidesURL = "http://comp6237.ecs.soton.ac.uk/lectures/pdf/Covariance-PCA.pdf")
 @JvmArgs(vmArguments = "-Xmx1G")
-public class Lecture12 {
+public class Lecture4 {
 	public static void main(String[] args) throws IOException {
 		final List<Slide> slides = new ArrayList<Slide>();
 
-		for (int i = 1; i <= 34; i++) {
-			slides.add(new PictureSlide(Lecture12.class.getResource(String.format("%03d.jpeg", i))));
+		for (int i = 1; i <= 52; i++) {
+			slides.add(new PictureSlide(Lecture4.class.getResource(String.format("l7.%03d.jpeg", i))));
 		}
+
+		slides.set(9, new CovarianceDemo());
+		slides.set(27, new EigenDecompositionDemo());
+		slides.set(33, new PCADemo());
 
 		new SlideshowApplication(slides, 1024, 768, Utils.BACKGROUND_IMAGE);
 	}

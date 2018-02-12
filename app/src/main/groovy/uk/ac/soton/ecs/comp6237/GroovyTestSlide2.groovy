@@ -2,8 +2,6 @@
 
 package uk.ac.soton.ecs.comp6237;
 
-import groovy.swing.SwingBuilder
-
 import java.awt.BorderLayout
 import java.awt.Color
 import java.awt.Component
@@ -16,7 +14,8 @@ import javax.swing.table.DefaultTableCellRenderer
 import org.openimaj.content.slideshow.Slide
 import org.openimaj.content.slideshow.SlideshowApplication
 
-import uk.ac.soton.ecs.comp6237.l6.MovieData;
+import groovy.swing.SwingBuilder
+import uk.ac.soton.ecs.comp6237.l2.MovieData;
 import uk.ac.soton.ecs.comp6237.utils.Utils
 
 public class GroovyTestSlide2 implements Slide {
