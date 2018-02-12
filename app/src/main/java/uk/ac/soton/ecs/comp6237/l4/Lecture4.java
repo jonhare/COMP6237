@@ -22,7 +22,7 @@ public class Lecture4 {
 		final List<Slide> slides = new ArrayList<Slide>();
 
 		for (int i = 1; i <= 52; i++) {
-			slides.add(new PictureSlide(Lecture4.class.getResource(String.format("l7.%03d.jpeg", i))));
+			slides.add(new PictureSlide(Lecture4.class.getResource(String.format("%03d.jpeg", i))));
 		}
 
 		slides.set(9, new CovarianceDemo());
