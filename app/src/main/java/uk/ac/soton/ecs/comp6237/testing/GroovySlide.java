@@ -1,9 +1,5 @@
 package uk.ac.soton.ecs.comp6237.testing;
 
-import groovy.lang.Binding;
-import groovy.lang.GroovyShell;
-import groovy.lang.Script;
-
 import java.awt.Component;
 import java.awt.Dimension;
 import java.io.IOException;
@@ -15,6 +11,9 @@ import javax.swing.JPanel;
 import org.openimaj.content.slideshow.Slide;
 import org.openimaj.content.slideshow.SlideshowApplication;
 
+import groovy.lang.Binding;
+import groovy.lang.GroovyShell;
+import groovy.lang.Script;
 import uk.ac.soton.ecs.comp6237.utils.Utils;
 
 public class GroovySlide implements Slide {
@@ -29,7 +28,7 @@ public class GroovySlide implements Slide {
 		final Binding sharedData = new Binding();
 		final GroovyShell shell = new GroovyShell(sharedData);
 		sharedData.setProperty("slidePanel", base);
-		final Script script = shell.parse(new InputStreamReader(GroovySlide.class.getResourceAsStream("test.groovy")));
+		final Script script = shell.parse(new InputStreamReader(GroovySlide.class.getResourceAsStream("../test.groovy")));
 		script.run();
 
 		// final RSyntaxTextArea textArea = new RSyntaxTextArea(20, 60);

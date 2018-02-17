@@ -1,4 +1,6 @@
-package uk.ac.soton.ecs.comp6237.l3;
+package uk.ac.soton.ecs.comp6237.l5;
+
+import static org.nd4j.linalg.factory.Nd4j.randn;
 
 import java.awt.Component;
 import java.awt.Dimension;
@@ -6,17 +8,15 @@ import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
-import javax.swing.JComboBox;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JSeparator;
 import javax.swing.SwingConstants;
 
+import org.deeplearning4j.plot.BarnesHutTsne;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
@@ -29,57 +29,59 @@ import org.jfree.chart.renderer.xy.XYLineAndShapeRenderer;
 import org.jfree.data.xy.AbstractXYDataset;
 import org.jfree.data.xy.XYDataset;
 import org.jfree.ui.TextAnchor;
+import org.nd4j.linalg.api.ndarray.INDArray;
+import org.nd4j.linalg.dimensionalityreduction.PCA;
+import org.nd4j.linalg.factory.Nd4j;
 import org.openimaj.content.slideshow.Slide;
 import org.openimaj.content.slideshow.SlideshowApplication;
-import org.openimaj.feature.FloatFV;
-import org.openimaj.feature.FloatFVComparator;
-import org.openimaj.feature.FloatFVComparison;
-import org.openimaj.math.geometry.line.Line2d;
-import org.openimaj.math.geometry.point.Point2dImpl;
 
 import uk.ac.soton.ecs.comp6237.l3.ItemTermData;
 import uk.ac.soton.ecs.comp6237.utils.Utils;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration;
 
-/**
- * Demo showing MDS
- *
- * @author Jonathon Hare (jsh2@ecs.soton.ac.uk)
- */
-@Demonstration(title = "Multidimensional Scaling Demo (Sammon Mapping)")
-public class MDSDemo implements Slide, ActionListener {
-	private static final int MAX_ITER = 50000;
-	private static final double INIT_LEARNING_RATE = 0.005;
-	private JButton runBtn;
-	private JButton cnclBtn;
-	private volatile boolean isRunning;
-	private FloatFVComparator distanceMeasure = null;
-	private JComboBox<String> distCombo;
-	private ItemTermData data = new ItemTermData("moduledata.txt");
-	private List<Point2dImpl> points = new ArrayList<Point2dImpl>();
-	private double[][] distances = new double[data.getItemNames().size()][data.getItemNames().size()];
-	private double[][] fakeDistances = new double[data.getItemNames().size()][data.getItemNames().size()];
+@Demonstration(title = "t-SNE Demo")
+public class TSNEDemo implements Slide, ActionListener {
+	private final int maxIter = 1000;
+	private final double realMin = 1e-12f;
+	private final double initialMomentum = 5e-1f;
+	private final double finalMomentum = 8e-1f;
+	private final double momentum = 5e-1f;
+	private final int switchMomentumIteration = 100;
+	private final boolean normalize = true;
+	private final int stopLyingIteration = 100;
+	private final double tolerance = 1e-5f;
+	private final double learningRate = 5e-1;// 1e-1f;
+	private final boolean useAdaGrad = true;
+	private final double perplexity = 30;
+	private final double minGain = 1e-1f;
+	private final double theta = 0.5;
+	private final boolean invert = true;
+	private final int numDim = 2;
+	private final String similarityFunction = "cosinesimilarity";
+
+	private ItemTermData rawdata = new ItemTermData("moduledata.txt");
+	INDArray Y = randn(rawdata.getCounts().length, 2, Nd4j.getRandom()).muli(1e-3f);
 
 	class Dataset extends AbstractXYDataset {
 		private static final long serialVersionUID = 1L;
 
 		@Override
 		public Number getY(int series, int item) {
-			return points.get(item).y;
+			return Y.getDouble(item, 1);
 		}
 
 		@Override
 		public Number getX(int series, int item) {
-			return points.get(item).x;
+			return Y.getDouble(item, 0);
 		}
 
 		public String getLabel(int series, int item) {
-			return data.getItemNames().get(item);
+			return rawdata.getItemNames().get(item);
 		}
 
 		@Override
 		public int getItemCount(int arg0) {
-			return data.getItemNames().size();
+			return rawdata.getItemNames().size();
 		}
 
 		@Override
@@ -94,14 +96,13 @@ public class MDSDemo implements Slide, ActionListener {
 	}
 
 	Dataset dataset = new Dataset();
+
+	private JButton runBtn;
+	private JButton cnclBtn;
+	private volatile boolean isRunning;
 	private JFreeChart chart;
 	private ChartPanel chartPanel;
 	private JLabel iterLabel;
-
-	public MDSDemo() {
-		for (int i = 0; i < dataset.getItemCount(0); i++)
-			this.points.add((Point2dImpl) Point2dImpl.createRandomPoint());
-	}
 
 	@Override
 	public Component getComponent(int width, int height) throws IOException {
@@ -156,17 +157,8 @@ public class MDSDemo implements Slide, ActionListener {
 		controls.setSize(new Dimension(width, 50));
 
 		controls.add(new JSeparator(SwingConstants.VERTICAL));
-		controls.add(new JLabel("Distance:"));
 
-		distCombo = new JComboBox<String>();
-		distCombo.addItem("Euclidean");
-		distCombo.addItem("1-Pearson");
-		distCombo.addItem("1-Cosine");
-		controls.add(distCombo);
-
-		controls.add(new JSeparator(SwingConstants.VERTICAL));
-
-		runBtn = new JButton("Run MDS");
+		runBtn = new JButton("Run t-SNE");
 		runBtn.setActionCommand("button.run");
 		runBtn.addActionListener(this);
 		controls.add(runBtn);
@@ -193,96 +185,48 @@ public class MDSDemo implements Slide, ActionListener {
 		return base;
 	}
 
-	private void initMDS() {
-		if (this.distCombo.getSelectedItem().equals("Euclidean"))
-			this.distanceMeasure = FloatFVComparison.EUCLIDEAN;
-		else if (this.distCombo.getSelectedItem().equals("1-Cosine"))
-			this.distanceMeasure = FloatFVComparison.COSINE_DIST;
-		else if (this.distCombo.getSelectedItem().equals("1-Pearson")) {
-			this.distanceMeasure = new FloatFVComparator() {
-
-				@Override
-				public double compare(FloatFV o1, FloatFV o2) {
-					return 1 - FloatFVComparison.CORRELATION.compare(o1, o2);
-				}
-
-				@Override
-				public boolean isDistance() {
-					return true;
-				}
-
-				@Override
-				public double compare(float[] h1, float[] h2) {
-					return 1 - FloatFVComparison.CORRELATION.compare(h1, h2);
-				}
-			};
-		}
-
-		// random init
-		this.points.clear();
-		final float[][] counts = data.getCounts();
-		for (int i = 0; i < distances.length; i++)
-		{
-			this.points.add((Point2dImpl) Point2dImpl.createRandomPoint());
-
-			for (int j = i + 1; j < distances.length; j++) {
-				double d = distanceMeasure.compare(counts[i], counts[j]);
-				if (d == 0)
-					d = 0.001;
-				distances[i][j] = d;
-				distances[j][i] = d;
-			}
-		}
-
-		updateImage();
-	}
-
 	private void updateImage() {
 		chart.getXYPlot().setDataset(chart.getXYPlot().getDataset());
 	}
 
-	double performStep(double lasterror, int iter) {
-		for (int i = 0; i < distances.length; i++) {
-			for (int j = i + 1; j < distances.length; j++) {
-				final double d = Line2d.distance(points.get(i), points.get(j));
-				fakeDistances[i][j] = d;
-				fakeDistances[j][i] = d;
+	public void run() {
+
+		final INDArray data = PCA.pca(Nd4j.create(rawdata.getCounts()), 50, true);
+		// final INDArray data = Nd4j.create(rawdata.getCounts());
+
+		System.out.println(data);
+
+		final BarnesHutTsne tsne = new BarnesHutTsne(numDim, similarityFunction, theta, invert, maxIter, realMin,
+				initialMomentum,
+				finalMomentum, momentum, switchMomentumIteration, normalize, stopLyingIteration, tolerance,
+				learningRate, useAdaGrad, perplexity, null, minGain)
+		{
+			@Override
+			public void step(INDArray p, int i) {
+				if (isRunning) {
+					super.step(p, i);
+					TSNEDemo.this.update();
+				} else {
+					this.maxIter = 0;
+				}
 			}
+		};
+
+		try {
+			Y = randn(rawdata.getCounts().length, 2, Nd4j.getRandom()).muli(1e-3f);
+			tsne.setData(Y);
+			updateImage();
+			Thread.sleep(1000);
+		} catch (final InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
 
-		final Point2dImpl[] grad = new Point2dImpl[distances.length];
-		for (int i = 0; i < distances.length; i++)
-			grad[i] = new Point2dImpl();
-
-		double totalError = 0;
-		for (int k = 0; k < distances.length; k++) {
-			for (int j = k + 1; j < distances.length; j++) {
-				if (k == j)
-					continue;
-
-				final double errorterm = (fakeDistances[j][k] - distances[j][k]) / distances[j][k];
-
-				grad[k].x += ((points.get(k).x - points.get(j).x) / fakeDistances[j][k]) * errorterm;
-				grad[k].y += ((points.get(k).y - points.get(j).y) / fakeDistances[j][k]) * errorterm;
-
-				totalError += Math.abs(errorterm);
-			}
-		}
-
-		if (totalError >= lasterror)
-			return totalError;
-
-		final float rate = getLearningRate(iter);
-		for (int k = 0; k < distances.length; k++) {
-			points.get(k).x -= rate * grad[k].x;
-			points.get(k).y -= rate * grad[k].y;
-		}
-
-		return totalError;
+		tsne.fit(data);
 	}
 
-	private float getLearningRate(int iter) {
-		return (float) (INIT_LEARNING_RATE * Math.exp(-iter / MAX_ITER));
+	void update() {
+		updateImage();
 	}
 
 	@Override
@@ -302,28 +246,7 @@ public class MDSDemo implements Slide, ActionListener {
 			new Thread(new Runnable() {
 				@Override
 				public void run() {
-					if (isRunning) {
-						initMDS();
-						try {
-							Thread.sleep(500);
-						} catch (final InterruptedException e) {
-							e.printStackTrace();
-						}
-					}
-
-					int iter = 0;
-					double lasterror = Double.MAX_VALUE;
-					while (isRunning && iter++ < MAX_ITER) {
-						final double thiserror = performStep(lasterror, iter);
-						iterLabel.setText(String.format("%4.2f %5d", thiserror, iter));
-						updateImage();
-
-						if (thiserror >= lasterror)
-							break;
-
-						lasterror = thiserror;
-					}
-					updateImage();
+					TSNEDemo.this.run();
 
 					runBtn.setEnabled(true);
 					cnclBtn.setEnabled(false);
@@ -337,6 +260,6 @@ public class MDSDemo implements Slide, ActionListener {
 	}
 
 	public static void main(String[] args) throws IOException {
-		new SlideshowApplication(new MDSDemo(), 1024, 768, Utils.BACKGROUND_IMAGE);
+		new SlideshowApplication(new TSNEDemo(), 1024, 768, Utils.BACKGROUND_IMAGE);
 	}
 }

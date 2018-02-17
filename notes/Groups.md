@@ -5,8 +5,6 @@
 ## Summary
 Being able to meaningfully cluster data into groups using **Clustering** or **Cluster Analysis** is a key part of the process of exploratory and descriptive data mining. Clustering techniques are all a form of unsupervised machine learning. Numerous techniques for clustering exist; in this lecture we'll look at two of the most common and useful: __Hierarchical Clustering__ and __K-Means Clustering__. We'll also look briefly at a more advanced, but computationally intensive algorithm called __Mean Shift Clustering__ that both produces clusters and finds the _modes_ of the data. 
 
-Being able to group data into clusters is a good basis for understanding that data, however, in many cases these clusters can be difficult to interpret. An alternative approach is to attempt to produce 2D visualisations (images) that highlight the key relationships in the data by projecting the data from a high dimensionality to two dimensions. We'll look at three key algorithms: **Principal Component Analysis (PCA)**, **Multidimensional Scaling (MDS)** and **Self Organising Maps (SOMs)**
-
 ## Key points
 
 ### Clustering
@@ -123,117 +121,16 @@ Being able to group data into clusters is a good basis for understanding that da
 		</ul>
 	</div>
 
-### Visualising Data in Two Dimensions
-* Sometimes rather than clustering data explicitly, we just want a way to visualise (through an image or diagram) which items are similar to each other and which are highly dissimilar
-	- Basically we want to map high dimensional data into a lower dimensional space in a meaningful way
-	- Lots of techniques allow us to do this:
-
-#### Principal Component Analysis (PCA)
-- __Principal component analysis__ allows us to project hight dimensional data into a lower dimensional space
-+ Could use PCA to create a scatter plot where the x and y axis are the first and second principal components
-	* No control over distance measure
-	* Just because axes are the oriented along greatest variances, doesn't mean similar items will appear close to each other
-
-#### Self Organising Maps 
-* A __self-organizing map__ (__SOM__) or a _Kohonen Map_ is a type of __artificial neural network__ (__ANN__) that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretised representation of the input space of the training samples, called a __map__. 
-* Self-organizing maps are different from other artificial neural networks
-	- they apply competitive learning as opposed to error-correction learning (such as backpropagation with gradient descent),
-	- they use a neighbourhood function to preserve the topological properties of the input space.
-* However, it's best not to think of SOMs in terms of neural networks!
-	* Consider a SOM as an _n_ by _m_ grid of _units_ where each unit has a weight vector with dimensionality equal to the dimensionality of the input vectors
-		- This is known as the _map_
-		- Units that are spatially close together are considered to be neighbours
-		- The _location_ of a unit in the grid can be considered to be a coordinate in 2D space
-			+ The SOM maps high dimensional vectors to a 2D coordinate given by the unit which has a weight vector which is most similar to the input vector (typically in terms of Euclidean distance); this unit is called the _best matching unit_
-* The are two parts to using a SOM
-	*  The training process in which the weights of the units are learned
-	*  The projection process in which an vector is assigned to the __best matching unit__ (__BMU__)
-		-  The coordinate of this unit is the projection of the input vector onto the 2D plane
-* Training a SOM:
-	- Prerequisite definitions - Let:
-		<div class="highlight highlight-source-shell">
-			<ul>
-				<li>_s_ define the current iteration</li>
-				<li>_λ_ define the maximum number of iterations</li>
-				<li>_t_ define the index of the target vector in the input dataset __D__</li>
-				<li>__D__(_t_) defines the target input vector</li>
-				<li>_v_ define an the index of a unit in the map</li>
-				<li>__W__<sub>_v_</sub> define the weight vector of unit _v_</li>
-				<li>_u_ is the BMU in the map</li>
-				<li>Θ(_u_,_v_,_s_) defines the neighbourhood weighting function
-					<ul>
-						<li>This produces a weight for the update of a neighbouring node based on its distance from the BMU</li>
-						<li>Common to use a Gaussian function</li>
-					</ul>
-				</li>
-				<li>α(_s_) defines the learning rate
-					<ul>
-						<li>Typically this is a function that falls off as iterations increase</li>
-						<li>for example: _r_<sub>_initial_</sub>exp(-_s_/_λ_), where _r_<sub>_initial_</sub> is the initial learning rate (usually a small value between 0.1 and 0.001).</li>
-					</ul>
-				</li>
-			</ul>
-		</div>
-	- Algorithm:
-	<div class="highlight highlight-source-shell">
-		<ol>
-			<li>Randomly assign weights to each unit</li>
-			<li>Traverse each input vector in the input data set
-				<ol>
-					<li>Find the BMU by computing the Euclidean distance of the input vector to each unit and picking the unit with the smallest distance
-					<li>Update the units in the neighbourhood of the BMU (including the BMU itself) by pulling them closer to the input vector: 
-						__W__<sub>_v_</sub>(_s_ + 1) = __W__<sub>_v_</sub>(_s_) + Θ(_u_, _v_, _s_) α(_s_)(__D__(_t_) - __W__<sub>_v_</sub>(_s_))</li>
-				</ol>
-			</li>
-			<li>Increase _s_ and repeat from step 2 while _s_ < _λ_</li>
-		</ol>
-	</div>
-* The SOM idea generalises in a number of ways:
-	- The map can be modified to have more (or fewer dimensions)
-	- The map needn't be a regular grid; any lattice structure upon which a neighbourhood function can be defined will work
-		+ Hexagonal lattices are fairly popular
-
-#### Multidimensional Scaling (MDS)
-- __Multidimensional Scaling (MDS)__ is an alternate approach to embedding high-dimensional data in a lower dimensional (typically 2D) space.
-+ Two main categories:
-	- __Metric MDS__: tries to optimise layout of points so that Euclidean distances in the lower dimensional space match original distances 
-	- __Non-metric MDS__: attempts to directly maintain the ordering or rank between items in the 2D projection compared to the ordering of the original distances
-+ Only requires distances between items as input
-	+ Unlike PCA and SOM there is no explicit mapping from points in the higher dimensional space to points in the lower dimensional space
-+ Irrespective of the category of the MDS algorithm, the key idea is to minimise a stress function
-	* The stress function describes how well the interpoint dissimilarities in the low-dimensional space preserve those in the original space
-	* Depending on the choice of stress function, the embedding can be non-linear
-	* A popular stress function for non-linear metric scaling is the __Sammon Mapping__: <br/>
-		<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small S(\mathbf z_1,\mathbf z_2,...,\mathbf z_n) = \sum\limits_{i \ne j}\frac{(\delta_{ij} - \Vert \mathbf z_i - \mathbf z_j \Vert)^2}{\delta_{ij}}"/> <br/>
-		where __z__<sub>_i_</sub> is the lower-dimensional vector for the _i_-th item and _δ_<sub>_ij_</sub> is the original distance between items _i_ and _j_
-	* Other popular stress functions include the
-		- _Least-squares scaling_ or _Kruskal-Shepard scaling_
-		- _Shepard-Kruskal non-metric scaling_
-	* Some stress functions can be solved using Eigendecomposition, however many must be solved using _gradient descent_ based optimisation
-		- e.g. for Sammon Mapping:
-			- Each point __z__<sub>_j_</sub> can be iteratively updated by: <img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \mathbf z_j(k+1) = \mathbf z_j(k) - \gamma_k\nabla_{\mathbf z_j}S(\mathbf z_1(k), \mathbf z_2(k), ..., \mathbf z_n(k))"/> <br/>
-			where ɣ is a scalar _learning rate_ (Sammon's original paper refers to this as the "magic factor"!) and the derivative of the stress function w.r.t __z__<sub>_j_</sub> is: <br/>
-			<img style="vertical-align:text-top" src="http://latex.codecogs.com/svg.latex?\small \nabla_{\mathbf z_j}S(\mathbf z_1(k), \mathbf z_2(k), ..., \mathbf z_n(k)) = 2\sum\limits_{i \ne j}\left(\frac{\Vert \mathbf z_i(k) - \mathbf z_j(k)\Vert - \delta_{ij}}{\delta_{ij}}\right)\left(\frac{\mathbf z_j(k) - \mathbf z_i(k)}{\Vert \mathbf z_i(k) - \mathbf z_j(k) \Vert}\right)"/>
-			
-#### Other techniques
-* Examples of other and more modern approaches to non-linear dimensionality reduction include
-	- ISOMAP
-	- Locally Linear Embedding (LLE)
-	- Principal curves
-
 ## Further Reading
 * Chapter 3 of "Programming Collective Intelligence" gives a good overview of the some of the basic techniques.
-* Relevant sections of Chapter 14 of [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf) provide a good academic introduction
+* Relevant sections of Chapter 14 of [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print10.pdf) provide a good academic introduction
 * Wikipedia has reasonable commentary (and good links to the original research) on a number of the topics: 
 	- https://en.wikipedia.org/wiki/Hierarchical_clustering
 	- https://en.wikipedia.org/wiki/K-means_clustering
 	- https://en.wikipedia.org/wiki/Mean_shift
-	- https://en.wikipedia.org/wiki/Multidimensional_scaling
-	- https://en.wikipedia.org/wiki/Self-organizing_map
 * [k-means++: the advantages of careful seeding](http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf). Arthur and Vassilvitskii. Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms. Society for Industrial and Applied Mathematics Philadelphia, PA, USA. pp. 1027–1035. 2007.
 * [Mean shift: A robust approach toward feature space analysis](http://www.caip.rutgers.edu/riul/research/papers/pdf/mnshft.pdf). Comaniciu and Meer. IEEE Trans. Pattern Anal. Machine Intell., 24:603–619, 2002.
-* Good descriptions of dimensionality reduction techniques and clustering:
+* Good descriptions of clustering techniques:
 	* Learning from Data: Concepts, Theory, and Methods (2nd ed.). Cherkassky and Mulier. John Wiley & Sons, Inc., New York, NY, USA.
-* [A Nonlinear Mapping for Data Structure Analysis](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1671271). Sammon. in Computers, IEEE Transactions on , vol.C-18, no.5, pp.401-409, May 1969
 
 
