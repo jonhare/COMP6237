@@ -48,7 +48,7 @@ Full details of the marking scheme are given below:
 
 ### Mark Scheme
 
-Good working notes papers not only effectively apply techniques and describe results, but also **offer citical insight** into the findings of the analysis in the context of the underlying data. In particular you need to demonstrate that you understand the data, and, in the context of that understanding, that you can rationalise and reflect on why the analytic techniques are giving the results they do. The working notes paper will be marked using the following criteria:
+Good working notes papers not only effectively apply techniques and describe results, but also **offer critical insight** into the findings of the analysis in the context of the underlying data. In particular you need to demonstrate that you understand the data, and, in the context of that understanding, that you can rationalise and reflect on why the analytic techniques are giving the results they do. The working notes paper will be marked using the following criteria:
 
 Criterion                 | Description                                                                                          | Marks
 --------------------------|------------------------------------------------------------------------------------------------------|-------
