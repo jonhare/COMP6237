@@ -29,7 +29,7 @@ public class Lecture14 {
 		for (int i = 6; i <= 30; i++)
 			slides.add(new PictureSlide(Lecture14.class.getResource(String.format("%03d.jpeg", i))));
 
-		slides.add(new BatchGradientDescentDemo());
+		slides.add(new GradientDescentDemo());
 
 		for (int i = 31; i <= 32; i++)
 			slides.add(new PictureSlide(Lecture14.class.getResource(String.format("%03d.jpeg", i))));

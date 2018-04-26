@@ -130,7 +130,7 @@ public abstract class AbstractGradientDescentDemo implements Slide, Runnable {
 		errorSeries = new double[][] { { 0 }, { computeError() } };
 		errorDataset.addSeries("data", errorSeries);
 		errorChart = ChartFactory.createXYLineChart("Error over time",
-				"Epoch", "Error", errorDataset,
+				"Iteration", "Error", errorDataset,
 				PlotOrientation.VERTICAL,
 				false, false, false);
 		((NumberAxis) errorChart.getXYPlot().getDomainAxis()).setRange(0, 1);
@@ -208,8 +208,8 @@ public abstract class AbstractGradientDescentDemo implements Slide, Runnable {
 	}
 
 	/**
-	 * Perform a single iteration (epoch) of gradient descent. Superclasses
-	 * should override.
+	 * Perform a single iteration (epoch) of gradient descent. Superclasses should
+	 * override.
 	 */
 	protected void performIteration() {
 

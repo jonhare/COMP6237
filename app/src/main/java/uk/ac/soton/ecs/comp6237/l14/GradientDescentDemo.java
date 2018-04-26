@@ -8,12 +8,12 @@ import uk.ac.soton.ecs.comp6237.utils.Utils;
 import uk.ac.soton.ecs.comp6237.utils.annotations.Demonstration;
 
 /**
- * Demo showing batch gradient descent to fit a line
+ * Demo showing gradient descent to fit a line
  *
  * @author Jonathon Hare (jsh2@ecs.soton.ac.uk)
  */
-@Demonstration(title = "Batch Gradient Descent Demo")
-public class BatchGradientDescentDemo extends AbstractGradientDescentDemo {
+@Demonstration(title = "Gradient Descent Demo")
+public class GradientDescentDemo extends AbstractGradientDescentDemo {
 	@Override
 	protected void performIteration() {
 		final double[] error = errorv(X, params);
@@ -30,6 +30,6 @@ public class BatchGradientDescentDemo extends AbstractGradientDescentDemo {
 	}
 
 	public static void main(String[] args) throws IOException {
-		new SlideshowApplication(new BatchGradientDescentDemo(), 1024, 768, Utils.BACKGROUND_IMAGE);
+		new SlideshowApplication(new GradientDescentDemo(), 1024, 768, Utils.BACKGROUND_IMAGE);
 	}
 }
