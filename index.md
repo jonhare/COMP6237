@@ -28,7 +28,7 @@ There will generally be three lectures each week, making use of the Monday, Wede
 
 When we are not using sessions for formal teaching, the rooms are available for you to use for the group project. At those times both Jon & Markus will endeavour to be in their respective offices should you wish to get assistance with any aspects of the course (it is advisable to email us before to give us a heads-up that you're coming though). 
 
-The current draft timetable is shown below - be aware that this might change (especially if you ask us to add additional tutorial sessions):
+The current timetable is shown below - be aware that this might change (especially if you ask us to add additional tutorial sessions):
 
 | Date       | Semester Week | Lecturer(s)  | Topic/Title                                   | 
 |------------|---------------|--------------|-----------------------------------------------| 
@@ -63,16 +63,16 @@ The current draft timetable is shown below - be aware that this might change (es
 | **EASTER** |               |              |                                               | 
 | 16-Apr     | 8             | Jon          | Independent Features and Topic Modelling      | 
 | 17-Apr     |               |              |                                               | 
-| 18-Apr     |               | Jon          | Big data processing                           | 
-| 19-Apr     |               | Jon          | Data-mining & machine learning with big data  | 
-| 23-Apr     | 9             | Markus       | Networks -- data and analysis                 | 
-| 24-Apr     |               |              |                                               | 
-| 25-Apr     |               | Markus       | Networks -- analysis and models               | 
-| 26-Apr     |               | Markus       | Network analysis tutorial/seminar             | 
-| 30-Apr     | 10            | Jon          | Individual Coursework Discussion + Q & A      | 
+| 18-Apr     |               | Markus       | Networks -- analysis and models               | 
+| 19-Apr     |               | Markus       | Networks -- data and analysis                 | 
+| 23-Apr     | 9             | Markus       | Network analysis tutorial/seminar             | 
+| 24-Apr     |               | Jon          | Individual Coursework Discussion + Q & A      | 
+| 25-Apr     |               | Jon          | Big data processing                           | 
+| 26-Apr     |               | Jon          | Data-mining & machine learning with big data  | 
+| 30-Apr     | 10            | Markus       | Page rank                                     | 
 | 01-May     |               |              |                                               | 
-| 02-May     |               | Markus       | Page rank                                     | 
-| 03-May     |               | Markus       | Network analysis tutorial/seminar             | 
+| 02-May     |               | Markus       | Network analysis tutorial/seminar             | 
+| 03-May     |               |              |                                               | 
 | 07-May     | 11            |              | **BANK HOLIDAY**                              | 
 | 08-May     |               |              |                                               | 
 | 09-May     |               | Jon          | Recommending Netflix Movies                   | 
