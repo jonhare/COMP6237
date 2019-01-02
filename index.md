@@ -60,24 +60,25 @@ The current timetable is shown below - be aware that this might change (especial
 | 13-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
 | 14-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
 | 15-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
-| 16-Apr     | 8             | Jo           | Independent Features and Topic Modelling      | 
-| 17-Apr     |               |              |                                               | 
-| 18-Apr     |               | Markus       | Networks -- analysis and models               | 
-| 19-Apr     |               | Markus       | Networks -- data and analysis                 | 
-| 23-Apr     | 9             | Markus       | Network analysis tutorial/seminar             | 
-| 24-Apr     |               | Jo           | Individual Coursework Discussion + Q & A      | 
-| 25-Apr     |               | Jo           | Big data processing                           | 
-| 26-Apr     |               | Jo           | Data-mining & machine learning with big data  | 
-| 30-Apr     | 10            | Markus       | Page rank                                     | 
-| 01-May     |               |              |                                               | 
-| 02-May     |               | Markus       | Network analysis tutorial/seminar             | 
-| 03-May     |               |              |                                               | 
-| 07-May     | 11            |              | **BANK HOLIDAY**                              | 
-| 08-May     |               |              |                                               | 
+| 18-Mar     | 8             | Jo           | Independent Features and Topic Modelling      | 
+| 19-Mar     |               |              |                                               | 
+| 21-Mar     |               | Markus       | Networks -- analysis and models               | 
+| 22-Mar     |               | Markus       | Networks -- data and analysis                 | 
+| 25-Mar     | 9             | Markus       | Network analysis tutorial/seminar             | 
+| 26-Mar     |               | Jo           | Individual Coursework Discussion + Q & A      | 
+| 27-Mar     |               | Jo           | Big data processing                           | 
+| 28-Mar     |               | Jo           | Data-mining & machine learning with big data  | 
+**Easter**
+| 29-Mar     | 10            | Markus       | Page rank                                     | 
+| 29-Apr     |               |              |                                               | 
+| 30-May     |               | Markus       | Network analysis tutorial/seminar             | 
+| 02-May     |               |              |                                               | 
+| 06-May     | 11            |              | **BANK HOLIDAY**                              | 
+| 07-May     |               |              |                                               | 
 | 09-May     |               | Jo           | Recommending Netflix Movies                   | 
 | 10-May     |               | Jo           | Social event detection in multimedia streams  | 
-| 14-May     | 12            |              |                                               | 
-| 15-May     |               |              |                                               | 
+| 13-May     | 12            |              |                                               | 
+| 14-May     |               |              |                                               | 
 | 16-May     |               | Markus       | Exam Revision/Q & A                           | 
 | 17-May     |               | Jo           | Exam Revision/Q & A                           | 
 | TBC.       | 13 or 14      |              | **EXAM**                                      | 
@@ -85,7 +86,7 @@ The current timetable is shown below - be aware that this might change (especial
 ## Lecture Materials
 Materials to accompany the lectures can be found here:
 
-* [Jo's material](jon.html)
+* [Jo's material](jo.html)
 * [Markus's material](http://users.ecs.soton.ac.uk/mb8/stats/datamining.html)
 
 ## Coursework
