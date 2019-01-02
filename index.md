@@ -54,27 +54,26 @@ The current timetable is shown below - be aware that this might change (especial
 | 01-Mar     |               | Jo           | Document filtering                            | 
 | 04-Mar     | 6             | Jo           | Modelling with decision trees                 | 
 | 05-Mar     |               | Jo           | Modelling Prices & Nearest Neighbours         | 
-| 07-Mar     |               | Jo           | ‘Market Basket’ Analysis                      | 
-| 08-Mar     |               | Jo           | Semantic spaces & Latent Semantics            | 
-| 12-Mar     | 7             | Jo & Markus  | _Group coursework presentations_              | 
-| 13-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
-| 14-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
-| 15-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
-| 18-Mar     | 8             | Jo           | Independent Features and Topic Modelling      | 
-| 19-Mar     |               |              |                                               | 
-| 21-Mar     |               | Markus       | Networks -- analysis and models               | 
-| 22-Mar     |               | Markus       | Networks -- data and analysis                 | 
-| 25-Mar     | 9             | Markus       | Network analysis tutorial/seminar             | 
-| 26-Mar     |               | Jo           | Individual Coursework Discussion + Q & A      | 
-| 27-Mar     |               | Jo           | Big data processing                           | 
-| 28-Mar     |               | Jo           | Data-mining & machine learning with big data  | 
-**Easter**
+| 07-Mar     |               |              |                                               | 
+| 08-Mar     |               | Jo           | ‘Market Basket’ Analysis                      | 
+| 12-Mar     | 7             | Jo           | Semantic spaces & Latent Semantics            |
+| 13-Mar     |               | Jo           | Independent Features and Topic Modelling      | 
+| 14-Mar     |               |              |                                               | 
+| 15-Mar     |               | Jo           | Big data processing                           | 
+| 18-Mar     | 8             | Markus       | Networks -- analysis and models               | 
+| 19-Mar     |               | Markus       | Networks -- data and analysis                 |  
+| 21-Mar     |               | Markus       | Network analysis tutorial/seminar             | 
+| 22-Mar     |               |              |                                               | 
+| 25-Mar     | 9             | Jo & Markus  | _Group coursework presentations_              | 
+| 26-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
+| 27-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
+| 28-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
 | 29-Mar     | 10            | Markus       | Page rank                                     | 
 | 29-Apr     |               |              |                                               | 
 | 30-May     |               | Markus       | Network analysis tutorial/seminar             | 
-| 02-May     |               |              |                                               | 
+| 02-May     |               | Jo & Markus  | Individual Coursework Discussion + Q & A      | 
 | 06-May     | 11            |              | **BANK HOLIDAY**                              | 
-| 07-May     |               |              |                                               | 
+| 07-May     |               | Jo           | Data-mining & machine learning with big data  | 
 | 09-May     |               | Jo           | Recommending Netflix Movies                   | 
 | 10-May     |               | Jo           | Social event detection in multimedia streams  | 
 | 13-May     | 12            |              |                                               | 
