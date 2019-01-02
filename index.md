@@ -69,15 +69,15 @@ The current timetable is shown below - be aware that this might change (especial
 | 27-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
 | 28-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
 | **Easter** |               |              |                                               | 
-| 28-Apr     | 10            | Markus       | Page rank                                     | 
-| 29-Apr     |               |              |                                               | 
-| 30-May     |               | Markus       | Network analysis tutorial/seminar             | 
-| 02-May     |               | Jo & Markus  | Individual Coursework Discussion + Q & A      | 
+| 29-Apr     | 10            | Markus       | Page rank                                     | 
+| 30-Apr     |               |              |                                               | 
+| 02-May     |               | Markus       | Network analysis tutorial/seminar             | 
+| 03-May     |               | Jo & Markus  | Individual Coursework Discussion + Q & A      | 
 | 06-May     | 11            |              | **BANK HOLIDAY**                              | 
 | 07-May     |               | Jo           | Data-mining & machine learning with big data  | 
-| 09-May     |               | Jo           | Recommending Netflix Movies                   | 
-| 10-May     |               | Jo           | Social event detection in multimedia streams  | 
-| 13-May     | 12            |              |                                               | 
+| 09-May     |               |              |                                               | 
+| 10-May     |               | Jo           | Recommending Netflix Movies                   | 
+| 13-May     | 12            | Jo           | Social event detection in multimedia streams  | 
 | 14-May     |               |              |                                               | 
 | 16-May     |               | Markus       | Exam Revision/Q & A                           | 
 | 17-May     |               | Jo           | Exam Revision/Q & A                           | 
@@ -86,7 +86,7 @@ The current timetable is shown below - be aware that this might change (especial
 ## Lecture Materials
 Materials to accompany the lectures can be found here:
 
-* [Jo's material](jo.html)
+* [Jo's material](jon.html)
 * [Markus's material](http://users.ecs.soton.ac.uk/mb8/stats/datamining.html)
 
 ## Coursework
