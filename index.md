@@ -56,8 +56,8 @@ The current timetable is shown below - be aware that this might change (especial
 | 05-Mar     |               | Jo           | Modelling Prices & Nearest Neighbours         | 
 | 07-Mar     |               |              |                                               | 
 | 08-Mar     |               | Jo           | ‘Market Basket’ Analysis                      | 
-| 12-Mar     | 7             | Jo           | Semantic spaces & Latent Semantics            |
-| 13-Mar     |               | Jo           | Independent Features and Topic Modelling      | 
+| 11-Mar     | 7             | Jo           | Semantic spaces & Latent Semantics            |
+| 12-Mar     |               | Jo           | Independent Features and Topic Modelling      | 
 | 14-Mar     |               |              |                                               | 
 | 15-Mar     |               | Jo           | Big data processing                           | 
 | 18-Mar     | 8             | Markus       | Networks -- analysis and models               | 
