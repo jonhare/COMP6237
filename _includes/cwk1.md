@@ -90,4 +90,4 @@ The following list has some pointers to places where you might get some inspirat
 * http://www.kdd.org/kdd-cup - KDD Cup is an annual data mining competition run by ACM SIG KDD; datasets, evaluation criteria, and info previous winners are available (note that the most recent competitions are actually hosted on kaggle.com).
 
 ## Questions
-If you have any problems/questions then [email](mailto:jh1c18@ecs.soton.ac.uk) or speak to [Jo](http://ecs.soton.ac.uk/people/jh1c18) in her office or after the lectures.
+If you have any problems/questions then [email](mailto:jh1c18@ecs.soton.ac.uk) or speak to [Jo](http://ecs.soton.ac.uk/people/jh1c18) or [email](mailto:mb8@ecs.soton.ac.uk) or speak to [Markus](http://ecs.soton.ac.uk/people/mb8)  in their offices or after the lectures.
