@@ -3,13 +3,13 @@ layout: index
 title: "COMP6237 Data Mining"
 subtitle: "Notes, Slides and Demos for COMP6237 2017-18"
 githubHeader: "true"
-credits: Maintained and taught by <a href="http://www.ecs.soton.ac.uk/people/jsh2">Dr Jonathon Hare</a> (<a href="https://github.com/jonhare">jonhare</a>)
+credits: Maintained and taught by <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Houghton</a> (<a href="https://github.com/jonhare">jonhare</a>)
 ---
 
 
 Jo's parts of the course will be taught through lectures and demonstrations, based on Jon Hare's lectures and demonstrations written for the course in previous years.
 
- The source-code of these demonstrations can be downloaded from the [Jon's github page](http://github.com/jonhare/COMP6237), where you'll find instructions on how they can be compiled. Feel free to create your own fork of the source, and contribute back improvements (or even bug fixes!). The slides are also available in static PDF format - these can be downloaded from the links in the table below, together with PDF copies of the handouts provided in the lecture.
+ The source-code of some of these demonstrations can be downloaded from the [Jon's github page](http://github.com/jonhare/COMP6237), where you'll find instructions on how they can be compiled. Feel free to create your own fork of the source, and contribute back improvements (or even bug fixes!). The slides are also available in static PDF format - these can be downloaded from the links in the table below, together with PDF copies of the handouts provided in the lecture.
 
 To run the interactive slides and demos application shown in the lecture you'll need to have Java 7 or later installed. The most recently compiled version of the interactive slides and demos can be downloaded from our continuous integration system [here](http://jenkins.ecs.soton.ac.uk/job/COMP6237/lastSuccessfulBuild/artifact/app/target/COMP6237-1.0-SNAPSHOT-jar-with-dependencies.jar). This will be updated throughout the course as the lecture material is finalised. After downloading, you should be able to run the jar by double clicking on it, or running from the command-line with `java -jar COMP6237-1.0-SNAPSHOT-jar-with-dependencies.jar`.
 
