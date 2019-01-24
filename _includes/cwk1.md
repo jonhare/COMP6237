@@ -8,12 +8,12 @@ Credit: 30% of overall module mark
 Team size: 5, 6 or 7 students.  
 
 ### Handin #1
-Due date: Friday 16th February 2018, 16:00.  
+Due date: Friday 15th February 2019, 16:00.  
 Handin: [1718/COMP6237/1/](http://handin.ecs.soton.ac.uk/handin/1718/COMP6237/1/)  
 Required files: brief.pdf  
 
 ### Handin #2
-Due date: Wednesday 16th May 2018, 16:00.  
+Due date: Wednesday 15th May 2019, 16:00.  
 Handin: [1718/COMP6237/2/](http://handin.ecs.soton.ac.uk/handin/1718/COMP6237/2/)  
 Required files: paper.pdf; mark_split.pdf  
 
@@ -29,9 +29,9 @@ Each group will propose a project in consultation with members of staff; we expe
 
 There are three deliverables for this coursework:
 
-* **Project Brief.** Teams must submit a short (1 side A4 max) project brief to ECS handin by **Friday 16th February**. In addition to describing the proposed project, the brief must include the names and email addresses of all the team members.
+* **Project Brief.** Teams must submit a short (1 side A4 max) project brief to ECS handin by **Friday 15th February**. In addition to describing the proposed project, the brief must include the names and email addresses of all the team members.
 * **Project Pitch, Progress Report and Q&A.** The lecture and tutorial slots in week 7 will be devoted to team progress presentations. Each team will have 7-10 minutes to present their idea to the class and describe the approaches they have taken (or are thinking of taking). This will be followed by a few minutes of questions and discussion. To ensure fairness, all teams must be prepared to present in the first of these sessions, and the presentation order will be picked randomly during the sessions (although teams can volunteer to go first).
-* **Conference Paper.** Teams must submit a final report in the style of a conference paper by **16:00 on Wednesday 16th May** to ECS Handin. The paper must use the [standard 2017 ACM conference proceedings style](https://www.acm.org/publications/proceedings-template) (use the `sigconf` style option for the template) and be at most 6 pages in length, including all references and appendices (if used). Additionally, each team is required to submit a proposed marks distribution form (see below).
+* **Conference Paper.** Teams must submit a final report in the style of a conference paper by **16:00 on Wednesday 15th May** to ECS Handin. The paper must use the [standard 2017 ACM conference proceedings style](https://www.acm.org/publications/proceedings-template) (use the `sigconf` style option for the template) and be at most 6 pages in length, including all references and appendices (if used). Additionally, each team is required to submit a proposed marks distribution form (see below).
 
 ### Notes
 
@@ -90,4 +90,4 @@ The following list has some pointers to places where you might get some inspirat
 * http://www.kdd.org/kdd-cup - KDD Cup is an annual data mining competition run by ACM SIG KDD; datasets, evaluation criteria, and info previous winners are available (note that the most recent competitions are actually hosted on kaggle.com).
 
 ## Questions
-If you have any problems/questions then [email](mailto:jsh2@ecs.soton.ac.uk) or speak to [Jon](http://ecs.soton.ac.uk/people/jsh2) in his office or after the lectures.
+If you have any problems/questions then [email](mailto:jh1c18@ecs.soton.ac.uk) or speak to [Jo](http://ecs.soton.ac.uk/people/jh1c18) in her office or after the lectures.
