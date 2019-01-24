@@ -1,9 +1,9 @@
 ---
 layout: index
 title: "COMP6237 Data Mining"
-subtitle: "2017-18"
+subtitle: "2018-19"
 githubHeader: "false"
-credits: Maintained by <a href="http://www.ecs.soton.ac.uk/people/jsh2">Dr Jonathon Hare</a>.
+credits: Maintained by <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Houghton</a>.
 ---
 
 Welcome to the homepage for the ECS [COMP6237 Data Mining](https://secure.ecs.soton.ac.uk/module/COMP6237) module.
@@ -38,43 +38,43 @@ The current timetable is shown below - be aware that this might change (especial
 | 01-Feb     |               | Markus       | Maximum Likelihood Estimation                 | 
 | 04-Feb     | 2             | Markus       | Tutorial/seminar: linear regression and MLE   | 
 | 05-Feb     |               | Markus       | Logistic regression                           | 
-| 07-Feb     |               | Jo & Markus  | Group coursework Q & A                        |
-| 08-Feb     |               | Markus       | Dealing with non-linear data                  | 
-| 11-Feb     | 3             | Markus       | Tutorial/seminar: logistic regression         | 
-| 12-Feb     |               |              |                                               | 
+| 07-Feb     |               |              |                                               |
+| 08-Feb     |               | Jo & Markus  | Group coursework Q & A                        |
+| 11-Feb     | 3             | Markus       | Dealing with non-linear data                  | 
+| 12-Feb     |               | Markus       | Tutorial/seminar: logistic regression         |
 | 14-Feb     |               |              |                                               |
 | 15-Feb     |               | Markus       | Intro to information theory                   | 
 | 18-Feb     | 4             | Jo           | Making recommendations                        | 
 | 19-Feb     |               | Jo           | Discovering Groups                            | 
-| 21-Feb     |               |              |                                               | 
-| 22-Feb     |               | Jo           | Refresher: Covariance, EVD, PCA and SVD       | 
-| 25-Feb     | 5             | Jo           | Embedding Data                                | 
-| 26-Feb     |               | Jo           | Searching and ranking                         |
+| 21-Feb     |               | Jo & Markus  | Group coursework Pitching                     |
+| 22-Feb     |               | Jo & Markus  | Group coursework Pitching                     |
+| 25-Feb     | 5             | Jo           | Refresher: Covariance, EVD, PCA and SVD       |   
+| 26-Feb     |               | Jo           | Embedding Data                                | 
 | 28-Feb     |               |              |                                               | 
-| 01-Mar     |               | Jo           | Document filtering                            | 
-| 04-Mar     | 6             | Jo           | Modelling with decision trees                 | 
-| 05-Mar     |               | Jo           | Modelling Prices & Nearest Neighbours         | 
+| 01-Mar     |               | Jo           | Searching and ranking                         |
+| 04-Mar     | 6             | Jo           | Document filtering                            | 
+| 05-Mar     |               |              |                                               | 
 | 07-Mar     |               |              |                                               | 
-| 08-Mar     |               | Jo           | ‘Market Basket’ Analysis                      | 
-| 11-Mar     | 7             | Jo           | Semantic spaces & Latent Semantics            |
-| 12-Mar     |               | Jo           | Independent Features and Topic Modelling      | 
+| 08-Mar     |               |              |                                               | 
+| 11-Mar     | 7             | Jo           | Modelling with decision trees                 | 
+| 12-Mar     |               | Jo           | Modelling Prices & Nearest Neighbours         | 
 | 14-Mar     |               |              |                                               | 
-| 15-Mar     |               | Jo           | Big data processing                           | 
-| 18-Mar     | 8             | Markus       | Networks -- analysis and models               | 
-| 19-Mar     |               | Markus       | Networks -- data and analysis                 |  
-| 21-Mar     |               | Markus       | Network analysis tutorial/seminar             | 
-| 22-Mar     |               |              |                                               | 
+| 15-Mar     |               |              |                                               | 
+| 18-Mar     | 8             | Jo           | ‘Market Basket’ Analysis                      | 
+| 19-Mar     |               | Jo           | Semantic spaces & Latent Semantics            | 
+| 21-Mar     |               |              |                                               |  
+| 22-Mar     |               | Jo           | Independent Features and Topic Modelling      | 
 | 25-Mar     | 9             | Jo & Markus  | _Group coursework presentations_              | 
 | 26-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
 | 27-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
 | 28-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
 | **Easter** |               |              |                                               | 
-| 29-Apr     | 10            | Markus       | Page rank                                     | 
-| 30-Apr     |               |              |                                               | 
+| 29-Apr     | 10            | Markus       | Networks -- analysis and models               | 
+| 30-Apr     |               | Markus       | Networks -- data and analysis                 | 
 | 02-May     |               | Markus       | Network analysis tutorial/seminar             | 
 | 03-May     |               | Jo & Markus  | Individual Coursework Discussion + Q & A      | 
 | 06-May     | 11            |              | **BANK HOLIDAY**                              | 
-| 07-May     |               | Jo           | Data-mining & machine learning with big data  | 
+| 07-May     |               | Markus       | Page rank                                     | 
 | 09-May     |               |              |                                               | 
 | 10-May     |               | Jo           | Recommending Netflix Movies                   | 
 | 13-May     | 12            | Jo           | Social event detection in multimedia streams  | 
