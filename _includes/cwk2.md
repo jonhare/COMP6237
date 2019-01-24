@@ -3,8 +3,8 @@
 # Coursework 2: Understanding Data
 
 ## Brief
-Due date: Friday 16th March 2018, 16:00.  
-Handin: [1718/COMP6237/3/](http://handin.ecs.soton.ac.uk/handin/1718/COMP6237/3/)  
+Due date: Friday 29th March 2019, 16:00.  
+Handin: 1819/COMP6237/3/
 Required files: report.pdf  
 Data: [gap-html.zip](https://secure.ecs.soton.ac.uk/notes/comp6237/data/gap-html.zip)  
 Credit: 20% of overall module mark  
@@ -65,4 +65,4 @@ Written individual feedback will be given covering the above points, and will be
 You can use any available existing tools, programming environments and software libraries for this coursework. It is however important that you include full details in your report - this must include details about which specific variant of the standard techniques are being used, with references as appropriate. Also include any details of the implementation doing something non-standard (for example making approximations in the sake of efficiency), and all parameters.
 
 ## Questions
-If you have any problems/questions then [email](mailto:jsh2@ecs.soton.ac.uk) or speak to [Jon](http://ecs.soton.ac.uk/people/jsh2) in his office or after the lectures.
+If you have any problems/questions then [email](mailto:j.houghton@ecs.soton.ac.uk) or speak to [Jo](http://ecs.soton.ac.uk/people/jh1c18) in her office or after the lectures.
