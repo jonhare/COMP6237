@@ -40,14 +40,14 @@ The current timetable is shown below - be aware that this might change (especial
 | 05-Feb     |               | Markus       | Logistic regression                           | 
 | 07-Feb     |               |              |                                               |
 | 08-Feb     |               | Jo & Markus  | Group coursework Q & A                        |
-| 11-Feb     | 3             | Markus       | Dealing with non-linear data                  | 
-| 12-Feb     |               | Markus       | Tutorial/seminar: logistic regression         |
+| 11-Feb     | 3             | Jo & Markus  | Group coursework Q & A                        |
+| 12-Feb     |               | Markus       | Dealing with non-linear data                  | 
 | 14-Feb     |               |              |                                               |
-| 15-Feb     |               | Markus       | Intro to information theory                   | 
-| 18-Feb     | 4             | Jo           | Making recommendations                        | 
-| 19-Feb     |               | Jo           | Discovering Groups                            | 
-| 21-Feb     |               | Jo & Markus  | Group coursework Pitching                     |
-| 22-Feb     |               | Jo & Markus  | Group coursework Pitching                     |
+| 15-Feb     |               | Markus       | Tutorial/seminar: logistic regression         |
+| 18-Feb     | 4             | Markus       | Intro to information theory                   | 
+| 19-Feb     |               | Jo           | Making recommendations                        | 
+| 21-Feb     |               |              |                                               |
+| 22-Feb     |               | Jo           | Discovering Groups                            | 
 | 25-Feb     | 5             | Jo           | Refresher: Covariance, EVD, PCA and SVD       |   
 | 26-Feb     |               | Jo           | Embedding Data                                | 
 | 28-Feb     |               |              |                                               | 
