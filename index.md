@@ -55,15 +55,15 @@ The current timetable is shown below - be aware that this might change (especial
 | 04-Mar     | 6             | Jo           | Document filtering                            | 
 | 05-Mar     |               |              |                                               | 
 | 07-Mar     |               |              |                                               | 
-| 08-Mar     |               |              |                                               | 
-| 11-Mar     | 7             | Jo           | Modelling with decision trees                 | 
-| 12-Mar     |               | Jo           | Modelling Prices & Nearest Neighbours         | 
+| 08-Mar     |               | Jo           | Modelling with decision trees                 | 
+| 11-Mar     | 7             | Jo           | Modelling Prices & Nearest Neighbours         | 
+| 12-Mar     |               | Jo           | ‘Market Basket’ Analysis                      | 
 | 14-Mar     |               |              |                                               | 
 | 15-Mar     |               |              |                                               | 
-| 18-Mar     | 8             | Jo           | ‘Market Basket’ Analysis                      | 
-| 19-Mar     |               | Jo           | Semantic spaces & Latent Semantics            | 
+| 18-Mar     | 8             | Jo           | Semantic spaces & Latent Semantics            | 
+| 19-Mar     |               | Jo           | Independent Features and Topic Modelling      | 
 | 21-Mar     |               |              |                                               |  
-| 22-Mar     |               | Jo           | Independent Features and Topic Modelling      | 
+| 22-Mar     |               |              |                                               |  
 | 25-Mar     | 9             | Jo & Markus  | _Group coursework presentations_              | 
 | 26-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
 | 27-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
