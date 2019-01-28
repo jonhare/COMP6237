@@ -19,11 +19,11 @@ Date     | Title        | Slides                             | Handouts
 ---------| ------------ | ---------------------------------- | ---------
 28/1/18  | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_mb.pdf) | -- |
 18/2/18  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_jh.pdf) | -- |
-21/2/18  | Discovering Groups | [PDF](./lectures/pdf/Groups.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Groups.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Groups.md)) 
-22/2/18  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/Covariance-PCA.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Covariance-PCA.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Covariance-PCA.md)) 
-26/2/18  | Embedding Data | [PDF](./lectures/pdf/Embedding.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Embedding.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Embedding.md)) 
-28/2/18  | Searching and Ranking | [PDF](./lectures/pdf/Search.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Search.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Search.md))
-1/3/18   | Document Filtering | [PDF](./lectures/pdf/Filtering.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Filtering.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Filtering.md))
+21/2/18  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups_jh.pdf) | -- |
+22/2/18  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/04_covariance_jh.pdf) | -- |
+26/2/18  | Embedding Data | [PDF](./lectures/pdf/05_embedding_data_jh.pdf) | -- |
+28/2/18  | Searching and Ranking | -- | -- |
+1/3/18   | Document Filtering  | -- | -- |
 5/3/18   | Modelling with Decision Trees | [PDF](./lectures/pdf/DecisionTrees.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/DecisionTrees.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/DecisionTrees.md))
 6/3/18   | Modelling Prices & Nearest Neighbours | [PDF](./lectures/pdf/KNN.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/KNN.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/KNN.md))
 7/3/18  | Market Basket Analysis | [PDF](./lectures/pdf/MarketBasket.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/MarketBasket.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/MarketBasket.md))
