@@ -17,7 +17,7 @@ The launcher program that opens when you launch the jar is self explanatory, but
 
 Date     | Title        | Slides                             | Handouts
 ---------| ------------ | ---------------------------------- | ---------
-29/1/18  | Introduction to Data Mining | [PDF](./lectures/pdf/Intro.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Intro.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Intro.md))
+29/1/18  | Introduction to Data Mining | [PDF](./lectures/pdf/intro_mb.pdf) | -- |
 19/2/18  | Making Recommendations | [PDF](./lectures/pdf/Recommendation.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Recommendation.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Recommendation.md)) 
 21/2/18  | Discovering Groups | [PDF](./lectures/pdf/Groups.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Groups.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Groups.md)) 
 22/2/18  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/Covariance-PCA.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Covariance-PCA.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Covariance-PCA.md)) 
