@@ -98,5 +98,5 @@ The schedule for each coursework is shown below. Further details will become ava
 ## Where to get additional help
 Talk to us! As we said above, you are more than welcome to arrange to meet with us in the unused lecture slots (or at other times if necessary) to discuss issues related to the course. <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Jo</a> ([email](mailto:j.houghton@soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can both be reached by email or by coming to find us in our offices (32/4039 for Jo & 32/4033 for Markus). 
 
-For further practical help, you can also talk with Jon's PhD student, <a href="https://secure.ecs.soton.ac.uk/people/esm1g14">Enrique Marquez</a>, who runs the help desk in the Zepler lab every Monday. Enrique will be more than happy to offer advice on things like how you should go about tackling the group coursework, as well as in-depth technical details, etc.
+For further practical help, you can also talk with the PhD students, who run the help desk in the Zepler lab.
 
