@@ -24,13 +24,13 @@ Date     | Title        | Slides                             | Handouts
 26/2/18  | Embedding Data | [PDF](./lectures/pdf/05_embedding_data_jh.pdf) | -- |
 28/2/18  | Searching and Ranking | -- | -- |
 1/3/18   | Document Filtering  | -- | -- |
-5/3/18   | Modelling with Decision Trees | [PDF](./lectures/pdf/DecisionTrees.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/DecisionTrees.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/DecisionTrees.md))
-6/3/18   | Modelling Prices & Nearest Neighbours | [PDF](./lectures/pdf/KNN.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/KNN.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/KNN.md))
-7/3/18  | Market Basket Analysis | [PDF](./lectures/pdf/MarketBasket.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/MarketBasket.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/MarketBasket.md))
-8/3/18  | Semantic Spaces | [PDF](./lectures/pdf/SemanticSpaces.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/SemanticSpaces.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/SemanticSpaces.md))
-16/4/18  | Finding Independent Features | [PDF](./lectures/pdf/TopicModelling.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/TopicModelling.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/TopicModelling.md))
-25/4/18  | Processing Big Data | [PDF](./lectures/pdf/BigData.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/BigData.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/BigData.md)) 
-26/4/18  | Data Mining & Machine Learning with Big Data | [PDF](./lectures/pdf/BigDataMining.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/BigDataMining.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/BigDataMining.md))
-9/5/18   | Recommending Netflix Movies | [PDF](./lectures/pdf/Netflix.pdf) | [PDF](https://github.com/jonhare/COMP6237/blob/master/notes/Netflix.pdf) ([source](http://github.com/jonhare/COMP6237/blob/master/notes/Netflix.md))
+5/3/18   | Modelling with Decision Trees |  -- | -- |
+6/3/18   | Modelling Prices & Nearest Neighbours |  -- | -- |
+7/3/18  | Market Basket Analysis |  -- | -- |
+8/3/18  | Semantic Spaces |  -- | -- |
+16/4/18  | Finding Independent Features |  -- | -- |
+25/4/18  | Processing Big Data |  -- | -- |
+26/4/18  | Data Mining & Machine Learning with Big Data |  -- | -- |
+9/5/18   | Recommending Netflix Movies |  -- | -- |
 10/5/18  | Mining Events from Multimedia Streams | [PDF](./lectures/pdf/SED.pdf) | [Paper 1](http://eprints.soton.ac.uk/352460/) [Paper 2](http://eprints.soton.ac.uk/380227/)
-17/5/18  | Exam Prep and Q&A | [PDF](./lectures/pdf/ExamPrepQA.pdf) | |
+17/5/18  | Exam Prep and Q&A |  -- | -- |
