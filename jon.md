@@ -18,19 +18,17 @@ The launcher program that opens when you launch the jar is self explanatory, but
 Date     | Title        | Slides                             | Handouts
 ---------| ------------ | ---------------------------------- | ---------
 28/1/18  | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_mb.pdf) | -- |
-18/2/18  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_jh.pdf) | -- |
-21/2/18  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups_jh.pdf) | -- |
-22/2/18  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/04_covariance_jh.pdf) | -- |
+19/2/18  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_jh.pdf) | -- |
+22/2/18  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups_jh.pdf) | -- |
+25/2/18  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/04_covariance_jh.pdf) | -- |
 26/2/18  | Embedding Data | [PDF](./lectures/pdf/05_embedding_data_jh.pdf) | -- |
-28/2/18  | Searching and Ranking | -- | -- |
-1/3/18   | Document Filtering  | -- | -- |
-5/3/18   | Modelling with Decision Trees |  -- | -- |
-6/3/18   | Modelling Prices & Nearest Neighbours |  -- | -- |
-7/3/18  | Market Basket Analysis |  -- | -- |
-8/3/18  | Semantic Spaces |  -- | -- |
-16/4/18  | Finding Independent Features |  -- | -- |
-25/4/18  | Processing Big Data |  -- | -- |
-26/4/18  | Data Mining & Machine Learning with Big Data |  -- | -- |
-9/5/18   | Recommending Netflix Movies |  -- | -- |
-10/5/18  | Mining Events from Multimedia Streams | [PDF](./lectures/pdf/SED.pdf) | [Paper 1](http://eprints.soton.ac.uk/352460/) [Paper 2](http://eprints.soton.ac.uk/380227/)
+1/3/18  | Searching and Ranking | -- | -- |
+4/3/18   | Document Filtering  | -- | -- |
+8/3/18   | Modelling with Decision Trees |  -- | -- |
+11/3/18   | Modelling Prices & Nearest Neighbours |  -- | -- |
+12/3/18  | Market Basket Analysis |  -- | -- |
+18/3/18  | Semantic Spaces |  -- | -- |
+19/4/18  | Finding Independent Features |  -- | -- |
+10/5/18   | Recommending Netflix Movies |  -- | -- |
+13/5/18  | Mining Events from Multimedia Streams |  -- | -- |
 17/5/18  | Exam Prep and Q&A |  -- | -- |
