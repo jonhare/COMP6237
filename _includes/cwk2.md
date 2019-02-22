@@ -4,7 +4,7 @@
 
 ## Brief
 Due date: Friday 29th March 2019, 16:00.  
-Handin: 1819/COMP6237/3/
+Handin: [1819/COMP6237/3/](https://handin.ecs.soton.ac.uk/handin/1819/COMP6237/2/)
 Required files: report.pdf  
 Data: [gap-html.zip](https://secure.ecs.soton.ac.uk/notes/comp6237/data/gap-html.zip)  
 Credit: 20% of overall module mark  
