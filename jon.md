@@ -19,7 +19,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 ---------| ------------ | ---------------------------------- | --------- | ----- |
 28/1/18  | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_mb.pdf) | -- | -- |
 19/2/18  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_jh.pdf) | [PDF](./lectures/pdf/02_Recommender_Systems_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/recommender.ipynb) |
-22/2/18  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups_jh.pdf) | -- | -- |
+22/2/18  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups_jh.pdf) | -- | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/groups.ipynb) |
 25/2/18  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/04_covariance_jh.pdf) | -- | -- |
 26/2/18  | Embedding Data | [PDF](./lectures/pdf/05_embedding_data_jh.pdf) | -- | -- |
 1/3/18  | Searching and Ranking | -- | -- | -- |
