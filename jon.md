@@ -21,7 +21,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 19/2/18  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_jh.pdf) | [PDF](./lectures/pdf/02_Recommender_Systems_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/recommender.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=b7cf6f92-4b86-4af9-8cd6-a9f900d98e95) |
 22/2/18  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups_jh.pdf) | [PDF](.lectures/pdf/03_discovering_groups_jh.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/groups.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=4e4da6a3-5aa9-48e4-b198-a9fc011a1c01) |
 25/2/18  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/04_covariance_jh.pdf) | [PDF](./lectures/pdf/04_covariance_HO_jh.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/04-covariance.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=2e87133a-c98d-4632-aaec-a9ff0108706e) |
-26/2/18  | Embedding Data | [PDF](./lectures/pdf/05_embedding_data_jh.pdf) | -- | -- | -- |
+26/2/18  | Embedding Data | [PDF](./lectures/pdf/05_embedding_data_jh.pdf) | [PDF](./lectures/pdf/05_embedding_data_HO_jh.pdf) | -- | -- |
 1/3/18  | Searching and Ranking | -- | -- | -- | -- |
 4/3/18   | Document Filtering  | -- | -- | -- | -- |
 8/3/18   | Modelling with Decision Trees |  -- | -- | -- | -- |
