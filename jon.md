@@ -22,7 +22,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 22/2/18  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups_jh.pdf) | [PDF](.lectures/pdf/03_discovering_groups_jh.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/groups.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=4e4da6a3-5aa9-48e4-b198-a9fc011a1c01) |
 25/2/18  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/04_covariance_jh.pdf) | [PDF](./lectures/pdf/04_covariance_HO_jh.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/04-covariance.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=2e87133a-c98d-4632-aaec-a9ff0108706e) |
 26/2/18  | Embedding Data | [PDF](./lectures/pdf/05_embedding_data_jh.pdf) | [PDF](./lectures/pdf/05_embedding_data_HO_jh.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/05_embedding_data.ipynb) | -- |
-1/3/18  | Searching and Ranking | [PDF](./lectures/pdf/06_search.pdf) | [PDF](./lectures/pdf/06_search_HO.pdf) | -- | -- |
+1/3/18  | Searching and Ranking | [PDF](./lectures/pdf/06_search.pdf) | [PDF](./lectures/pdf/06_search_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/searchRank.ipynb) | -- |
 4/3/18   | Document Filtering  | -- | -- | -- | -- |
 8/3/18   | Modelling with Decision Trees |  -- | -- | -- | -- |
 11/3/18   | Modelling Prices & Nearest Neighbours |  -- | -- | -- | -- |
