@@ -25,7 +25,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 1/3/18  | Searching and Ranking | [PDF](./lectures/pdf/06_search.pdf) | [PDF](./lectures/pdf/06_search_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/searchRank.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=d2a874dd-a0c2-43d0-89ba-aa030117fbbd) |
 4/3/18   | Document Filtering  | [PDF](./lectures/pdf/07_document_filtering_jh.pdf) | [PDF](./lectures/pdf/07_document_filtering_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/07_doc_filtering.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=4cfbafae-e7b1-4447-98d3-aa060107bee6) |
 8/3/18   | Modelling with Decision Trees | [PDF](./lectures/pdf/08_decision_trees_jh.pdf) | [PDF](./lectures/pdf/08_decision_trees_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/08_decisiontrees.ipynb) | -- |
-11/3/18   | Modelling Prices & Nearest Neighbours |  -- | -- | -- | -- |
+11/3/18   | Modelling Prices & Nearest Neighbours | [PDF](./lectures/pdf/09_nearest_neighbours_jh.pdf) | [PDF](./lectures/pdf/09_nearest_neighbours_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/09_nearest_neighbours.ipynb) | -- |
 12/3/18  | Market Basket Analysis |  -- | -- | -- | -- |
 18/3/18  | Semantic Spaces |  -- | -- | -- | -- |
 19/4/18  | Finding Independent Features |  -- | -- | -- | -- |
