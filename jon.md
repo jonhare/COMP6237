@@ -26,7 +26,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 4/3/18   | Document Filtering  | [PDF](./lectures/pdf/07_document_filtering_jh.pdf) | [PDF](./lectures/pdf/07_document_filtering_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/07_doc_filtering.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=4cfbafae-e7b1-4447-98d3-aa060107bee6) |
 8/3/18   | Modelling with Decision Trees | [PDF](./lectures/pdf/08_decision_trees_jh.pdf) | [PDF](./lectures/pdf/08_decision_trees_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/08_decisiontrees.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=cbce4661-f531-4c93-861a-aa0a0119a04d) |
 11/3/18   | Modelling Prices & Nearest Neighbours | [PDF](./lectures/pdf/09_nearest_neighbours_jh.pdf) | [PDF](./lectures/pdf/09_nearest_neighbours_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/09_nearest_neighbours.ipynb) | -- |
-12/3/18  | Market Basket Analysis |  -- | -- | -- | -- |
+12/3/18  | Market Basket Analysis |  [PDF](./lectures/pdf/10_market_basket_jh.pdf) | [PDF](./lectures/pdf/10_market_basket_HO.pdf) | -- | -- |
 18/3/18  | Semantic Spaces |  -- | -- | -- | -- |
 19/4/18  | Finding Independent Features |  -- | -- | -- | -- |
 10/5/18   | Recommending Netflix Movies |  -- | -- | -- | -- |
