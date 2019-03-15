@@ -61,8 +61,8 @@ The current timetable is shown below - be aware that this might change (especial
 | 14-Mar     |               |              |                                               | 
 | 15-Mar     |               |              |                                               | 
 | 18-Mar     | 8             | Jo           | Semantic spaces & Latent Semantics            | 
-| 19-Mar     |               | Jo           | Independent Features and Topic Modelling      | 
-| 21-Mar     |               |              |                                               |  
+| 19-Mar     |               |              |                                               |
+| 21-Mar     |               | Jo           | Independent Features and Topic Modelling      |  
 | 22-Mar     |               |              |                                               |  
 | 25-Mar     | 9             | Jo & Markus  | _Group coursework presentations_              | 
 | 26-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
