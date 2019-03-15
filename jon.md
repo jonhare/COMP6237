@@ -28,7 +28,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 11/3/18   | Modelling Prices & Nearest Neighbours | [PDF](./lectures/pdf/09_nearest_neighbours_jh.pdf) | [PDF](./lectures/pdf/09_nearest_neighbours_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/09_nearest_neighbours.ipynb) | -- |
 12/3/18  | Market Basket Analysis |  [PDF](./lectures/pdf/10_market_basket_jh.pdf) | [PDF](./lectures/pdf/10_market_basket_HO.pdf) | -- | -- |
 18/3/18  | Semantic Spaces |  -- | -- | -- | -- |
-19/4/18  | Finding Independent Features |  -- | -- | -- | -- |
+21/4/18  | Finding Independent Features |  -- | -- | -- | -- |
 10/5/18   | Recommending Netflix Movies |  -- | -- | -- | -- |
 13/5/18  | Mining Events from Multimedia Streams |  -- | -- | -- |
 17/5/18  | Exam Prep and Q&A |  -- | -- | -- |
