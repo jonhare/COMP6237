@@ -66,8 +66,8 @@ The current timetable is shown below - be aware that this might change (especial
 | 22-Mar     |               |              |                                               |  
 | 25-Mar     | 9             | Jo & Markus  | _Group coursework presentations_              | 
 | 26-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
-| 27-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
 | 28-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
+| 29-Mar     |               | Jo & Markus  | _Group coursework presentations_              | 
 | **Easter** |               |              |                                               | 
 | 29-Apr     | 10            | Markus       | Networks -- analysis and models               | 
 | 30-Apr     |               | Markus       | Networks -- data and analysis                 | 
