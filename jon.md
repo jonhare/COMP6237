@@ -29,6 +29,6 @@ Date     | Title        | Slides                             | Handouts  | Code 
 12/3/18  | Market Basket Analysis |  [PDF](./lectures/pdf/10_market_basket_jh.pdf) | [PDF](./lectures/pdf/10_market_basket_HO.pdf) | -- | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=927b2a76-5742-48bd-af3c-aa0e00d5d8f9) |
 18/3/18  | Semantic Spaces | [PDF](./lectures/pdf/11_semantic_spaces_jh.pdf) | [PDF](./lectures/pdf/11_semantic_spaces_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/11_semantic_spaces.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=f6579870-ab48-4be2-9dab-aa1401082db1) |
 21/3/18  | Finding Independent Features |  [PDF](./lectures/pdf/12_finding_features_jh.pdf) | [PDF](./lectures/pdf/12_finding_features_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/12_finding_features.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=08d7c12b-1ccc-4020-9191-aa170107c147) |
-10/5/18   | Recommending Netflix Movies |  -- | -- | -- | -- |
+10/5/18   | Learning to Rank |  -- | -- | -- | -- |
 13/5/18  | *Guest Lecture* Mining Events from Multimedia Streams |  -- | -- | -- |
 17/5/18  | Exam Prep and Q&A |  -- | -- | -- |
