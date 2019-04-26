@@ -76,8 +76,8 @@ The current timetable is shown below - be aware that this might change (especial
 | 06-May     | 11            |              | **BANK HOLIDAY**                              | 
 | 07-May     |               | Markus       | Page rank                                     | 
 | 09-May     |               |              |                                               | 
-| 10-May     |               | Jo           | Recommending Netflix Movies                   | 
-| 13-May     | 12            | Jo           | Social event detection in multimedia streams  | 
+| 10-May     |               | Jo           | Learning to Rank                              | 
+| 13-May     | 12            | Jo           | *Guest Lecture*   Social event detection      | 
 | 14-May     |               |              |                                               | 
 | 16-May     |               | Markus       | Exam Revision/Q & A                           | 
 | 17-May     |               | Jo           | Exam Revision/Q & A                           | 
