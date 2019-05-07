@@ -79,8 +79,8 @@ The current timetable is shown below - be aware that this might change (especial
 | 10-May     |               | Jo           | Learning to Rank                              | 
 | 13-May     | 12            | Jo           | *Guest Lecture*   Social event detection      | 
 | 14-May     |               |              |                                               | 
-| 16-May     |               | Markus       | Exam Revision/Q & A                           | 
-| 17-May     |               | Jo           | Exam Revision/Q & A                           | 
+| 16-May     |               | Jo           | Exam Revision/Q & A                           | 
+| 17-May     |               | Markus       | Exam Revision/Q & A                           | 
 | TBC.       | 13 or 14      |              | **EXAM**                                      | 
 
 ## Lecture Materials
