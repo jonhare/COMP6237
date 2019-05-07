@@ -31,4 +31,4 @@ Date     | Title        | Slides                             | Handouts  | Code 
 21/3/18  | Finding Independent Features |  [PDF](./lectures/pdf/12_finding_features_jh.pdf) | [PDF](./lectures/pdf/12_finding_features_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/12_finding_features.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=08d7c12b-1ccc-4020-9191-aa170107c147) |
 10/5/18   | Learning to Rank |  -- | -- | -- | -- |
 13/5/18  | *Guest Lecture* Mining Events from Multimedia Streams |  -- | -- | -- |
-17/5/18  | Exam Prep and Q&A |  -- | -- | -- |
+16/5/18  | Exam Prep and Q&A |  -- | -- | -- |
