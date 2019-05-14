@@ -13,7 +13,7 @@ Handin: 1819/COMP6237/1/
 Required files: brief.pdf  
 
 ### Handin #2
-Due date: Wednesday 15th May 2019, 16:00.  
+Due date: Thursday 16th May 2019, 16:00.  
 Handin: 1819/COMP6237/2/
 Required files: paper.pdf; mark_split.pdf  
 
