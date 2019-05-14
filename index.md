@@ -92,7 +92,7 @@ Materials to accompany the lectures can be found here:
 ## Coursework
 The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
 
-* **Coursework 1**. Set Monday 29th January. Due Wednesday 16th May, 16:00. Feedback by Wednesday 31st May : [Specification](cw/coursework1.html)
+* **Coursework 1**. Set Monday 29th January. Due Thursday 16th May, 16:00. Feedback by Friday 31st May : [Specification](cw/coursework1.html)
 * **Coursework 2**. Set Wednesday 21st February. Due Friday 29 March, 16:00. Feedback by Friday 4th May : [Specification](cw/coursework2.html)
 
 ## Where to get additional help
