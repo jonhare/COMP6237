@@ -5,7 +5,7 @@
 ## Brief
 Effort: ~40 hours per student  
 Credit: 30% of overall module mark  
-Team size: 5, 6 or 7 students.  
+Team size: no more than 8 students.  
 
 ### Handin #1
 Due date: Friday 15th February 2019, 16:00.  
