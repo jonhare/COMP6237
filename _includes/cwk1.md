@@ -8,20 +8,20 @@ Credit: 30% of overall module mark
 Team size: no more than 8 students.  
 
 ### Handin #1
-Due date: Friday 15th February 2019, 16:00.  
-Handin: 1819/COMP6237/1/
+Due date: Friday 14th February 2019, 16:00.  
+Handin: 1920/COMP6237/1/
 Required files: brief.pdf  
 
 ### Handin #2
-Due date: Thursday 16th May 2019, 16:00.  
-Handin: 1819/COMP6237/2/
+Due date: Friday 15th May 2019, 16:00.  
+Handin: 1920/COMP6237/2/
 Required files: paper.pdf; mark_split.pdf  
 
 ## Overview
 In this coursework you form a team and choose a predictive data mining problem to tackle. Teams are expected to perform a series of experiments on their chosen problem in order to build a predictive model (or set of models) which they **evaluate** and **compare** (across techniques used by the team and any other published approaches). The team must present their work as a written conference paper. The team is also expected to orally present an interim progress report to the class in the week before the Easter vacation. 
 
 ## Details
-Students will form groups of five or six, or seven members. We've made a page on the student wiki to help you form teams: [wiki student group list](https://secure.ecs.soton.ac.uk/student/wiki/w/COMP6237-1819-classlist).
+Students will form groups of no more than 8 members. We've made a page on the student wiki to help you form teams: [wiki student group list](https://secure.ecs.soton.ac.uk/student/wiki/w/COMP6237-1920-classlist).
 
 Each group will propose a project in consultation with members of staff; we expect that you'll pick a dataset or challenge that has been or is being used for current data mining research (see the links at the end of this document for some ideas). The project must demonstrate the team's ability to scientifically tackle a real-world *predictive* data-mining problem (as opposed to a *descriptive* or *understanding* type problem that you'll tackle in the individual coursework).
 
@@ -29,9 +29,9 @@ Each group will propose a project in consultation with members of staff; we expe
 
 There are three deliverables for this coursework:
 
-* **Project Brief.** Teams must submit a short (1 side A4 max) project brief to ECS handin by **Friday 15th February**. In addition to describing the proposed project, the brief must include the names and email addresses of all the team members.
+* **Project Brief.** Teams must submit a short (1 side A4 max) project brief to ECS handin by **Friday 14th February**. In addition to describing the proposed project, the brief must include the names and email addresses of all the team members.
 * **Project Pitch, Progress Report and Q&A.** The lecture and tutorial slots in week 7 will be devoted to team progress presentations. Each team will have 7-10 minutes to present their idea to the class and describe the approaches they have taken (or are thinking of taking). This will be followed by a few minutes of questions and discussion. To ensure fairness, all teams must be prepared to present in the first of these sessions, and the presentation order will be picked randomly during the sessions (although teams can volunteer to go first).
-* **Conference Paper.** Teams must submit a final report in the style of a conference paper by **16:00 on Wednesday 15th May** to ECS Handin. The paper must use the [standard 2017 ACM conference proceedings style](https://www.acm.org/publications/proceedings-template) (use the `sigconf` style option for the template) and be at most 6 pages in length, including all references and appendices (if used). Additionally, each team is required to submit a proposed marks distribution form (see below).
+* **Conference Paper.** Teams must submit a final report in the style of a conference paper by **16:00 on Friday 15th May** to ECS Handin. The paper must use the [standard 2017 ACM conference proceedings style](https://www.acm.org/publications/proceedings-template) (use the `sigconf` style option for the template) and be at most 6 pages in length, including all references and appendices (if used). Additionally, each team is required to submit a proposed marks distribution form (see below).
 
 ### Notes
 
@@ -90,4 +90,4 @@ The following list has some pointers to places where you might get some inspirat
 * http://www.kdd.org/kdd-cup - KDD Cup is an annual data mining competition run by ACM SIG KDD; datasets, evaluation criteria, and info previous winners are available (note that the most recent competitions are actually hosted on kaggle.com).
 
 ## Questions
-If you have any problems/questions then [email](mailto:jh1c18@ecs.soton.ac.uk) or speak to [Jo](http://ecs.soton.ac.uk/people/jh1c18) or [email](mailto:mb8@ecs.soton.ac.uk) or speak to [Markus](http://ecs.soton.ac.uk/people/mb8)  in their offices or after the lectures.
+If you have any problems/questions then [email](mailto:sarah.hewitt@ecs.soton.ac.uk) or speak to [Sarah](http://ecs.soton.ac.uk/people/sh7n18) or [email](mailto:mb8@ecs.soton.ac.uk) or speak to [Markus](http://ecs.soton.ac.uk/people/mb8)  in their offices or after the lectures.
