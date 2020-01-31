@@ -8,12 +8,12 @@ Credit: 30% of overall module mark
 Team size: no more than 8 students.  
 
 ### Handin #1
-Due date: Friday 14th February 2019, 16:00.  
+Due date: Friday 14th February 2020, 16:00.  
 Handin: 1920/COMP6237/1/  	
 Required files: brief.pdf  
 
 ### Handin #2
-Due date: Friday 15th May 2019, 16:00.  
+Due date: Friday 15th May 2020, 16:00.  
 Handin: 1920/COMP6237/2/  
 Required files: paper.pdf; mark_split.pdf  
 
