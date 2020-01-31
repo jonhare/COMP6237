@@ -65,4 +65,4 @@ Written individual feedback will be given covering the above points, and will be
 You can use any available existing tools, programming environments and software libraries for this coursework. It is however important that you include full details in your report - this must include details about which specific variant of the standard techniques are being used, with references as appropriate. Also include any details of the implementation doing something non-standard (for example making approximations in the sake of efficiency), and all parameters.
 
 ## Questions
-If you have any problems/questions then [email](mailto:j.houghton@ecs.soton.ac.uk) or speak to [Jo](http://ecs.soton.ac.uk/people/jh1c18) in her office or after the lectures.
+If you have any problems/questions then [email](mailto:sarah.hewitt@ecs.soton.ac.uk) or speak to [Sarah](http://ecs.soton.ac.uk/people/jh1c18) in her office or after the lectures.
