@@ -38,7 +38,7 @@ There are three deliverables for this coursework:
 ### Notes
 
 * Students taking COMP6208 Advanced Machine Learning must ensure that they are tackling a different problem to the one they choose in that module.
-* Teams can book time to meet with Markus or Jon (ideally in the unused lecture slots) should they need help or guidance. Enrique is available at the Zepler help desk every Monday and can also offer advice.
+* Teams can book time to meet with Markus or Sarah (ideally in the unused lecture slots) should they need help or guidance. Enrique is available at the Zepler help desk every Monday and can also offer advice.
 * ECS Handin wasn't really designed with group submissions in mind; **each team should nominate a team leader to make the submission on behalf of their team**. The other team members will see that handin says that their submission is overdue, however this can be safely ignored.
 
 ## Marking and Feedback
