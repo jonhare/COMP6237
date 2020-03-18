@@ -1,7 +1,7 @@
 ---
 layout: index
 title: "COMP6237 Data Mining"
-subtitle: "Notes, Slides and Demos for COMP6237 2017-18"
+subtitle: "Notes, Slides and Demos for COMP6237 2019-20"
 githubHeader: "true"
 credits: Maintained and taught by <a href="http://www.ecs.soton.ac.uk/people/sh7n18">Dr Sarah Hewitt</a>)
 ---
