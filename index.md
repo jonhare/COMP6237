@@ -3,7 +3,7 @@ layout: index
 title: "COMP6237 Data Mining"
 subtitle: "2019-20"
 githubHeader: "false"
-credits: Maintained by <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Sarah Hewitt</a>.
+credits: Maintained by <a href="http://www.ecs.soton.ac.uk/people/jh1c18"> Dr Sarah Hewitt</a>.
 ---
 
 Welcome to the homepage for the ECS [COMP6237 Data Mining](https://secure.ecs.soton.ac.uk/module/COMP6237) module.
