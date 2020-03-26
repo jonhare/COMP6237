@@ -3,7 +3,7 @@ layout: index
 title: "COMP6237 Data Mining"
 subtitle: "2019-20"
 githubHeader: "false"
-credits: Maintained by <a href="http://www.ecs.soton.ac.uk/people/jh1c18"> Dr Sarah Hewitt</a>.
+credits: Maintained by <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Sarah Hewitt</a>.
 ---
 
 Welcome to the homepage for the ECS [COMP6237 Data Mining](https://secure.ecs.soton.ac.uk/module/COMP6237) module.
@@ -98,10 +98,10 @@ The schedule for each coursework is shown below. Further details will become ava
 
 ## Where to get additional help
 Here are a couple of documents to help you. The first is an overview of the course, so that you can see the structure: 
-* [Course Structure] (./lectures/pdf/COMP6237KO.pdf)
+* [Course Structure](./lectures/pdf/COMP6237KO.pdf)
 
 The second is a guide to help you with the first piece of coursework:
-* [Self-Study Guide CW1] (./lectures/pdf/CW1SelfStudyGuide.pdf)
+* [Self-Study Guide CW1](./lectures/pdf/CW1SelfStudyGuide.pdf)
 
 Talk to us! As we said above, you are more than welcome to arrange to meet with us in the unused lecture slots (or at other times if necessary) to discuss issues related to the course. <a href="http://www.ecs.soton.ac.uk/people/sh7n18">Sarah</a> ([email](mailto:sarah.hewitt@soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can both be reached by email or by coming to find us in our offices (32/3017 for Sarah & 32/4033 for Markus). 
 
