@@ -71,7 +71,7 @@ The current timetable is shown below - be aware that this might change (especial
 | 27-Apr     | 10            | Markus          | Data Mining & Networks                                | 
 | 28-Apr     |               | Markus          | Link Prediction on Networks                           | 
 | 30-Apr     |               | Markus          | Network Analysis tutorial/seminar                     | 
-| 01-May     |               | Sarah           | CW1 Due                                               | 
+| 01-May     |               | Sarah           | CW2 Due                                               | 
 | 04-May     | 11            | Markus          | Exploiting network structure for information retrieval|
 |            |               |                 | (page rank etc.)                                      |
 | 05-May     |               |                 |                                                       | 
@@ -80,7 +80,7 @@ The current timetable is shown below - be aware that this might change (especial
 | 11-May     | 12            | Sarah           | Exam Revision Q&A                                     |
 | 12-May     |               |                 |                                                       |
 | 14-May     |               | Markus          | Exam Revision Q&A                                     |             
-| 15-May     |               |                 | CW2 Due                                               |
+| 15-May     |               |                 | CW1 Due                                               |
 | 18-May     |               |                 | **Exams**                                             |
 
 ## Lecture Materials
@@ -92,8 +92,8 @@ Materials to accompany the lectures can be found here:
 ## Coursework
 The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
 
-* **Coursework 1**. Set Monday 3rd February. Due Friday 1st May, 16:00. Feedback by Friday 15th May 16:00 : [Specification](cw/coursework1.html)
-* **Coursework 2**. Set Monday 17th February. Due TBC. Feedback by TBC : [Specification](cw/coursework2.html)
+* **Coursework 1**. Set Monday 3rd February. Due TBC. Feedback by Friday TBC : [Specification](cw/coursework1.html)
+* **Coursework 2**. Set Monday 17th February. Due Friday 1st May 16:00. Feedback by 15th May 16:00 : [Specification](cw/coursework2.html)
 
 ## Where to get additional help
 Here are a couple of documents to help you. The first is an overview of the course, so that you can see the structure: 
