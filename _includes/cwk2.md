@@ -3,7 +3,7 @@
 # Coursework 2: Understanding Data
 
 ## Brief
-Due date: Friday 20th March 2020, 16:00.  
+Due date: Friday 1st May 2020, 16:00.  
 Handin: [https://handin.ecs.soton.ac.uk/handin/1920/COMP6237/5/](https://handin.ecs.soton.ac.uk/handin/1920/COMP6237/5/)
 
 Required files: report.pdf  
