@@ -92,7 +92,7 @@ Materials to accompany the lectures can be found here:
 ## Coursework
 The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
 
-* **Coursework 1**. Set Monday 3rd February. Due Friday 1st May, 16:00. Feedback by Friday 15th June 16:00 : [Specification](cw/coursework1.html)
+* **Coursework 1**. Set Monday 3rd February. Due Friday 1st May, 16:00. Feedback by Friday 15th May 16:00 : [Specification](cw/coursework1.html)
 * **Coursework 2**. Set Monday 17th February. Due TBC. Feedback by TBC : [Specification](cw/coursework2.html)
 
 ## Where to get additional help
