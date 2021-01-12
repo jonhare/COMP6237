@@ -33,8 +33,8 @@ The current timetable is shown below - be aware that this might change (especial
 | Date       | Semester Week | Lecturer(s)     | Topic/Title                                           | 
 |------------|---------------|-----------------|-------------------------------------------------------| 
 | 01-Feb     | 1             | Sarah & Markus  | Intro to data mining                                  | 
-| 04-Feb     | Markus        |                 | Linear Regression                                     |
-| 05-Feb     | Markus        | Markus          | Maximum Likelihood Estimation                         | 
+| 04-Feb     |               | Markus          | Linear Regression                                     |
+| 05-Feb     |               | Markus          | Maximum Likelihood Estimation                         | 
 | 08-Feb     | 2             | Markus          | Tutorial/seminar: linear regression and MLE; CW  set  | 
 | 11-Feb     |               | Markus          | Logistic regression                                   |
 | 12-Feb     |               | Sarah & Markus  | Group coursework Q & A                                |
