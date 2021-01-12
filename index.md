@@ -54,11 +54,11 @@ The current timetable is shown below - be aware that this might change (especial
 | 18-Mar     |               | Sarah           | ‘Market Basket’ Analysis                              |
 | 18-Mar     | 7             | Sarah           | Semantic Spaces & Latent Semantics                    | 
 | **Easter** |               |                 |                                                       | 
-| 12-Apr     |               | Sarah & Markus  | _Group coursework presentations_                      | 
+| 12-Apr     | 8             | Sarah & Markus  | _Group coursework presentations_                      | 
 | 15-Apr     |               | Sarah & Markus  | _Group coursework presentations_                      | 
 | 16-Apr     |               | Sarah & Markus  | _Group coursework presentations_                      | 
-| 19-Apr     | 8             | Sarah & Markus  | _Group coursework presentations_                      | 
-| 22-Apr     | 9             | Sarah & Markus  | _Group coursework presentations_                      | 
+| 19-Apr     | 9             | Sarah & Markus  | _Group coursework presentations_                      | 
+| 22-Apr     |               | Sarah & Markus  | _Group coursework presentations_                      | 
 | 23-Apr     |               | Sarah & Markus  | _Group coursework presentations_                      |
 | 26-Apr     | 10            | Sarah           | Independent Features & Topic Modelling                | 
 | 29-Apr     |               | Sarah           | Data Mining & Networks                                | 
