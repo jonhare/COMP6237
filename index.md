@@ -43,12 +43,12 @@ The current timetable is shown below - be aware that this might change (especial
 | 17-Feb     |               | Sarah & Markus  | Group coursework Q & A                                | 
 | 19-Feb     |               | Sarah & Markus  | Group coursework Q & A (if needed)                    |
 | 22-Feb     | 4             | Markus          | Tutorial/seminar: logistic regression                 |
-| 24-Feb     |               | Sarah           | Making recommendations                                | 
-| 26-Feb     |               | Sarah           | Discovering Groups, CW brief due                      | 
+| 24-Feb     |               | Sarah           | Refresher: Covariance, EVD, PCA and SVD               |
+| 26-Feb     |               | Sarah           | Searching and ranking, CW brief due                   | 
 | 01-Mar     | 5             | Markus          | Intro to information theory                           |
-| 03-Mar     |               | Sarah           | Refresher: Covariance, EVD, PCA and SVD               | 
+| 03-Mar     |               | Sarah           | Making recommendations                                | 
 | 05-Mar     |               | Sarah           | Embedding Data                                        |
-| 08-Mar     | 6             | Sarah           | Searching and ranking                                 |
+| 08-Mar     | 6             | Sarah           | Discovering Groups,                                   |
 | 10-Mar     |               | Sarah           | Document filtering                                    |
 | 12-Mar     |               | Sarah           | Modelling with decision trees                         |
 | 15-Mar     | 7             | Sarah           | Modelling Prices & Nearest Neighbours                 | 
