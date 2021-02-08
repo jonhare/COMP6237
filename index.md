@@ -87,15 +87,12 @@ Materials to accompany the lectures can be found here:
 ## Coursework
 The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
 
-* **Coursework**. Set Monday 8th February. Due 14th May 2021. Feedback by Friday 18th June : [Specification](cw/coursework1.html)
+* **Coursework**. Set Monday 8th February. Due 11th May 2021. Feedback by Friday 18th June : [Specification](cw/coursework1.html)
 <!---* **Coursework 2**. Set Monday 17th February. Due Friday 1st May 16:00. Feedback by 12th June 16:00 : [Specification](cw/coursework2.html)--->
 
 ## Where to get additional help
 Here are a couple of documents to help you. The first is an overview of the course, so that you can see the structure: 
 * [Course Structure](./lectures/pdf/COMP6237KO.pdf)
-
-The second is a guide to help you with the coursework:
-* [Self-Study Guide CW1](./lectures/pdf/CW1SelfStudyGuide.pdf)
 
 Talk to us! As we said above, you are more than welcome to arrange to meet with us via Teams (or in the unused lecture slots / at other times if appropriate) to discuss issues related to the course. <a href="http://www.ecs.soton.ac.uk/people/sh7n18">Sarah</a> ([email](mailto:sarah.hewitt@soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can both be reached by email.
 <!---or by coming to find us in our offices (32/3017 for Sarah & 32/4033 for Markus). --->
