@@ -31,7 +31,7 @@ Each group will propose a project in consultation with members of staff; we expe
 
 There are three deliverables for this coursework:
 
-* **Project Brief.** Teams must submit a short (1 side A4 max) project brief to ECS handin by **Friday 22nd February**. In addition to describing the proposed project, the brief must include the names and email addresses of all the team members.
+* **Project Brief.** Teams must submit a short (1 side A4 max) project brief to ECS handin by **Friday 26th February**. In addition to describing the proposed project, the brief must include the names and email addresses of all the team members.
 * **Project Pitch, Progress Report and Q&A.** The lecture and tutorial slots in week 8 (and if needed week 9) will be devoted to team progress presentations. Each team will have 7-10 minutes to present their idea to the class and describe the approaches they have taken (or are thinking of taking). This will be followed by a few minutes of questions and discussion. This will probably be arranged via Teams, where groups will be allocated a time to present.
 * **Conference Paper.** Teams must submit a final report in the style of a conference paper by **16:00 on Friday 14th May** to ECS Handin. The paper **must** use the [standard 2017 ACM conference proceedings style](https://www.acm.org/publications/proceedings-template) (use the `sigconf` style option for the template) and be at most 6 pages in length, including all references and appendices (if used). Additionally, each team is required to submit a proposed marks distribution form (see below).
 
