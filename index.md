@@ -64,7 +64,7 @@ The current timetable is shown below - be aware that this might change (especial
 | 21-Apr     |               | Markus          | Mining Data Streams                                   |                
 | 22-Apr     |               | Markus          | Link Prediction on Networks                           |
 | 26-Apr     | 10            | Sarah           | Independent Features & Topic Modelling                | 
-| 28-Apr     |               | Sarah           | Data Mining & Networks                                | 
+| 28-Apr     |               | Markus          | Data Mining & Networks                                | 
 | 29-Apr     |               | Markus          | Link Prediction on Networks                           |
 | 03-May     | 11            |                 |**Bank Holiday**
 | 05-May     |               | Markus          | Exploiting network structure for information retrieval|
