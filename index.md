@@ -71,9 +71,9 @@ The current timetable is shown below - be aware that this might change (especial
 |            |               |                 | (page rank etc.)
 | 06-May     |               | Markus          | Community detection on networks                       |
 | 06-May     | 12            | Sarah           | Learning to Rank                                      | 
-| 07-May     |               | Sarah           | Social Event Detection                                | 
-| 10-May     |               | Sarah           | Exam Revision Q&A                                     |
-| 11-May     |               | Markus          | Exam Revision Q&A                                     | 
+| 07-May     |               | Sarah           | Exam Revision Q&A                                     | 
+| 10-May     |               | Markus          | Exam Revision Q&A                                     |
+| 11-May     |               |                 |                                                       | 
 |            |               |                 | CW Due                                                | 
 | 17-May     | 13            |                 | **Exams**                                             |
 |            |               |                 |                                                       |
