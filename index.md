@@ -63,18 +63,18 @@ The current timetable is shown below - be aware that this might change (especial
 | 19-Apr     | 9             | Sarah & Markus  | _Group coursework presentations_                      |
 | 21-Apr     |               | Markus          | Mining Data Streams                                   |                
 | 22-Apr     |               | Markus          | Link Prediction on Networks                           |
-| 26-Apr     | 10            | Sarah           | Independent Features & Topic Modelling                | 
-| 28-Apr     |               | Markus          | Data Mining & Networks                                | 
-| 29-Apr     |               | Markus          | Link Prediction on Networks                           |
+| 26-Apr     | 10            | Sarah           | Semantic Spaces & Latent Semantics (missed above)     | 
+| 28-Apr     |               | Markus          | Link Prediction on Networks                           | 
+| 29-Apr     |               | Sarah           | Independent Features & Topic Modelling                |
 | 03-May     | 11            |                 |**Bank Holiday**
-| 05-May     |               | Markus          | Exploiting network structure for information retrieval|
-|            |               |                 | (page rank etc.)
-| 06-May     |               | Markus          | Community detection on networks                       |
-| 06-May     | 12            | Sarah           | Learning to Rank                                      | 
-| 07-May     |               | Sarah           | Exam Revision Q&A                                     | 
-| 10-May     |               | Markus          | Exam Revision Q&A                                     |
-| 11-May     |               |                 |                                                       | 
-|            |               |                 | CW Due                                                | 
+| 05-May     |               | Markus          | Community Detection on Networks                       |
+| 06-May     |               | Markus          | Exploiting network structure for IR                   |
+| 10-May     | 12            | Sarah           | Learning to Rank                                      |
+|            |               |                 | (page rank etc.)                                      |
+| 12-May     |               | Sarah           | Exam Revision Q&A                                     | 
+| 13-May     |               | Markus          | Exam Revision Q&A                                     |
+| 14-May     |               |                 | CW Due                                                | 
+|            |               |                 |                                                       | 
 | 17-May     | 13            |                 | **Exams**                                             |
 |            |               |                 |                                                       |
 
