@@ -3,7 +3,7 @@ layout: index
 title: "COMP6237 Data Mining"
 subtitle: "2020-21"
 githubHeader: "false"
-credits: Maintained by <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Sarah Hewitt</a>.
+credits: Maintained by <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Grundy</a>.
 ---
 
 Welcome to the homepage for the ECS [COMP6237 Data Mining](https://secure.ecs.soton.ac.uk/module/COMP6237) module.
@@ -13,9 +13,9 @@ The challenge of data mining is to transform raw data into useful information an
 This course will introduce key concepts in data mining, information extraction and information indexing; including specific algorithms and techniques for feature extraction, clustering, outlier detection, topic modelling and prediction of complex unstructured data sets. By taking this course you will be given a broad view of the general issues surrounding unstructured and semi-structured data and the application of algorithms to such data. At a practical level you will have the chance to explore an assortment of data mining techniques which you will apply to problems involving real-world data. 
 
 ## Lectures
-The lectures for this course will be given by <a href="http://www.ecs.soton.ac.uk/people/mb8">Dr Markus Brede</a> ([email](mailto:mb8@ecs.soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/sh7n18">Dr Sarah Hewitt</a> ([email](mailto:sarah.hewitt@soton.ac.uk)). 
+The lectures for this course will be given by <a href="http://www.ecs.soton.ac.uk/people/mb8">Dr Markus Brede</a> ([email](mailto:mb8@ecs.soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Grundy</a> ([email](mailto:jo.grundy@soton.ac.uk)). 
 
-The lecture slots are as follows:
+The lecture slots are as follows: # To be arranged for 21-22
 
 Day        | Time | Room   
 -----------|------|-----------------------
@@ -95,7 +95,7 @@ The schedule for each coursework is shown below. Further details will become ava
 Here are a couple of documents to help you. The first is an overview of the course, so that you can see the structure: 
 * [Course Structure](./lectures/pdf/COMP6237KO.pdf)
 
-Talk to us! As we said above, you are more than welcome to arrange to meet with us via Teams (or in the unused lecture slots / at other times if appropriate) to discuss issues related to the course. <a href="http://www.ecs.soton.ac.uk/people/sh7n18">Sarah</a> ([email](mailto:sarah.hewitt@soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can both be reached by email.
+Talk to us! As we said above, you are more than welcome to arrange to meet with us via Teams (or in the unused lecture slots / at other times if appropriate) to discuss issues related to the course. <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Jo</a> ([email](mailto:jo.grundy@soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can both be reached by email.
 <!---or by coming to find us in our offices (32/3017 for Sarah & 32/4033 for Markus). --->
 
 For further practical help, you can also talk with the PhD students, who run the help desk in the Zepler lab.
