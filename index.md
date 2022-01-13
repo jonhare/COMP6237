@@ -1,7 +1,7 @@
 ---
 layout: index
 title: "COMP6237 Data Mining"
-subtitle: "2020-21"
+subtitle: "2021-22"
 githubHeader: "false"
 credits: Maintained by <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Grundy</a>.
 ---
@@ -33,45 +33,44 @@ The current timetable is shown below - be aware that this might change (especial
 
 | Date       | Semester Week | Lecturer(s)     | Topic/Title                                           | 
 |------------|---------------|-----------------|-------------------------------------------------------| 
-| 01-Feb     | 1             | Sarah & Markus  | Intro to data mining                                  | 
-| 03-Feb     |               | Markus          | Linear Regression                                     |
-| 05-Feb     |               | Markus          | Maximum Likelihood Estimation                         | 
-| 08-Feb     | 2             | Markus          | Tutorial/seminar: linear regression and MLE; CW set   | 
-| 10-Feb     |               | Markus          | Logistic regression                                   |
-| 12-Feb     |               | Markus          | Dealing with non-linear data                          |
-| 15-Feb     | 3             | Sarah & Markus  | Group coursework Q & A                                |
-| 17-Feb     |               | Sarah & Markus  | Group coursework Q & A                                | 
-| 19-Feb     |               | Sarah & Markus  | Group coursework Q & A (if needed)                    |
+| 31-Jan     | 1             | Jo & Markus     | Intro to data mining                                  | 
+| 01-Feb     |               | Markus          | Linear Regression                                     |
+| 03-Feb     |               | Markus          | Maximum Likelihood Estimation                         | 
+| 07-Feb     | 2             | Markus          | Tutorial/seminar: linear regression and MLE; CW set   | 
+| 08-Feb     |               | Markus          | Logistic regression                                   |
+| 10-Feb     |               | Markus          | Dealing with non-linear data                          |
+| 14-Feb     | 3             | Jo & Markus     | Group coursework Q & A                                |
+| 15-Feb     |               | Jo & Markus     | Group coursework Q & A                                | 
+| 19-Feb     |               | Jo & Markus     | Group coursework Q & A (if needed)                    |
 | 22-Feb     | 4             | Markus          | Tutorial/seminar: logistic regression                 |
-| 24-Feb     |               | Sarah           | Refresher: Covariance, EVD, PCA and SVD               |
-| 26-Feb     |               | Sarah           | Searching and ranking, CW brief due                   | 
+| 24-Feb     |               | Jo              | Refresher: Covariance, EVD, PCA and SVD               |
+| 26-Feb     |               | Jo              | Searching and ranking, CW brief due                   | 
 | 01-Mar     | 5             | Markus          | Intro to information theory                           |
-| 03-Mar     |               | Sarah           | Making recommendations                                | 
-| 05-Mar     |               | Sarah           | Embedding Data                                        |
-| 08-Mar     | 6             | Sarah           | Discovering Groups,                                   |
-| 10-Mar     |               | Sarah           | Document filtering                                    |
-| 12-Mar     |               | Sarah           | Modelling with decision trees                         |
-| 15-Mar     | 7             | Sarah           | Modelling Prices & Nearest Neighbours                 | 
-| 17-Mar     |               | Sarah           | ‘Market Basket’ Analysis                              |
-| 19-Mar     |               | Sarah           | Semantic Spaces & Latent Semantics                    | 
+| 03-Mar     |               | Jo              | Making recommendations                                | 
+| 05-Mar     |               | Jo              | Embedding Data                                        |
+| 08-Mar     | 6             | Jo              | Discovering Groups,                                   |
+| 10-Mar     |               | Jo              | Document filtering                                    |
+| 12-Mar     |               | Jo              | Modelling with decision trees                         |
+| 15-Mar     | 7             | Jo              | Modelling Prices & Nearest Neighbours                 | 
+| 17-Mar     |               | Jo              | ‘Market Basket’ Analysis                              |
+| 19-Mar     |               | Jo              | Semantic Spaces & Latent Semantics                    | 
 | **Easter** |               |                 |                                                       | 
-| 12-Apr     | 8             | Sarah & Markus  | _Group coursework presentations_                      | 
-| 14-Apr     |               | Sarah & Markus  | _Group coursework presentations_                      | 
-| 15-Apr     |               | Sarah & Markus  | _Group coursework presentations_                      |
-| 15-Apr     |               | Sarah & Markus  | _Group coursework presentations_                      | 
-| 16-Apr     |               | Sarah & Markus  | _Group coursework presentations_                      |
-| 19-Apr     | 9             | Sarah & Markus  | _Group coursework presentations_                      |
+| 12-Apr     | 8             | Jo & Markus     | _Group coursework presentations_                      | 
+| 14-Apr     |               | Jo & Markus     | _Group coursework presentations_                      | 
+| 15-Apr     |               | Jo & Markus     | _Group coursework presentations_                      |
+| 15-Apr     |               | Jo & Markus     | _Group coursework presentations_                      | 
+| 16-Apr     |               | Jo & Markus     | _Group coursework presentations_                      |
+| 19-Apr     | 9             | Jo & Markus     | _Group coursework presentations_                      |
 | 21-Apr     |               | Markus          | Mining Data Streams                                   |                
 | 22-Apr     |               | Markus          | Link Prediction on Networks                           |
-| 26-Apr     | 10            | Sarah           | Semantic Spaces & Latent Semantics (missed above)     | 
+| 26-Apr     | 10            | Jo              | Semantic Spaces & Latent Semantics (missed above)     | 
 | 28-Apr     |               | Markus          | Link Prediction on Networks                           | 
-| 29-Apr     |               | Sarah           | Independent Features & Topic Modelling                |
+| 29-Apr     |               | Jo              | Independent Features & Topic Modelling                |
 | 03-May     | 11            |                 |**Bank Holiday**
 | 05-May     |               | Markus          | Community Detection on Networks                       |
 | 06-May     |               | Markus          | Exploiting network structure for IR                   |
-| 10-May     | 12            | Sarah           | Learning to Rank                                      |
-|            |               |                 | (page rank etc.)                                      |
-| 12-May     |               | Sarah           | Exam Revision Q&A                                     | 
+| 10-May     | 12            | Jo              | Learning to Rank                                      |
+| 12-May     |               | Jo              | Exam Revision Q&A                                     | 
 | 13-May     |               | Markus          | Exam Revision Q&A                                     |
 | 14-May     |               |                 | CW Due                                                | 
 |            |               |                 |                                                       | 
@@ -80,8 +79,8 @@ The current timetable is shown below - be aware that this might change (especial
 
 ## Lecture Materials
 Materials to accompany the lectures can be found here:
-
-* [Sarah's material](https://blackboard.soton.ac.uk/) <!---(jon.html)--->
+* [BlackBoard Course](https://blackboard.soton.ac.uk/)
+* [Sarah's material](jon.html)
 * [Markus's material](http://users.ecs.soton.ac.uk/mb8/stats/datamining.html)
 
 ## Coursework
