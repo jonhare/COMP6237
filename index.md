@@ -27,7 +27,7 @@ Fridays	   | 4PM	| Online
 
 There will generally be three lectures each week, making use of the Monday, first Thursday slot and the Friday slot. For some of the weeks we will also use the second Thursday slot. 
 
-<!---When we are not using sessions for formal teaching, the rooms are available for you to use for the group project. At those times both Sarah & Markus will endeavour to be in their respective offices should you wish to get assistance with any aspects of the course (it is advisable to email us before to give us a heads-up that you're coming though).--->
+<!---When we are not using sessions for formal teaching, the rooms are available for you to use for the group project. At those times both Jo & Markus will endeavour to be in their respective offices should you wish to get assistance with any aspects of the course (it is advisable to email us before to give us a heads-up that you're coming though).--->
 
 The current timetable is shown below - be aware that this might change (especially if you ask us to add additional tutorial sessions):
 
@@ -80,22 +80,22 @@ The current timetable is shown below - be aware that this might change (especial
 ## Lecture Materials
 Materials to accompany the lectures can be found here:
 * [BlackBoard Course](https://blackboard.soton.ac.uk/)
-* [Sarah's material](jon.html)
+* [Jo's material](jon.html)
 * [Markus's material](http://users.ecs.soton.ac.uk/mb8/stats/datamining.html)
 
 ## Coursework
 The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
 
-* **Coursework**. Set Monday 8th February. Due 14th May 2021. Feedback by Friday 18th June : [Specification](cw/coursework1.html).
+* **Coursework**. Set Monday 7th February. Due 13th May 2021. Feedback by Friday 17th June : [Specification](cw/coursework1.html).
 * **Coursework**. The handin link for the coursework is [here](https://handin.ecs.soton.ac.uk/handin/2021/COMP6237/1/).
-<!---* **Coursework 2**. Set Monday 17th February. Due Friday 1st May 16:00. Feedback by 12th June 16:00 : [Specification](cw/coursework2.html)--->
+<!---* **Coursework 2**. Set Monday 16th February. Due Friday 1st May 16:00. Feedback by 12th June 16:00 : [Specification](cw/coursework2.html)--->
 
 ## Where to get additional help
 Here are a couple of documents to help you. The first is an overview of the course, so that you can see the structure: 
 * [Course Structure](./lectures/pdf/COMP6237KO.pdf)
 
 Talk to us! As we said above, you are more than welcome to arrange to meet with us via Teams (or in the unused lecture slots / at other times if appropriate) to discuss issues related to the course. <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Jo</a> ([email](mailto:jo.grundy@soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can both be reached by email.
-<!---or by coming to find us in our offices (32/3017 for Sarah & 32/4033 for Markus). --->
+<!---or by coming to find us in our offices (32/4053 for Jo & 32/4033 for Markus). --->
 
 For further practical help, you can also talk with the PhD students, who run the help desk in the Zepler lab.
 
