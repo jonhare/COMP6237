@@ -15,7 +15,7 @@ This course will introduce key concepts in data mining, information extraction a
 ## Lectures
 The lectures for this course will be given by <a href="http://www.ecs.soton.ac.uk/people/mb8">Dr Markus Brede</a> ([email](mailto:mb8@ecs.soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Grundy</a> ([email](mailto:jo.grundy@soton.ac.uk)). 
 
-The lecture slots are as follows: # To be arranged for 21-22
+The lecture slots are as follows: 
 
 Day        | Time | Room   
 -----------|------|-----------------------
@@ -82,9 +82,10 @@ Materials to accompany the lectures can be found here:
 ## Coursework
 The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
 
+Link for forming groups for the coursework
 * **Coursework**. Set Monday 7th February. Due 13th May 2021. Feedback by Friday 17th June : [Specification](cw/coursework1.html).
 * **Coursework**. The handin link for the coursework is [here](https://handin.ecs.soton.ac.uk/handin/2021/COMP6237/1/).
-<!---* **Coursework 2**. Set Monday 16th February. Due Friday 1st May 16:00. Feedback by 12th June 16:00 : [Specification](cw/coursework2.html)--->
+
 
 ## Where to get additional help
 Here are a couple of documents to help you. The first is an overview of the course, so that you can see the structure: 
