@@ -23,7 +23,7 @@ Required files: paper.pdf; mark_split.pdf
 In this coursework you form a team and choose a predictive data mining problem to tackle. Teams are expected to perform a series of experiments on their chosen problem in order to build a predictive model (or set of models) which they **evaluate** and **compare** (across techniques used by the team and any other published approaches). The team must present their work as a written conference paper. The team is also expected to orally present an interim progress report to the class in the week before the Easter vacation. 
 
 ## Details
-Students will form groups of no more than 8 members. We've made a page on the student wiki to help you form teams: [wiki student group list](https://secure.ecs.soton.ac.uk/student/wiki/w/COMP6237-2022-classlist).
+Students will form groups of no more than 6 members. We've made a page on the student wiki to help you form teams: [wiki student group list](https://secure.ecs.soton.ac.uk/student/wiki/w/COMP6237-2022-classlist).
 
 Each group will propose a project in consultation with members of staff; we expect that you'll pick a dataset or challenge that has been or is being used for current data mining research (see the links at the end of this document for some ideas). The project must demonstrate the team's ability to scientifically tackle a real-world *predictive* data-mining problem (as opposed to a *descriptive* or *understanding* type problem that you'll tackle in the individual coursework).
 
