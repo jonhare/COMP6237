@@ -2,8 +2,8 @@
 layout: index
 title: "COMP6237 Data Mining"
 subtitle: "Notes, Slides and Demos for COMP6237 2021-22"
-githubHeader: "true"
-credits: Maintained and taught by <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Grundyt</a>)
+githubHeader: "false"
+credits: Maintained and taught by <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Grundy</a>)
 ---
 
 
@@ -13,10 +13,10 @@ The launcher program that opens when you launch the jar is self explanatory, but
 
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
-27/1/20  | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_mb.pdf) | -- | -- | -- |
-17/2/20  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_jh.pdf) | [PDF](./lectures/pdf/02_Recommender_Systems_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/recommender.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=b7cf6f92-4b86-4af9-8cd6-a9f900d98e95) |
-28/2/20  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups_jh.pdf) | [PDF](./lectures/pdf/03_discovering_groups_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/groups.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=4e4da6a3-5aa9-48e4-b198-a9fc011a1c01) |
-24/2/20  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/04_covariance_jh.pdf) | [PDF](./lectures/pdf/04_covariance_HO_jh.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/04-covariance.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=2e87133a-c98d-4632-aaec-a9ff0108706e) |
+30/1/20  | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_mb.pdf) | -- | -- | -- |
+28/2/20  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_jh.pdf) | [PDF](./lectures/pdf/02_Recommender_Systems_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/recommender.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=b7cf6f92-4b86-4af9-8cd6-a9f900d98e95) |
+07/3/20  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups_jh.pdf) | [PDF](./lectures/pdf/03_discovering_groups_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/groups.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=4e4da6a3-5aa9-48e4-b198-a9fc011a1c01) |
+14/2/20  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/04_covariance_jh.pdf) | [PDF](./lectures/pdf/04_covariance_HO_jh.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/04-covariance.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=2e87133a-c98d-4632-aaec-a9ff0108706e) |
 25/2/20  | Embedding Data | [PDF](./lectures/pdf/05_embedding_data_jh.pdf) | [PDF](./lectures/pdf/05_embedding_data_HO_jh.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/05_embedding_data.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=ab3f66b2-1d62-4bf7-a36e-aa0000d770f3) |
 27/2/20  | Searching and Ranking | [PDF](./lectures/pdf/06_search.pdf) | [PDF](./lectures/pdf/06_search_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/searchRank.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=d2a874dd-a0c2-43d0-89ba-aa030117fbbd) |
 28/2/20   | Document Filtering  | [PDF](./lectures/pdf/07_document_filtering_jh.pdf) | [PDF](./lectures/pdf/07_document_filtering_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/07_doc_filtering.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=4cfbafae-e7b1-4447-98d3-aa060107bee6) |
