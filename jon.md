@@ -13,7 +13,7 @@ The launcher program that opens when you launch the jar is self explanatory, but
 
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
-30/1/20  | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_mb.pdf) | -- | -- | -- |
+30/1/20  | Introduction to Data Mining | [PDF](./lectures/pdf/Intro.pdf) | -- | -- | -- |
 28/2/20  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_jh.pdf) | [PDF](./lectures/pdf/02_Recommender_Systems_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/recommender.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=b7cf6f92-4b86-4af9-8cd6-a9f900d98e95) |
 07/3/20  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups_jh.pdf) | [PDF](./lectures/pdf/03_discovering_groups_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/groups.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=4e4da6a3-5aa9-48e4-b198-a9fc011a1c01) |
 14/2/20  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/04_covariance_jh.pdf) | [PDF](./lectures/pdf/04_covariance_HO_jh.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/04-covariance.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=2e87133a-c98d-4632-aaec-a9ff0108706e) |
