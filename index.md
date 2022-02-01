@@ -20,7 +20,7 @@ The lecture slots are as follows:
 Day        | Time | Room   
 -----------|------|-----------------------
 Mondays    | 9AM	| B46 2003
-Tuesdasy   | 9AM  | B46 2003
+Tuesdays   | 9AM  | B46 2003
 Thursdays	 | 9AM	| B44 1041
 Fridays	   | 5PM	| B02 1039
 
@@ -43,16 +43,16 @@ The current timetable is shown below - be aware that this might change (especial
 | 17-Feb     |               | Jo & Markus     | Group coursework Q & A                                | 
 | 18-Feb     |               | Jo & Markus     | Group coursework Q & A (if needed)                    |
 | 22-Feb     | 4             | Markus          | Tutorial/seminar: logistic regression                 |
-| 23-Feb     |               | Markus          | Intro to information theory                           |
-| 28-Feb     | 5             | Jo              | Making Recommendations                                |
-| 01-Mar     |               | Jo              | Finding Groups, CW brief due                          |      
-| 02-Mar     |               | Jo              | Covariance recap                                      | 
+| 24-Feb     |               | Markus          | Intro to information theory                           |
+| 25-Feb     |               | Jo              | Making Recommendations                                |
+| 28-Feb     | 5             | Jo              | Finding Groups, CW brief due                          |      
+| 01-Mar     |               | Jo              | Covariance recap                                      | 
 | 07-Mar     | 6             | Jo              | Embedding Data                                        |
 | 08-Mar     |               | Jo              | Search                                                |
 | 10-Mar     |               | Jo              | Document filtering                                    |
 | 14-Mar     | 7             | Jo              | Modelling with decision trees                         |
 | 15-Mar     |               | Jo              | Modelling Prices & Nearest Neighbours                 | 
-| 17-Mar     |               | Jo              | ‘Market Basket’ Analysis                              |
+| 17-Mar     |               | Jo              | Market Basket Analysis                                |
 | 21-Mar     | 8             | Jo              | Semantic Spaces & Latent Semantics                    | 
 | 22-Mar     |               | Jo              | Topic Modelling                                       |
 | 23-Mar     |               | Jo              | Outlier Detection                                     |
