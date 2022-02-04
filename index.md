@@ -83,7 +83,7 @@ Materials to accompany the lectures can be found here:
 The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
 
 Link for forming groups for the coursework
-* **Coursework**. Set Monday 7th February. Due 13th May 2021. Feedback by Friday 17th June : [Specification](cw/coursework1.html).
+* **Coursework**. Set Monday 8th February. Due 20th May 2021. Feedback by Friday 17th June : [Specification](cw/coursework1.html).
 * **Coursework**. The handin link for the coursework is [here](https://handin.ecs.soton.ac.uk/handin/2021/COMP6237/1/).
 
 
