@@ -44,9 +44,10 @@ The current timetable is shown below - be aware that this might change (especial
 | 18-Feb     |               | Jo & Markus     | Group coursework Q & A (if needed)     CW brief due   |
 | 22-Feb     | 4             | Markus          | Tutorial/seminar: logistic regression                 |
 | 24-Feb     |               | Markus          | Intro to information theory                           |
-| 25-Feb     |               | Jo              | Making Recommendations                                |
-| 28-Feb     | 5             | Jo              | Finding Groups                                        |      
+| 25-Feb     | 5             | Jo              | Making Recommendations                                |
+| 28-Feb     |               | Jo              | Finding Groups                                        |      
 | 01-Mar     |               | Jo              | Covariance recap                                      | 
+| 03-Mar     |               | Markus          | Information theory   II                               |
 | 07-Mar     | 6             | Jo              | Embedding Data                                        |
 | 08-Mar     |               | Jo              | Search                                                |
 | 10-Mar     |               | Jo              | Document filtering                                    |
