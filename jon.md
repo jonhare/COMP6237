@@ -26,4 +26,4 @@ Date     | Title        | Slides                             | Handouts  | Code 
 21/3/22  | Semantic Spaces | [PDF](./lectures/pdf/11_semantic_spaces_jh.pdf) | [PDF](./lectures/pdf/11_semantic_spaces_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/11_semantic_spaces.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=f6579870-ab48-4be2-9dab-aa1401082db1) |
 22/3/22  | Finding Independent Features, Topic Modelling |  [PDF](./lectures/pdf/12_finding_features_jh.pdf) | [PDF](./lectures/pdf/12_finding_features_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/12_finding_features.ipynb) | [Video](https://coursecast.soton.ac.uk/Panopto/Pages/Viewer.aspx?id=08d7c12b-1ccc-4020-9191-aa170107c147) |
 24/3/22   | Outlier Detection |  [PDF]()  | [PDF]() | [git]() | -- |
-19/5/18  | Exam Prep and Q&A |  -- | -- | -- |
+19/5/22  | Exam Prep and Q&A |  -- | -- | -- |
