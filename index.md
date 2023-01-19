@@ -13,19 +13,18 @@ The challenge of data mining is to transform raw data into useful information an
 This course will introduce key concepts in data mining, information extraction and information indexing; including specific algorithms and techniques for feature extraction, clustering, outlier detection, topic modelling and prediction of complex unstructured data sets. By taking this course you will be given a broad view of the general issues surrounding unstructured and semi-structured data and the application of algorithms to such data. At a practical level you will have the chance to explore an assortment of data mining techniques which you will apply to problems involving real-world data. 
 
 ## Lectures
-The lectures for this course will be given by <a href="http://www.ecs.soton.ac.uk/people/mb8">Dr Markus Brede</a> ([email](mailto:mb8@ecs.soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Grundy</a> ([email](mailto:jo.grundy@soton.ac.uk)). 
+The lectures for this course will be given by <a href="http://www.ecs.soton.ac.uk/people/mb8">Dr Markus Brede</a> ([email](mailto:mb8@ecs.soton.ac.uk)), <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Grundy</a> ([email](mailto:j.grundy@soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/se3e22">Dr Shoaib Ehsan</a>  ([email](mailto:s.ehsan@soton.ac.uk))
 
 The lecture slots are as follows: 
+
 Day        | Time | Room   
------------|------|-----------------------
+-----------|------|---------------
 Mondays    | 9AM	| B44 1041
 Tuesdays   | 9AM  | B54 5025
 Thursdays	 | 12PM	| B02 1039
 Fridays	   | 3PM	| B44 1041
 
 There will generally be three lectures each week, making use of the Monday, first Thursday slot and the Friday slot. For some of the weeks we will also use the second Thursday slot. 
-
-<!---When we are not using sessions for formal teaching, the rooms are available for you to use for the group project. At those times both Jo & Markus will endeavour to be in their respective offices should you wish to get assistance with any aspects of the course (it is advisable to email us before to give us a heads-up that you're coming though).--->
 
 The current timetable is shown below - be aware that this might change (especially if you ask us to add additional tutorial sessions):
 
@@ -93,4 +92,4 @@ Here are a couple of documents to help you. The first is an overview of the cour
 Talk to us! As we said above, you are more than welcome to arrange to meet with us via Teams (or in the unused lecture slots / at other times if appropriate) to discuss issues related to the course. <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Jo</a> ([email](mailto:jo.grundy@soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can both be reached by email.
 <!---or by coming to find us in our offices (32/4053 for Jo & 32/4033 for Markus). --->
 
-For further practical help, you can also talk with the PhD students, who run the help desk in the Zepler lab.
+<!---For further practical help, you can also talk with the PhD students, who run the help desk in the Zepler lab.--->
