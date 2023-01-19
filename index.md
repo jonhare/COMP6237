@@ -28,49 +28,49 @@ There will generally be three lectures each week, making use of the Monday, Tues
 
 The current timetable is shown below - be aware that this might change (especially if you ask us to add additional tutorial sessions):
 
-| Date       | Semester Week | Lecturer(s)   | Topic/Title                                           | 
-|------------|---------------|---------------|-------------------------------------------------------| 
-| 30-Jan     | 1             | Jo & Markus   | Intro to data mining                                  | 
-| 02-Feb     |               | Shoaib        | Linear Regression                                     |
-| 03-Feb     |               | Shoaib        | Maximum Likelihood Estimation                         | 
-| 06-Feb     | 2             | Shoaib        | Tutorial/seminar: linear regression and MLE; CW set   | 
-| 07-Feb     |               | Shoaib        | Logistic regression                                   |
-| 09-Feb     |               | Shoaib        | Dealing with non-linear data                          |
-| 13-Feb     | 3             | Shoaib        | Tutorial/seminar: logistic regression                 |
-| 14-Feb     |               | Shoaib        | Intro to information theory                           |
-| 16-Feb     |               | Shoaib        | Information theory   II                               |
-| 20-Feb     | 4             | Jo & Shoaib   | Group coursework Q & A                                |
-| 21-Feb     |               | Jo & Shoaib   | Group coursework Q & A                                |
-| 23-Feb     |               | Jo & Shoaib   | Group coursework Q & A                                | 
-| 24-Feb     |               | Jo & Shoaib   | Group coursework Q & A   (if needed)     CW brief due | 
-| 27-Feb     | 5             | Jo            | Making Recommendations                                |
-| 28-Mar     |               | Jo            | Finding Groups                                        |      
-| 03-Mar     |               | Jo            | Covariance                                            | 
-| 06-Mar     | 6             | Jo            | Embedding Data                                        |
-| 07-Mar     |               | Jo            | Search                                                |
-| 09-Mar     |               | Jo            | Document filtering                                    |
-| 13-Mar     | 7             | Jo            | Modelling with decision trees                         |
-| 14-Mar     |               | Jo            | Modelling Prices & Nearest Neighbours                 | 
-| 16-Mar     |               | Jo            | Market Basket Analysis                                |
-| 20-Mar     | 9             | Jo & Shoaib   | _Group coursework presentations_                      | 
-| 21-Mar     |               | Jo & Shoaib   | _Group coursework presentations_                      | 
-| 23-Mar     |               | Jo & Shoaib   | _Group coursework presentations_                      |
-| 24-Mar     |               | Jo & Shoaib   | _Group coursework presentations_                      | 
-| **Easter** |               |               |                                                       | 
-| 24-Apr     | 8             | Jo            | Semantic Spaces & Latent Semantics                    | 
-| 25-Apr     |               | Jo            | Topic Modelling                                       |
-| 27-Apr     |               | Jo            | Outlier Detection                                     |
-| 01-May     | 10            |               | **Bank Holiday**                                      |
-| 02-May     |               | Markus        | Link Prediction on Networks                           |
-| 04-May     |               | Markus        | Community Detection on Networks                       | 
-| 08-May     | 11            |               | **Bank Holiday**                                      |
-| 09-May     |               | Markus        | Exploiting network structure for IR                   |
-| 11-May     |               | Shoaib        | Mining Data Streams                                   |  
-| 12-May     |               | Shoaib        | Exam Revision Q&A                                     | 
-| 16-May     | 12            | Jo            | Exam Revision Q&A                                     | 
-| 18-May     |               | Markus        | Exam Revision Q&A                                     |
-| 18-May     |               |               | CW Due                                                | 
-| 22-May     | 13            |               | **Exams**                                             |
+| Date       | Semester Week | Lecturer(s)          | Topic/Title                                           | 
+|------------|---------------|----------------------|-------------------------------------------------------| 
+| 30-Jan     | 1             | Jo & Markus & Shoaib | Intro to data mining                                  | 
+| 02-Feb     |               | Shoaib               | Linear Regression                                     |
+| 03-Feb     |               | Shoaib               | Maximum Likelihood Estimation                         | 
+| 06-Feb     | 2             | Shoaib               | Tutorial/seminar: linear regression and MLE; CW set   | 
+| 07-Feb     |               | Shoaib               | Logistic regression                                   |
+| 09-Feb     |               | Shoaib               | Dealing with non-linear data                          |
+| 13-Feb     | 3             | Shoaib               | Tutorial/seminar: logistic regression                 |
+| 14-Feb     |               | Shoaib               | Intro to information theory                           |
+| 16-Feb     |               | Shoaib               | Information theory   II                               |
+| 20-Feb     | 4             | Jo & Shoaib          | Group coursework Q & A                                |
+| 21-Feb     |               | Jo & Shoaib          | Group coursework Q & A                                |
+| 23-Feb     |               | Jo & Shoaib          | Group coursework Q & A                                | 
+| 24-Feb     |               | Jo & Shoaib          | Group coursework Q & A   (if needed)     CW brief due | 
+| 27-Feb     | 5             | Jo                   | Making Recommendations                                |
+| 28-Mar     |               | Jo                   | Finding Groups                                        |      
+| 03-Mar     |               | Jo                   | Covariance                                            | 
+| 06-Mar     | 6             | Jo                   | Embedding Data                                        |
+| 07-Mar     |               | Jo                   | Search                                                |
+| 09-Mar     |               | Jo                   | Document filtering                                    |
+| 13-Mar     | 7             | Jo                   | Modelling with decision trees                         |
+| 14-Mar     |               | Jo                   | Modelling Prices & Nearest Neighbours                 | 
+| 16-Mar     |               | Jo                   | Market Basket Analysis                                |
+| 20-Mar     | 8             | Jo & Shoaib & Markus | _Group coursework presentations_                      | 
+| 21-Mar     |               | Jo & Shoaib & Markus | _Group coursework presentations_                      | 
+| 23-Mar     |               | Jo & Shoaib & Markus | _Group coursework presentations_                      |
+| 24-Mar     |               | Jo & Shoaib & Markus | _Group coursework presentations_                      | 
+| **Easter** |               |                      |                                                       | 
+| 24-Apr     | 9             | Jo                   | Semantic Spaces & Latent Semantics                    | 
+| 25-Apr     |               | Jo                   | Topic Modelling                                       |
+| 27-Apr     |               | Jo                   | Outlier Detection                                     |
+| 01-May     | 10            |                      | **Bank Holiday**                                      |
+| 02-May     |               | Markus               | Link Prediction on Networks                           |
+| 04-May     |               | Markus               | Community Detection on Networks                       | 
+| 08-May     | 11            |                      | **Bank Holiday**                                      |
+| 09-May     |               | Markus               | Exploiting network structure for IR                   |
+| 11-May     |               | Shoaib               | Mining Data Streams                                   |  
+| 12-May     |               | Shoaib               | Exam Revision Q&A                                     | 
+| 16-May     | 12            | Jo                   | Exam Revision Q&A                                     | 
+| 18-May     |               | Markus               | Exam Revision Q&A                                     |
+| 18-May     |               |                      | CW Due                                                | 
+| 22-May     | 13            |                      | **Exams**                                             |
 
 
 
