@@ -24,7 +24,7 @@ Tuesdays   | 9AM  | B54 5025
 Thursdays	 | 12PM	| B02 1039
 Fridays	   | 3PM	| B44 1041
 
-There will generally be three lectures each week, making use of the Monday, first Thursday slot and the Friday slot. For some of the weeks we will also use the second Thursday slot. 
+There will generally be three lectures each week, making use of the Monday, Tuesday and the Thursday slot. For some of the weeks we will also use the Friday slot. 
 
 The current timetable is shown below - be aware that this might change (especially if you ask us to add additional tutorial sessions):
 
@@ -43,18 +43,17 @@ The current timetable is shown below - be aware that this might change (especial
 | 21-Feb     |               | Jo & Shoaib   | Group coursework Q & A                                |
 | 23-Feb     |               | Jo & Shoaib   | Group coursework Q & A                                | 
 | 24-Feb     |               | Jo & Shoaib   | Group coursework Q & A   (if needed)     CW brief due | 
-| 27-Feb     | 5             | Shoaib        | Mining Data Streams                                   |  
-| 28-Feb     |               | Jo            | Making Recommendations                                |
-| 02-Mar     |               | Jo            | Finding Groups                                        |      
-| 03-Mar     |               | Jo            | Covariance recap                                      | 
+| 27-Feb     | 5             | Jo            | Making Recommendations                                |
+| 28-Mar     |               | Jo            | Finding Groups                                        |      
+| 03-Mar     |               | Jo            | Covariance                                            | 
 | 06-Mar     | 6             | Jo            | Embedding Data                                        |
 | 07-Mar     |               | Jo            | Search                                                |
 | 09-Mar     |               | Jo            | Document filtering                                    |
 | 13-Mar     | 7             | Jo            | Modelling with decision trees                         |
 | 14-Mar     |               | Jo            | Modelling Prices & Nearest Neighbours                 | 
 | 16-Mar     |               | Jo            | Market Basket Analysis                                |
-| 21-Mar     | 8             | Jo            | Semantic Spaces & Latent Semantics                    | 
-| 22-Mar     |               | Jo            | Topic Modelling                                       |
+| 20-Mar     | 8             | Jo            | Semantic Spaces & Latent Semantics                    | 
+| 21-Mar     |               | Jo            | Topic Modelling                                       |
 | 23-Mar     |               | Jo            | Outlier Detection                                     |
 | **Easter** |               |               |                                                       | 
 | 25-Apr     | 9             | Jo & Markus   | _Group coursework presentations_                      | 
@@ -64,11 +63,14 @@ The current timetable is shown below - be aware that this might change (especial
 | 01-May     | 10            |               | **Bank Holiday**                                      |
 | 02-May     |               | Markus        | Link Prediction on Networks                           |
 | 04-May     |               | Markus        | Community Detection on Networks                       | 
-| 08-May     | 11            | Markus        | Exploiting network structure for IR                   |
-| 09-May     |               | Jo            | Exam Revision Q&A                                     | 
-| 11-May     |               | Markus        | Exam Revision Q&A                                     |
-| 15-May     | 12            |               | CW Due                                                | 
-| 24-May     | 13            |               | **Exams**                                             |
+| 08-May     | 11            |               | **Bank Holiday**                                      |
+| 09-May     |               | Markus        | Exploiting network structure for IR                   |
+| 09-May     |               | Shoaib        | Mining Data Streams                                   |  
+| 15-May     | 12            | Shoaib        | Exam Revision Q&A                                     | 
+| 16-May     |               | Jo            | Exam Revision Q&A                                     | 
+| 18-May     |               | Markus        | Exam Revision Q&A                                     |
+| 18-May     |               |               | CW Due                                                | 
+| 22-May     | 13            |               | **Exams**                                             |
 
 
 
