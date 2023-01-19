@@ -16,12 +16,13 @@ This course will introduce key concepts in data mining, information extraction a
 The lectures for this course will be given by <a href="http://www.ecs.soton.ac.uk/people/mb8">Dr Markus Brede</a> ([email](mailto:mb8@ecs.soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Grundy</a> ([email](mailto:jo.grundy@soton.ac.uk)). 
 
 The lecture slots are as follows: 
+
 Day        | Time | Room   
 -----------|------|-----------------------
-Mondays    | 9AM	| B44 1041
-Tuesdays   | 9AM  | B54 5025
-Thursdays	 | 12PM	| B02 1039
-Fridays	   | 3PM	| B44 1041
+Mondays    | 9AM	| B46 2003
+Tuesdays   | 9AM  | B46 2003
+Thursdays	 | 9AM	| B44 1041
+Fridays	   | 5PM	| B02 1039
 
 There will generally be three lectures each week, making use of the Monday, first Thursday slot and the Friday slot. For some of the weeks we will also use the second Thursday slot. 
 
@@ -29,49 +30,49 @@ There will generally be three lectures each week, making use of the Monday, firs
 
 The current timetable is shown below - be aware that this might change (especially if you ask us to add additional tutorial sessions):
 
-| Date       | Semester Week | Lecturer(s)   | Topic/Title                                           | 
-|------------|---------------|---------------|-------------------------------------------------------| 
-| 30-Jan     | 1             | Jo & Markus   | Intro to data mining                                  | 
-| 02-Feb     |               | Shoaib        | Linear Regression                                     |
-| 03-Feb     |               | Shoaib        | Maximum Likelihood Estimation                         | 
-| 06-Feb     | 2             | Shoaib        | Tutorial/seminar: linear regression and MLE; CW set   | 
-| 07-Feb     |               | Shoaib        | Logistic regression                                   |
-| 09-Feb     |               | Shoaib        | Dealing with non-linear data                          |
-| 13-Feb     | 3             | Shoaib        | Tutorial/seminar: logistic regression                 |
-| 14-Feb     |               | Shoaib        | Intro to information theory                           |
-| 16-Feb     |               | Shoaib        | Information theory   II                               |
-| 20-Feb     | 4             | Jo & Shoaib   | Group coursework Q & A                                |
-| 21-Feb     |               | Jo & Shoaib   | Group coursework Q & A                                |
-| 23-Feb     |               | Jo & Shoaib   | Group coursework Q & A                                | 
-| 24-Feb     |               | Jo & Shoaib   | Group coursework Q & A   (if needed)     CW brief due | 
-| 27-Feb     | 5             | Shoaib        | Mining Data Streams                                   |  
-| 28-Feb     |               | Jo            | Making Recommendations                                |
-| 02-Mar     |               | Jo            | Finding Groups                                        |      
-| 03-Mar     |               | Jo            | Covariance recap                                      | 
-| 06-Mar     | 6             | Jo            | Embedding Data                                        |
-| 07-Mar     |               | Jo            | Search                                                |
-| 09-Mar     |               | Jo            | Document filtering                                    |
-| 13-Mar     | 7             | Jo            | Modelling with decision trees                         |
-| 14-Mar     |               | Jo            | Modelling Prices & Nearest Neighbours                 | 
-| 16-Mar     |               | Jo            | Market Basket Analysis                                |
-| 21-Mar     | 8             | Jo            | Semantic Spaces & Latent Semantics                    | 
-| 22-Mar     |               | Jo            | Topic Modelling                                       |
-| 23-Mar     |               | Jo            | Outlier Detection                                     |
-| **Easter** |               |               |                                                       | 
-| 25-Apr     | 9             | Jo & Markus   | _Group coursework presentations_                      | 
-| 26-Apr     |               | Jo & Markus   | _Group coursework presentations_                      | 
-| 28-Apr     |               | Jo & Markus   | _Group coursework presentations_                      |
-| 29-Apr     |               | Jo & Markus   | _Group coursework presentations_                      | 
-| 01-May     | 10            |               | **Bank Holiday**                                      |
-| 02-May     |               | Markus        | Link Prediction on Networks                           |
-| 04-May     |               | Markus        | Community Detection on Networks                       | 
-| 08-May     | 11            | Markus        | Exploiting network structure for IR                   |
-| 09-May     |               | Jo            | Exam Revision Q&A                                     | 
-| 11-May     |               | Markus        | Exam Revision Q&A                                     |
-| 15-May     | 12            |               | CW Due                                                | 
-| 24-May     | 13            |               | **Exams**                                             |
-
-
+| Date       | Semester Week | Lecturer(s)     | Topic/Title                                           | 
+|------------|---------------|-----------------|-------------------------------------------------------| 
+| 01-Feb     | 1             | Jo & Markus     | Intro to data mining                                  | 
+| 03-Feb     |               | Markus          | Linear Regression                                     |
+| 04-Feb     |               | Markus          | Maximum Likelihood Estimation                         | 
+| 08-Feb     | 2             | Markus          | Tutorial/seminar: linear regression and MLE; CW set   | 
+| 10-Feb     |               | Markus          | Logistic regression                                   |
+| 11-Feb     |               | Markus          | Dealing with non-linear data                          |
+| 14-Feb     | 3             | Jo & Markus     | Group coursework Q & A                                |
+| 15-Feb     |               | Jo & Markus     | Group coursework Q & A                                |
+| 17-Feb     |               | Jo & Markus     | Group coursework Q & A                                | 
+| 18-Feb     |               | Jo & Markus     | Group coursework Q & A (if needed)     CW brief due   |
+| 22-Feb     | 4             | Markus          | Tutorial/seminar: logistic regression                 |
+| 24-Feb     |               | Markus          | Intro to information theory                           |
+| 25-Feb     |               | Jo              | Making Recommendations                                |
+| 28-Feb     | 5             | Jo              | Finding Groups                                        |      
+| 01-Mar     |               | Jo              | Covariance recap                                      | 
+| 03-Mar     |               | Markus          | Information theory   II                               |
+| 07-Mar     | 6             | Jo              | Embedding Data                                        |
+| 08-Mar     |               | Jo              | Search                                                |
+| 10-Mar     |               | Jo              | Document filtering                                    |
+| 14-Mar     | 7             | Jo              | Modelling with decision trees                         |
+| 15-Mar     |               | Jo              | Modelling Prices & Nearest Neighbours                 | 
+| 17-Mar     |               | Jo              | Market Basket Analysis                                |
+| 21-Mar     | 8             | Jo              | Semantic Spaces & Latent Semantics                    | 
+| 22-Mar     |               | Jo              | Topic Modelling                                       |
+| 23-Mar     |               | Jo              | Outlier Detection                                     |
+| **Easter** |               |                 |                                                       | 
+| 25-Apr     | 9             | Jo & Markus     | _Group coursework presentations_                      | 
+| 26-Apr     |               | Jo & Markus     | _Group coursework presentations_                      | 
+| 28-Apr     |               | Jo & Markus     | _Group coursework presentations_                      |
+| 29-Apr     |               | Jo & Markus     | _Group coursework presentations_                      | 
+| 02-May     | 10            |                 | **Bank Holiday**                                      |
+| 03-May     |               | Jo & Markus     | _Group coursework presentations_                      |
+| 05-Apr     |               | Markus          | Mining Data Streams                                   |                
+| 06-May     |               | Markus          | Link Prediction on Networks                           |
+| 10-May     | 11            | Markus          | Community Detection on Networks                       | 
+| 11-May     |               | Markus          | Exploiting network structure for IR                   |
+| 17-May     | 12            | Jo              | Exam Revision Q&A                                     | 
+| 18-May     |               | Markus          | Exam Revision Q&A                                     |
+| 20-May     |               |                 | CW Due                                                | 
+| 23-May     | 13            |                 | **Exams**                                             |
+|            |               |                 |                                                       |
 
 ## Lecture Materials
 Materials to accompany the lectures can be found here:
@@ -94,4 +95,3 @@ Talk to us! As we said above, you are more than welcome to arrange to meet with 
 <!---or by coming to find us in our offices (32/4053 for Jo & 32/4033 for Markus). --->
 
 For further practical help, you can also talk with the PhD students, who run the help desk in the Zepler lab.
-
