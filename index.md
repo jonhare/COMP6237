@@ -52,22 +52,22 @@ The current timetable is shown below - be aware that this might change (especial
 | 13-Mar     | 7             | Jo            | Modelling with decision trees                         |
 | 14-Mar     |               | Jo            | Modelling Prices & Nearest Neighbours                 | 
 | 16-Mar     |               | Jo            | Market Basket Analysis                                |
-| 20-Mar     | 8             | Jo            | Semantic Spaces & Latent Semantics                    | 
-| 21-Mar     |               | Jo            | Topic Modelling                                       |
-| 23-Mar     |               | Jo            | Outlier Detection                                     |
+| 20-Mar     | 9             | Jo & Shoaib   | _Group coursework presentations_                      | 
+| 21-Mar     |               | Jo & Shoaib   | _Group coursework presentations_                      | 
+| 23-Mar     |               | Jo & Shoaib   | _Group coursework presentations_                      |
+| 24-Mar     |               | Jo & Shoaib   | _Group coursework presentations_                      | 
 | **Easter** |               |               |                                                       | 
-| 25-Apr     | 9             | Jo & Markus   | _Group coursework presentations_                      | 
-| 26-Apr     |               | Jo & Markus   | _Group coursework presentations_                      | 
-| 28-Apr     |               | Jo & Markus   | _Group coursework presentations_                      |
-| 29-Apr     |               | Jo & Markus   | _Group coursework presentations_                      | 
+| 24-Apr     | 8             | Jo            | Semantic Spaces & Latent Semantics                    | 
+| 25-Apr     |               | Jo            | Topic Modelling                                       |
+| 27-Apr     |               | Jo            | Outlier Detection                                     |
 | 01-May     | 10            |               | **Bank Holiday**                                      |
 | 02-May     |               | Markus        | Link Prediction on Networks                           |
 | 04-May     |               | Markus        | Community Detection on Networks                       | 
 | 08-May     | 11            |               | **Bank Holiday**                                      |
 | 09-May     |               | Markus        | Exploiting network structure for IR                   |
-| 09-May     |               | Shoaib        | Mining Data Streams                                   |  
-| 15-May     | 12            | Shoaib        | Exam Revision Q&A                                     | 
-| 16-May     |               | Jo            | Exam Revision Q&A                                     | 
+| 11-May     |               | Shoaib        | Mining Data Streams                                   |  
+| 12-May     |               | Shoaib        | Exam Revision Q&A                                     | 
+| 16-May     | 12            | Jo            | Exam Revision Q&A                                     | 
 | 18-May     |               | Markus        | Exam Revision Q&A                                     |
 | 18-May     |               |               | CW Due                                                | 
 | 22-May     | 13            |               | **Exams**                                             |
@@ -91,7 +91,7 @@ Link for forming groups for the coursework
 Here are a couple of documents to help you. The first is an overview of the course, so that you can see the structure: 
 * [Course Structure](./lectures/pdf/COMP6237KO.pdf)
 
-Talk to us! As we said above, you are more than welcome to arrange to meet with us via Teams (or in the unused lecture slots / at other times if appropriate) to discuss issues related to the course. <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Jo</a> ([email](mailto:jo.grundy@soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can both be reached by email.
+Talk to us! As we said above, you are more than welcome to arrange to meet with us via Teams (or in the unused lecture slots / at other times if appropriate) to discuss issues related to the course. <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Jo</a> ([email](mailto:jo.grundy@soton.ac.uk)),  <a href="http://www.ecs.soton.ac.uk/people/se3e22">Shoaib</a> ([email](mailto:se3e22@ecs.soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can all be reached by email.
 <!---or by coming to find us in our offices (32/4053 for Jo & 32/4033 for Markus). --->
 
 <!---For further practical help, you can also talk with the PhD students, who run the help desk in the Zepler lab.--->
