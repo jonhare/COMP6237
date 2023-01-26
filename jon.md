@@ -3,7 +3,7 @@ layout: index
 title: "COMP6237 Data Mining"
 subtitle: "Notes, Slides and Demos for COMP6237 2021-22"
 githubHeader: "false"
-credits: Maintained and taught by <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr Jo Grundy</a>)
+credits: Maintained and taught by <a href="http://www.ecs.soton.ac.uk/people/jh1c18">Dr_Jo_Grundy</a>)
 ---
 
 
