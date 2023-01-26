@@ -1,7 +1,7 @@
 ---
 layout: index
 title: "COMP6237 Data Mining"
-subtitle: "Notes, Slides and Demos for COMP6237 2021-22"
+subtitle: "Notes, Slides and Demos for COMP6237 2022-23"
 githubHeader: "false"
 credits: Maintained and taught by [Jo](http://www.ecs.soton.ac.uk/people/jh1c18)
 ---
