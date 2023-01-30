@@ -8,13 +8,13 @@ Credit: 30% of overall module mark
 Team size: no more than 6 students.  
 
 ### Handin #1
-Due date: Friday 18 February 2022, 16:00.  
+Due date: Friday 3rd March 2023, 16:00.  
 Handin: TBC  	
 
 Required files: brief.pdf  Suggested [Brief Template](https://github.com/jonhare/COMP6237/blob/gh-pages/cw/brief_template.tex)
 
 ### Handin #2
-Due date: Friday 20th May 2022, 16:00.  
+Due date: Thursday 18th May 2022, 16:00.  
 Handin: TBC  
 
 Required files: paper.pdf; mark_split.pdf  
