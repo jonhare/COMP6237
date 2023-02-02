@@ -15,6 +15,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
 30/01/23  | Introduction to Data Mining | [PDF](./lectures/pdf/01_intro.pdf) | -- | -- | -- |
 02/02/23  | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | -- |
+[//]: # "Comment
 27/02/23  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_Systems.pdf) | [PDF](./lectures/pdf/02_Recommender_Systems_HO.pdf) | [git](https://github.com/JoGrundy/Data-Mining-Demo-Code-18-19/blob/master/recommender.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=692a40f6-4067-4f8b-86fc-ae4701181940) |
 28/02/23  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups.pdf) | [PDF](./lectures/pdf/03_discovering_groups_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/groups.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1ef4f522-eb43-49ab-b583-ae4a0095a6a8) |
 03/03/23  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/04_covariance.pdf) | [PDF](./lectures/pdf/04_covariance_HO_jh.pdf) | [git](https://github.com/JoGrundy/Data-Mining-Demo-Code-18-19/blob/master/04-covariance.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5eb58a5a-c169-4794-95c7-ae4b0095bd2f) |
@@ -27,4 +28,4 @@ Date     | Title        | Slides                             | Handouts  | Code 
 24/04/23  | Semantic Spaces | [PDF](./lectures/pdf/11_semantic_spaces.pdf) | [PDF](./lectures/pdf/11_semantic_spaces_HO.pdf) | [git](https://github.com/JoGrundy/Data-Mining-Demo-Code-18-19/blob/master/11_semantic_spaces.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=41f0868f-9b3f-442d-9fd1-ae5f009458b4) |
 25/04/23  | Finding Independent Features, Topic Modelling |  [PDF](./lectures/pdf/12_finding_features.pdf) | [PDF](./lectures/pdf/12_finding_features_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/12_finding_features.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c4056449-2ba1-4dd8-b3fd-ae600093e9f5) |
 27/4/23   | Outlier Detection |  [PDF](./lectures/pdf/13_outlier_detection.pdf)  | [PDF](./lectures/pdf/13_outlier_detection_HO.pdf) | [git](https://github.com/jogrundy/Data-Mining-Demo-Code-18-19/blob/master/13_outlier.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5ab8ea1b-bdbe-4e56-a4c2-ae620095944f) |
-19/5/22  | Exam Prep and Q&A |  -- | -- | -- |
+19/5/22  | Exam Prep and Q&A |  -- | -- | -- |"
