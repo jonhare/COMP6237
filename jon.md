@@ -14,6 +14,7 @@ The launcher program that opens when you launch the jar is self explanatory, but
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
 30/01/23  | Introduction to Data Mining | [PDF](./lectures/pdf/01_intro.pdf) | -- | -- | -- |
+02/02/23  | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | -- |
 27/02/23  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_Systems.pdf) | [PDF](./lectures/pdf/02_Recommender_Systems_HO.pdf) | [git](https://github.com/JoGrundy/Data-Mining-Demo-Code-18-19/blob/master/recommender.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=692a40f6-4067-4f8b-86fc-ae4701181940) |
 28/02/23  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups.pdf) | [PDF](./lectures/pdf/03_discovering_groups_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/groups.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1ef4f522-eb43-49ab-b583-ae4a0095a6a8) |
 03/03/23  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/04_covariance.pdf) | [PDF](./lectures/pdf/04_covariance_HO_jh.pdf) | [git](https://github.com/JoGrundy/Data-Mining-Demo-Code-18-19/blob/master/04-covariance.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5eb58a5a-c169-4794-95c7-ae4b0095bd2f) |
