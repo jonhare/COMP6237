@@ -8,13 +8,15 @@ credits: Maintained and taught by [Jo](http://www.ecs.soton.ac.uk/people/jh1c18)
 
 
 Jo's parts of the course will be taught through lectures and demonstrations, based on Jon Hare's lectures and demonstrations written for the course in previous years. Jon Hare's demonstrations and lecture slides are available to download  [here](http://jenkins.ecs.soton.ac.uk/job/COMP6237/lastSuccessfulBuild/artifact/app/target/COMP6237-1.0-SNAPSHOT-jar-with-dependencies.jar).
-
-The launcher program that opens when you launch the jar is self explanatory, but once you've selected a presentation or demo you can make it full screen by pressing "f" (press again to exit). For the presentations you can use the left and right arrow keys to navigate. Note that on some of the interactive slides, you might need to click on the slide background for the arrow keys to work if you clicked on any controls other than buttons.
+<!--
+The launcher program that opens when you launch the jar is self explanatory, but once you've selected a presentation or demo you can make it full screen by pressing "f" (press again to exit). For the presentations you can use the left and right arrow keys to navigate. Note that on some of the interactive slides, you might need to click on the slide background for the arrow keys to work if you clicked on any controls other than buttons. 
+-->
 
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
 30/01/23 | Introduction to Data Mining | [PDF](./lectures/pdf/01_intro.pdf) | -- | -- | -- |
 02/02/23 | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | -- |
+
 <!--
 27/02/23  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_Systems.pdf) | [PDF](./lectures/pdf/02_Recommender_Systems_HO.pdf) | [git](https://github.com/JoGrundy/Data-Mining-Demo-Code-18-19/blob/master/recommender.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=692a40f6-4067-4f8b-86fc-ae4701181940) |
 28/02/23  | Discovering Groups | [PDF](./lectures/pdf/03_discovering_groups.pdf) | [PDF](./lectures/pdf/03_discovering_groups_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/groups.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1ef4f522-eb43-49ab-b583-ae4a0095a6a8) |
