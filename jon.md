@@ -8,9 +8,11 @@ credits: Maintained and taught by [Jo](http://www.ecs.soton.ac.uk/people/jh1c18)
 
 
 Jo's parts of the course will be taught through lectures and demonstrations, based on Jon Hare's lectures and demonstrations written for the course in previous years. Jon Hare's demonstrations and lecture slides are available to download  [here](http://jenkins.ecs.soton.ac.uk/job/COMP6237/lastSuccessfulBuild/artifact/app/target/COMP6237-1.0-SNAPSHOT-jar-with-dependencies.jar).
+
 <!--
 The launcher program that opens when you launch the jar is self explanatory, but once you've selected a presentation or demo you can make it full screen by pressing "f" (press again to exit). For the presentations you can use the left and right arrow keys to navigate. Note that on some of the interactive slides, you might need to click on the slide background for the arrow keys to work if you clicked on any controls other than buttons. 
 -->
+
 
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
