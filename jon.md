@@ -17,7 +17,9 @@ The launcher program that opens when you launch the jar is self explanatory, but
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
 30/01/23 | Introduction to Data Mining | [PDF](./lectures/pdf/01_intro.pdf) | -- | -- | -- |
-02/02/23 | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | -- |
+02/02/23 | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f2b87133-833a-4308-8242-af9d00c5a1fc)|
+03/02/23 | Linear Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=01557032-7da0-45f3-bd8c-af9e00f77277) |
+07/02/23 | [Problem sets](./lectures/pdf/exercise1.pdf) | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2fb6076f-8f3f-49a0-8ee8-afa2009447b5) |
 
 <!--
 27/02/23  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_Systems.pdf) | [PDF](./lectures/pdf/02_Recommender_Systems_HO.pdf) | [git](https://github.com/JoGrundy/Data-Mining-Demo-Code-18-19/blob/master/recommender.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=692a40f6-4067-4f8b-86fc-ae4701181940) |
