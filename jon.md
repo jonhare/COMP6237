@@ -22,8 +22,8 @@ Date     | Title        | Slides                             | Handouts  | Code 
 07/02/23 | [Problem sets](./lectures/pdf/exercise1.pdf) | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2fb6076f-8f3f-49a0-8ee8-afa2009447b5) |
 10/02/23 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c7dd2be0-a8db-41e4-a633-afa400c5d829) |
 13/02/23 | Logistic Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=988abda2-593f-460a-969f-afa500f781ad) |
-14/02/23 | [Problem Sets](./lectures/pdf/exercise2.pdf) | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=79e414ba-a942-4480-b228-afa900946f7f) |
-16/02/23 | Information Theory | [PDF](Information.pdf) | [Solutions](exercise2_sol.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=95cc400c-14cb-461e-959d-afab00c68c6c) |
+14/02/23 | [Problem Sets](./lectures/pdf/exercise2.pdf) | [Solutions](./lectures/pdf/exercise2_sol.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=79e414ba-a942-4480-b228-afa900946f7f) |
+16/02/23 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=95cc400c-14cb-461e-959d-afab00c68c6c) |
 
 <!--
 27/02/23  | Making Recommendations | [PDF](./lectures/pdf/02_Recommender_Systems.pdf) | [PDF](./lectures/pdf/02_Recommender_Systems_HO.pdf) | [git](https://github.com/JoGrundy/Data-Mining-Demo-Code-18-19/blob/master/recommender.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=692a40f6-4067-4f8b-86fc-ae4701181940) |
