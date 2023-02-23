@@ -42,7 +42,7 @@ The current timetable is shown below - be aware that this might change (especial
 | 20-Feb     | 4             | Jo & Shoaib          | Group coursework Q & A                                |
 | 21-Feb     |               | Jo & Shoaib          | Group coursework Q & A                                |
 | 23-Feb     |               | Jo & Shoaib          | Group coursework Q & A                                | 
-| 24-Feb     |               | Jo & Shoaib          | Making Recommendations                   CW brief due | 
+| 24-Feb     |               | Jo                   | Making Recommendations                   CW brief due | 
 | 27-Feb     | 5             | Jo                   | Finding Groups                                        |
 | 28-Mar     |               | Jo                   | Covariance                                            |      
 | 03-Mar     |               | Jo                   | Embedding Data                                        |
