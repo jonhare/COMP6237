@@ -42,24 +42,24 @@ The current timetable is shown below - be aware that this might change (especial
 | 20-Feb     | 4             | Jo & Shoaib          | Group coursework Q & A                                |
 | 21-Feb     |               | Jo & Shoaib          | Group coursework Q & A                                |
 | 23-Feb     |               | Jo & Shoaib          | Group coursework Q & A                                | 
-| 24-Feb     |               | Jo & Shoaib          | Group coursework Q & A   (if needed)     CW brief due | 
-| 27-Feb     | 5             | Jo                   | Making Recommendations                                |
-| 28-Mar     |               | Jo                   | Finding Groups                                        |      
-| 03-Mar     |               | Jo                   | Covariance                                            | 
-| 06-Mar     | 6             | Jo                   | Embedding Data                                        |
-| 07-Mar     |               | Jo                   | Search                                                |
-| 09-Mar     |               | Jo                   | Document filtering                                    |
-| 13-Mar     | 7             | Jo                   | Modelling with decision trees                         |
-| 14-Mar     |               | Jo                   | Modelling Prices & Nearest Neighbours                 | 
-| 16-Mar     |               | Jo                   | Market Basket Analysis                                |
+| 24-Feb     |               | Jo & Shoaib          | Making Recommendations                   CW brief due | 
+| 27-Feb     | 5             | Jo                   | Finding Groups                                        |
+| 28-Mar     |               | Jo                   | Covariance                                            |      
+| 03-Mar     |               | Jo                   | Embedding Data                                        |
+| 06-Mar     | 6             | Jo                   | Search                                                |
+| 07-Mar     |               | Jo                   | Document filtering                                    |
+| 09-Mar     |               | Jo                   | Modelling with decision trees                         |
+| 13-Mar     | 7             | Jo                   | Modelling Prices & Nearest Neighbours                 | 
+| 14-Mar     |               | Jo                   | Market Basket Analysis                                |
+| 16-Mar     |               | Jo                   | Semantic Spaces & Latent Semantics                    | 
 | 20-Mar     | 8             | Jo & Shoaib & Markus | _Group coursework presentations_                      | 
 | 21-Mar     |               | Jo & Shoaib & Markus | _Group coursework presentations_                      | 
 | 23-Mar     |               | Jo & Shoaib & Markus | _Group coursework presentations_                      |
 | 24-Mar     |               | Jo & Shoaib & Markus | _Group coursework presentations_                      | 
 | **Easter** |               |                      |                                                       | 
-| 24-Apr     | 9             | Jo                   | Semantic Spaces & Latent Semantics                    | 
-| 25-Apr     |               | Jo                   | Topic Modelling                                       |
-| 27-Apr     |               | Jo                   | Outlier Detection                                     |
+| 24-Apr     | 9             | Jo                   | Topic Modelling                                       |
+| 25-Apr     |               | Jo                   | Outlier Detection                                     |
+| 27-Apr     |               | Jo                   |                                                       |
 | 01-May     | 10            |                      | **Bank Holiday**                                      |
 | 02-May     |               | Markus               | Link Prediction on Networks                           |
 | 04-May     |               | Markus               | Community Detection on Networks                       | 
