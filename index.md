@@ -45,7 +45,7 @@ The current timetable is shown below - be aware that this might change (especial
 | 24-Feb     |               | Jo                   | Making Recommendations                   CW brief due | 
 | 27-Feb     | 5             | Jo                   | Finding Groups                                        |
 | 28-Mar     |               | Jo                   | Covariance                                            |      
-| 03-Mar     |               | Jo                   | Embedding Data                                        |
+| 02-Mar     |               | Jo                   | Embedding Data                                        |
 | 06-Mar     | 6             | Jo                   | Search                                                |
 | 07-Mar     |               | Jo                   | Document filtering                                    |
 | 09-Mar     |               | Jo                   | Modelling with decision trees                         |
