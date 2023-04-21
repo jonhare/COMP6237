@@ -35,9 +35,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 13/03/23   | Nearest Neighbours | [PDF](./lectures/pdf/09_nearest_neighbours.pdf) | [PDF](./lectures/pdf/09_nearest_neighbours_HO.pdf) | [git](https://github.com/JoGrundy/Data-Mining-Demo-Code-18-19/blob/master/09_nearest_neighbours.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=64c89832-501a-467f-ae3e-ae59009487a8) |
 14/03/23  | Market Basket Analysis |  [PDF](./lectures/pdf/10_market_basket.pdf) | [PDF](./lectures/pdf/10_market_basket_HO.pdf) | [git](https://github.com/JoGrundy/Data-Mining-Demo-Code-18-19/blob/master/10_market_basket.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=41298585-4c32-4016-8a30-ae5b009faf53) |
 16/03/23  | Semantic Spaces | [PDF](./lectures/pdf/11_semantic_spaces.pdf) | [PDF](./lectures/pdf/11_semantic_spaces_HO.pdf) | [git](https://github.com/JoGrundy/Data-Mining-Demo-Code-18-19/blob/master/11_semantic_spaces.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=41f0868f-9b3f-442d-9fd1-ae5f009458b4) |
-
-<!--
 25/04/23  | Finding Independent Features, Topic Modelling |  [PDF](./lectures/pdf/12_finding_features.pdf) | [PDF](./lectures/pdf/12_finding_features_HO.pdf) | [git](https://github.com/JoHoughton/Data-Mining-Demo-Code-18-19/blob/master/12_finding_features.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c4056449-2ba1-4dd8-b3fd-ae600093e9f5) |
 27/4/23   | Outlier Detection |  [PDF](./lectures/pdf/13_outlier_detection.pdf)  | [PDF](./lectures/pdf/13_outlier_detection_HO.pdf) | [git](https://github.com/jogrundy/Data-Mining-Demo-Code-18-19/blob/master/13_outlier.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5ab8ea1b-bdbe-4e56-a4c2-ae620095944f) |
 19/5/22  | Exam Prep and Q&A |  -- | -- | -- |
--->
+
