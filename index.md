@@ -65,9 +65,9 @@ The current timetable is shown below - be aware that this might change (especial
 | 02-May     |               | Markus                  | Exploiting network structure for IR                   | 
 | 06-May     | 11            |                         | **Bank Holiday**                                      |
 | 07-May     |               | Shoaib                  | Mining Data Streams                                   |
-| 09-May     |               | Zhiwu                   | Exam Revision Q&A                                     |  
+| 09-May     |               | Shoaib                  | Exam Revision Q&A                                     |  
 | 13-May     | 12            | Markus                  | Exam Revision Q&A                                     | 
-| 14-May     |               | Shoaib                  | Exam Revision Q&A                                     |
+| 14-May     |               | Zhiwu                   | Exam Revision Q&A                                     |
 | 16-May     |               |                         | CW Due                                                | 
 | 20-May     | 13            |                         | **Exams**                                             |
 
