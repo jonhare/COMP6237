@@ -36,12 +36,12 @@ The current timetable is shown below - be aware that this might change (especial
 | 05-Feb     | 2             | Shoaib                  | Tutorial/seminar: linear regression and MLE; CW set   | 
 | 06-Feb     |               | Shoaib                  | Logistic regression                                   |
 | 08-Feb     |               | Shoaib                  | Dealing with non-linear data                          |
-| 12-Feb     | 3             | Shoaib                  | Tutorial/seminar: logistic regression                 |
-| 13-Feb     |               | Shoaib                  | Intro to information theory                           |
-| 15-Feb     |               | Shoaib                  | Information theory II                                 |
-| 19-Feb     | 4             | Zhiwu & Shoaib          | Group coursework Q & A                                |
-| 20-Feb     |               | Zhiwu & Shoaib          | Group coursework Q & A                                |
-| 22-Feb     |               | Zhiwu & Shoaib          | Group coursework Q & A                                | 
+| 12-Feb     | 3             | Zhiwu & Shoaib          | Group coursework Q & A                                |
+| 13-Feb     |               | Zhiwu & Shoaib          | Group coursework Q & A                                |
+| 15-Feb     |               | Zhiwu & Shoaib          | Group coursework Q & A                                | 
+| 19-Feb     | 4             | Shoaib                  | Tutorial/seminar: logistic regression                 |
+| 20-Feb     |               | Shoaib                  | Intro to information theory                           |
+| 22-Feb     |               | Shoaib                  | Information theory II                                 |
 | 23-Feb     |               | Zhiwu                   | Making Recommendations                   CW brief due | 
 | 26-Feb     | 5             | Zhiwu                   | Finding Groups                                        |
 | 27-Feb     |               | Zhiwu                   | Covariance                                            |      
