@@ -42,24 +42,23 @@ The current timetable is shown below - be aware that this might change (especial
 | 19-Feb     | 4             | Shoaib                  | Tutorial/seminar: logistic regression                 |
 | 20-Feb     |               | Shoaib                  | Intro to information theory                           |
 | 22-Feb     |               | Shoaib                  | Information theory II                                 |
-| 23-Feb     |               | Zhiwu                   | Making Recommendations                   CW brief due | 
-| 26-Feb     | 5             | Zhiwu                   | Finding Groups                                        |
-| 27-Feb     |               | Zhiwu                   | Covariance                                            |      
-| 29-Feb     |               | Zhiwu                   | Embedding Data                                        |
-| 04-Mar     | 6             | Zhiwu                   | Search                                                |
-| 05-Mar     |               | Zhiwu                   | Document filtering                                    |
-| 07-Mar     |               | Zhiwu                   | Modelling with decision trees                         |
-| 11-Mar     | 7             | Zhiwu                   | Modelling Prices & Nearest Neighbours                 | 
-| 12-Mar     |               | Zhiwu                   | Market Basket Analysis                                |
-| 14-Mar     |               | Zhiwu                   | Semantic Spaces & Latent Semantics                    | 
+| 26-Feb     | 5             | Zhiwu                   | Making Recommendations                                | 
+| 27-Feb     |               | Zhiwu                   | Finding Groups                                        |
+| 29-Feb     |               | Zhiwu                   | Covariance                                            |      
+| 04-Mar     | 6             | Zhiwu                   | Embedding Data                                        |
+| 05-Mar     |               | Zhiwu                   | Search                                                |
+| 07-Mar     |               | Zhiwu                   | Document filtering                                    |
+| 11-Mar     | 7             | Zhiwu                   | Modelling with decision trees                         |
+| 12-Mar     |               | Zhiwu                   | Modelling Prices & Nearest Neighbours                 | 
+| 14-Mar     |               | Zhiwu                   | Market Basket Analysis                                |
 | 18-Mar     | 8             | Zhiwu & Shoaib & Markus | _Group coursework presentations_                      | 
 | 19-Mar     |               | Zhiwu & Shoaib & Markus | _Group coursework presentations_                      | 
 | 21-Mar     |               | Zhiwu & Shoaib & Markus | _Group coursework presentations_                      |
 | 22-Mar     |               | Zhiwu & Shoaib & Markus | _Group coursework presentations_                      | 
 | **Easter** |               |                         |                                                       | 
-| 22-Apr     | 9             | Zhiwu                   | Topic Modelling                                       |
-| 23-Apr     |               | Zhiwu                   | Outlier Detection                                     |
-| 25-Apr     |               | Zhiwu                   |                                                       |
+| 22-Apr     | 9             | Zhiwu                   | Semantic Spaces & Latent Semantics                    |
+| 23-Apr     |               | Zhiwu                   | Topic Modelling                                       |
+| 25-Apr     |               | Zhiwu                   | Outlier Detection                                     |
 | 29-Apr     | 10            | Markus                  | Link Prediction on Networks                           |
 | 30-Apr     |               | Markus                  | Community Detection on Networks                       |
 | 02-May     |               | Markus                  | Exploiting network structure for IR                   | 
