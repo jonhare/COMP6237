@@ -93,5 +93,5 @@ The following list has some pointers to places where you might get some inspirat
 ion run by ACM SIG KDD; datasets, evaluation criteria, and info previous winners are available (note that the most recent competitions are actually hosted on kaggle.com).
 
 ## Questions
-If you have any problems/questions then [email](mailto:j.grundy@soton.ac.uk) Jo or [email](mailto:mb8@ecs.soton.ac.uk) Markus.
+If you have any problems/questions then [email](mailto:s.ehsan@soton.ac.uk) Shoaib or [email](mailto:mb8@ecs.soton.ac.uk) Markus.
 <!--or speak to [Jo](http://ecs.soton.ac.uk/people/jh1c18)  or speak to [Markus](http://ecs.soton.ac.uk/people/mb8)  in their offices or after the lectures.-->
