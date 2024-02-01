@@ -9,13 +9,13 @@ Team size: 4 students.
 
 ### Handin #1
 Due date: Friday 23rd February 2024, 16:00.  
-Handin: TBC  	
+Handin: (https://handin.ecs.soton.ac.uk/soton/2324/COMP6237/2/)  	
 
 Required files: brief.pdf  Suggested [Brief Template](https://github.com/jonhare/COMP6237/blob/gh-pages/cw/brief_template.tex)
 
 ### Handin #2
 Due date: Thursday 16th May 2024, 16:00.  
-Handin: TBC  
+Handin: (https://handin.ecs.soton.ac.uk/soton/2324/COMP6237/4/)
 
 Required files: paper.pdf; mark_split.pdf  
 
