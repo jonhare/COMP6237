@@ -33,9 +33,9 @@ The current timetable is shown below - be aware that this might change (especial
 | 29-Jan     | 1             | Zhiwu & Markus & Shoaib | Intro to data mining                                  | 
 | 01-Feb     |               | Shoaib                  | Linear Regression                                     |
 | 02-Feb     |               | Shoaib                  | Maximum Likelihood Estimation                         | 
-| 05-Feb     | 2             | Shoaib                  | Tutorial/seminar: linear regression and MLE; CW set   | 
-| 06-Feb     |               | Shoaib                  | Logistic regression                                   |
-| 08-Feb     |               | Shoaib                  | Dealing with non-linear data                          |
+| 06-Feb     | 2             | Shoaib                  | Tutorial/seminar: linear regression and MLE; CW set   | 
+| 08-Feb     |               | Shoaib                  | Logistic regression                                   |
+| 09-Feb     |               | Shoaib                  | Dealing with non-linear data                          |
 | 12-Feb     | 3             | Zhiwu & Shoaib          | Group coursework Q & A                                |
 | 13-Feb     |               | Zhiwu & Shoaib          | Group coursework Q & A                                |
 | 15-Feb     |               | Zhiwu & Shoaib          | Group coursework Q & A                                | 
