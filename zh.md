@@ -3,7 +3,7 @@ layout: index
 title: "COMP6237 Data Mining"
 subtitle: "Notes, Slides and Demos for COMP6237 2024-25"
 githubHeader: "false"
-credits: Maintained and taught by [Zhiwu](https://www.southampton.ac.uk/people/62bxzm/doctor-zhiwu-huang)
+credits: Maintained and taught by <a href="https://www.southampton.ac.uk/people/62bxzm/doctor-zhiwu-huang">Dr Zhiwu Huang</a>
 ---
 
 
