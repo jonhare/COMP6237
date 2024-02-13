@@ -37,5 +37,5 @@ Date     | Title        | Slides                             | Handouts  | Code 
 22/04/24  | Semantic Spaces | -- | -- | -- | -- |
 23/04/24  | Finding Independent Features, Topic Modelling | -- | -- | -- | -- |
 25/04/24  | Outlier Detection | -- | -- | -- | -- |
-14/05/24  | Exam Prep and Q&A |  -- | -- | -- |
+14/05/24  | Exam Prep and Q&A |  -- | -- | -- | -- |
 
