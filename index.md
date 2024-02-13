@@ -75,7 +75,7 @@ The current timetable is shown below - be aware that this might change (especial
 ## Lecture Materials
 Materials to accompany the lectures can be found here:
 * [BlackBoard Course](https://blackboard.soton.ac.uk/)
-* [Zhiwu's and Shoaib's material](jon.html)
+* [Zhiwu's and Shoaib's material](zh.html)
 * [Markus's material](http://users.ecs.soton.ac.uk/mb8/stats/datamining.html)
 
 ## Coursework
