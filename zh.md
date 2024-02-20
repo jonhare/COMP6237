@@ -25,7 +25,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 19/02/24 | [Problem Sets](./lectures/pdf/exercise2.pdf) | [Solutions](./lectures/pdf/exercise2_sol.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=79e414ba-a942-4480-b228-afa900946f7f) |
 20/02/24 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=95cc400c-14cb-461e-959d-afab00c68c6c) |
 22/02/24 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | [Solutions](./lectures/pdf/exercise3_sol.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4bec38c3-68f6-4a8a-807c-afac00f75a3e) |
-26/02/24  | Making Recommendations | -- | -- | -- | -- |
+26/02/24  | Making Recommendations | [PDF](./lectures/pdf/01_recommendion_systems_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/02_recommender.ipynb) | -- |
 27/02/24  | Discovering Groups | -- | -- | -- | -- |
 29/02/24  | Covariance, EVD, PCA & SVD | -- | -- | -- | -- |
 04/03/24  | Embedding Data | -- | -- | -- | -- |
