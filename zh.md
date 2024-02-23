@@ -26,8 +26,8 @@ Date     | Title        | Slides                             | Handouts  | Code 
 20/02/24 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=95cc400c-14cb-461e-959d-afab00c68c6c) |
 22/02/24 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | [Solutions](./lectures/pdf/exercise3_sol.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4bec38c3-68f6-4a8a-807c-afac00f75a3e) |
 26/02/24  | Making Recommendations | [PDF](./lectures/pdf/01_recommendion_systems_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/02_recommender.ipynb) | -- |
-27/02/24  | Discovering Groups | -- | -- | -- | -- |
-29/02/24  | Covariance, EVD, PCA & SVD | -- | -- | -- | -- |
+27/02/24  | Discovering Groups | [PDF](./lectures/pdf/02_discovering_groups_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/03_clusterings_toys.ipynb) | -- |
+29/02/24  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/03_covariance_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/04_covariance.ipynb) | -- |
 04/03/24  | Embedding Data | -- | -- | -- | -- |
 05/03/24  | Searching and Ranking | -- | -- | -- | -- |
 07/03/24   | Document Filtering  | -- | -- | -- | -- |
