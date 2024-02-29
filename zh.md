@@ -16,15 +16,15 @@ The launcher program that opens when you launch the jar is self explanatory, but
 
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
-29/01/24 | Introduction to Data Mining | [PDF](./lectures/pdf/00_Intro_Markus.pdf) | -- | -- | -- |
-01/02/24 | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f2b87133-833a-4308-8242-af9d00c5a1fc)|
-02/02/24 | Linear Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=01557032-7da0-45f3-bd8c-af9e00f77277) |
-06/02/24 | [Problem sets](./lectures/pdf/exercise1.pdf) | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2fb6076f-8f3f-49a0-8ee8-afa2009447b5) |
-08/02/24 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c7dd2be0-a8db-41e4-a633-afa400c5d829) |
-09/02/24 | Logistic Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=988abda2-593f-460a-969f-afa500f781ad) |
-19/02/24 | [Problem Sets](./lectures/pdf/exercise2.pdf) | [Solutions](./lectures/pdf/exercise2_sol.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=79e414ba-a942-4480-b228-afa900946f7f) |
-20/02/24 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=95cc400c-14cb-461e-959d-afab00c68c6c) |
-22/02/24 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | [Solutions](./lectures/pdf/exercise3_sol.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4bec38c3-68f6-4a8a-807c-afac00f75a3e) |
+29/01/24 | Introduction to Data Mining | [PDF](./lectures/pdf/00_Intro_Markus.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=11fbdc58-e857-432b-9966-b10600948d8f) |
+01/02/24 | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e30a9080-dd4d-4c06-818f-b10900a5cfb8)|
+02/02/24 | Linear Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ca064b16-ea2e-44d7-b594-b10a00d6b7b1) |
+06/02/24 | [Problem sets](./lectures/pdf/exercise1.pdf) | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa1bda93-293c-4ef3-ae9b-b11000a50487) |
+08/02/24 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a513ebef-bde3-403d-967b-b11100d67925) |
+09/02/24 | Logistic Regression | -- | -- | -- | -- |
+19/02/24 | [Problem Sets](./lectures/pdf/exercise2.pdf) | [Solutions](./lectures/pdf/exercise2_sol.pdf) | -- | -- | -- |
+20/02/24 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | -- | -- | -- |
+22/02/24 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | [Solutions](./lectures/pdf/exercise3_sol.pdf) | -- | -- |
 26/02/24  | Making Recommendations | [PDF](./lectures/pdf/01_recommendion_systems_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/02_recommender.ipynb) | -- |
 27/02/24  | Discovering Groups | [PDF](./lectures/pdf/02_discovering_groups_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/03_clusterings_toys.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ea94084f-367f-4892-9103-b122009428a5) |
 29/02/24  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/03_covariance_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/04_covariance.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3bc8088c-2762-43c8-81fc-b12500b57b25) |
