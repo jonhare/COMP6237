@@ -19,9 +19,9 @@ Date     | Title        | Slides                             | Handouts  | Code 
 29/01/24 | Introduction to Data Mining | [PDF](./lectures/pdf/00_Intro_Markus.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=11fbdc58-e857-432b-9966-b10600948d8f) |
 01/02/24 | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e30a9080-dd4d-4c06-818f-b10900a5cfb8)|
 02/02/24 | Linear Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ca064b16-ea2e-44d7-b594-b10a00d6b7b1) |
-06/02/24 | [Problem sets](./lectures/pdf/exercise1.pdf) | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa1bda93-293c-4ef3-ae9b-b11000a50487) |
-08/02/24 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a513ebef-bde3-403d-967b-b11100d67925) |
-09/02/24 | Logistic Regression | -- | -- | -- | -- |
+06/02/24 | [Problem sets](./lectures/pdf/exercise1.pdf) | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | -- | -- |
+08/02/24 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa1bda93-293c-4ef3-ae9b-b11000a50487) |
+09/02/24 | Logistic Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a513ebef-bde3-403d-967b-b11100d67925) |
 19/02/24 | [Problem Sets](./lectures/pdf/exercise2.pdf) | [Solutions](./lectures/pdf/exercise2_sol.pdf) | -- | -- | -- |
 20/02/24 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | -- | -- | -- |
 22/02/24 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | [Solutions](./lectures/pdf/exercise3_sol.pdf) | -- | -- |
