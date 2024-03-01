@@ -28,9 +28,9 @@ Date     | Title        | Slides                             | Handouts  | Code 
 26/02/24  | Making Recommendations | [PDF](./lectures/pdf/01_recommendion_systems_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/02_recommender.ipynb) | -- |
 27/02/24  | Discovering Groups | [PDF](./lectures/pdf/02_discovering_groups_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/03_clusterings_toys.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ea94084f-367f-4892-9103-b122009428a5) |
 29/02/24  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/03_covariance_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/04_covariance.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3bc8088c-2762-43c8-81fc-b12500b57b25) |
-04/03/24  | Embedding Data | [PDF](./lectures/pdf/04_embedding_data_ZH.pdf) | -- | -- | -- |
-05/03/24  | Searching and Ranking | [PDF](./lectures/pdf/05_search_rank_ZH.pdf) | -- | -- | -- |
-07/03/24   | Document Filtering  | [PDF](./lectures/pdf/06_document_filtering_ZH.pdf) | -- | -- | -- |
+04/03/24  | Embedding Data | [PDF](./lectures/pdf/04_embedding_data_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/05_embedding_data.ipynb) | -- |
+05/03/24  | Searching and Ranking | [PDF](./lectures/pdf/05_search_rank_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/06_searchRank.ipynb) | -- |
+07/03/24   | Document Filtering  | [PDF](./lectures/pdf/06_document_filtering_ZH.pdf) | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/07_doc_filtering.ipynb) | -- | -- |
 11/03/24   | Modelling with Decision Trees | -- | -- | -- | -- |
 12/03/24   | Nearest Neighbours | -- | -- | -- | -- |
 14/03/24  | Market Basket Analysis | -- | -- | -- | -- |
