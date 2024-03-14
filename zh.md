@@ -33,7 +33,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 07/03/24   | Document Filtering  | [PDF](./lectures/pdf/06_document_filtering_ZH.pdf)| -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/07_doc_filtering.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=af75af89-37c2-4e34-b677-b12c00a49104) |
 11/03/24   | Modelling with Decision Trees | [PDF](./lectures/pdf/07_decision_tree_ZH.pdf)  | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/08_decisiontrees.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e2b687d5-f10c-4413-b6ff-b13000941f18) |
 12/03/24   | Nearest Neighbours | [PDF](./lectures/pdf/08-nearest_nighbours_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/09_nearest_neighbours.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2fa733e5-6831-44ec-ae1e-b13100944dd6) |
-14/03/24  | Market Basket Analysis | [PDF](./lectures/pdf/09-market_basket_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/10_market_basket.ipynb) | -- |
+14/03/24  | Market Basket Analysis | [PDF](./lectures/pdf/09-market_basket_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/10_market_basket.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d504ffa5-09b9-4269-ab50-b13300a49038) |
 22/04/24  | Semantic Spaces | -- | -- | -- | -- |
 23/04/24  | Finding Independent Features, Topic Modelling | -- | -- | -- | -- |
 25/04/24  | Outlier Detection | -- | -- | -- | -- |
