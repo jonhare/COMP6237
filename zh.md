@@ -36,6 +36,6 @@ Date     | Title        | Slides                             | Handouts  | Code 
 14/03/24  | Market Basket Analysis | [PDF](./lectures/pdf/09-market_basket_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/10_market_basket.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d504ffa5-09b9-4269-ab50-b13300a49038) |
 22/04/24  | Semantic Spaces | [PDF](./lectures/pdf/10_semantic_spaces_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/11_semantic_spaces.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a88da0f0-766b-4f24-81d4-b15a0083911d) |
 23/04/24  | Finding Independent Features, Topic Modelling | [PDF](./lectures/pdf/11_finding_features_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/12_finding_features.ipynb) | -- |
-25/04/24  | Outlier Detection | [PDF](./lectures/pdf/12_outlier_detection_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/13_outlier.ipynb) | -- |
+25/04/24  | Outlier Detection | [PDF](./lectures/pdf/12_outlier_detection_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/13_outlier.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3e887a1d-1659-4440-b95e-b15e00c55a4d) |
 14/05/24  | Exam Prep and Q&A |  -- | -- | -- | -- |
 
