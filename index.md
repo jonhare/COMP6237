@@ -1,7 +1,7 @@
 ---
 layout: index
 title: "COMP6237 Data Mining"
-subtitle: "2023-24"
+subtitle: "2024-25"
 githubHeader: "false"
 credits: Maintained by <a href="https://www.southampton.ac.uk/people/628dpz/doctor-shoaib-ehsan">Dr Shoaib Ehsan</a>.
 ---
@@ -17,56 +17,55 @@ The lectures for this course will be given by <a href="http://www.ecs.soton.ac.u
 
 The lecture slots are as follows: 
 
-Day        | Time | Room   
------------|------|---------------
-Mondays    | 9AM	| B02 1039 (L/T K)
-Tuesdays   | 9AM  | B46 2003 (L/T B)
-Thursdays	 | 10AM	| B02 1039 (L/T K)
-Fridays	   | 1PM	| B02 1039 (L/T K)
+Day        | Time  | Room   
+-----------|-------|---------------
+Mondays    | 12 PM | B06 1081 (L/R B)
+Mondays    |  5 PM | B06 1081 (L/R B)
+Tuesdays	 | 10 AM | B07 3031 (L/R F2)
+Thursdays	 | 11 AM | B07 3027 (L/R F1)
 
-There will generally be three lectures each week, making use of the Monday, Tuesday and the Thursday slot. For some of the weeks we will also use the Friday slot. 
+There will generally be three lectures each week, making use of the Monday (12 pm), Tuesday and the Thursday slots. For some of the weeks, we may also use the Monday (5 pm) slot. 
 
 The current timetable is shown below - be aware that this might change (especially if you ask us to add additional tutorial sessions):
 
 | Date       | Semester Week | Lecturer(s)             | Topic/Title                                           | 
 |------------|---------------|-------------------------|-------------------------------------------------------| 
-| 29-Jan     | 1             | Zhiwu & Markus & Shoaib | Intro to data mining                                  | 
-| 01-Feb     |               | Shoaib                  | Linear Regression                                     |
-| 02-Feb     |               | Shoaib                  | Maximum Likelihood Estimation                         | 
-| 06-Feb     | 2             | Shoaib                  | Tutorial/seminar: linear regression and MLE; CW set   | 
-| 08-Feb     |               | Shoaib                  | Logistic regression                                   |
-| 09-Feb     |               | Shoaib                  | Dealing with non-linear data                          |
-| 12-Feb     | 3             | Zhiwu & Shoaib          | Group coursework Q & A                                |
-| 13-Feb     |               | Zhiwu & Shoaib          | Group coursework Q & A                                |
-| 15-Feb     |               | Zhiwu & Shoaib          | Group coursework Q & A                                | 
-| 19-Feb     | 4             | Shoaib                  | Tutorial/seminar: logistic regression                 |
-| 20-Feb     |               | Shoaib                  | Intro to information theory                           |
-| 22-Feb     |               | Shoaib                  | Information theory II                                 |
-| 26-Feb     | 5             | Zhiwu                   | Making Recommendations                                | 
-| 27-Feb     |               | Zhiwu                   | Finding Groups                                        |
-| 29-Feb     |               | Zhiwu                   | Covariance                                            |      
-| 04-Mar     | 6             | Zhiwu                   | Embedding Data                                        |
-| 05-Mar     |               | Zhiwu                   | Search                                                |
-| 07-Mar     |               | Zhiwu                   | Document filtering                                    |
-| 11-Mar     | 7             | Zhiwu                   | Modelling with decision trees                         |
-| 12-Mar     |               | Zhiwu                   | Modelling Prices & Nearest Neighbours                 | 
-| 14-Mar     |               | Zhiwu                   | Market Basket Analysis                                |
-| 18-Mar     | 8             | Zhiwu & Shoaib & Markus | _Group coursework presentations_                      | 
-| 19-Mar     |               | Zhiwu & Shoaib & Markus | _Group coursework presentations_                      | 
-| 21-Mar     |               | Zhiwu & Shoaib & Markus | _Group coursework presentations_                      |
-| 22-Mar     |               | Zhiwu & Shoaib & Markus | _Group coursework presentations_                      | 
+| 27-Jan     | 1             | Shoaib                  | Intro to data mining                                  | 
+| 28-Jan     |               | Shoaib                  | Linear Regression                                     |
+| 30-Jan     |               | Shoaib                  | Maximum Likelihood Estimation                         | 
+| 03-Feb     | 2             | Shoaib                  | Linear Regression and MLE Problem Sets; Group CW set  | 
+| 04-Feb     |               | Shoaib                  | Logistic Regression                                   |
+| 06-Feb     |               | Shoaib                  | Dealing with non-linear data                          |
+| 10-Feb     | 3             | Shoaib & Zhiwu          | Group coursework Q & A                                |
+| 11-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |
+| 13-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                | 
+| 17-Feb     | 4             | Zhiwu                   | Making Recommendations                                | 
+| 18-Feb     |               | Zhiwu                   | Finding Groups                                        |
+| 20-Feb     |               | Zhiwu                   | Covariance                                            |      
+| 24-Feb     | 5             | Zhiwu                   | Embedding Data                                        |
+| 25-Feb     |               | Zhiwu                   | Search                                                |
+| 27-Feb     |               | Zhiwu                   | Document filtering                                    |
+| 03-Mar     | 6             | Zhiwu                   | Modelling with decision trees                         |
+| 04-Mar     |               | Zhiwu                   | Modelling Prices & Nearest Neighbours                 | 
+| 06-Mar     |               | Zhiwu                   | Market Basket Analysis                                |
+| 10-Mar     | 7             | Zhiwu                   | Semantic Spaces & Latent Semantics                    |
+| 11-Mar     |               | Zhiwu                   | Topic Modelling                                       |
+| 13-Mar     |               | Zhiwu                   | Outlier Detection                                     |
+| 17-Mar     | 8             | Shoaib & Zhiwu & Markus | Group Coursework Presentations                        | 
+| 18-Mar     |               | Shoaib & Zhiwu & Markus | Group Coursework Presentations                        | 
+| 20-Mar     |               | Shoaib & Zhiwu & Markus | Group Coursework Presentations                        | 
+| 24-Mar     | 9             | Shoaib                  | Logistic Regression Problem Sets                      |
+| 25-Mar     |               | Shoaib                  | Intro to Information Theory                           |
+| 27-Mar     |               | Shoaib                  | Information Theory II                                 |
 | **Easter** |               |                         |                                                       | 
-| 22-Apr     | 9             | Zhiwu                   | Semantic Spaces & Latent Semantics                    |
-| 23-Apr     |               | Zhiwu                   | Topic Modelling                                       |
-| 25-Apr     |               | Zhiwu                   | Outlier Detection                                     |
-| 29-Apr     | 10            | Markus                  | Link Prediction on Networks                           |
-| 30-Apr     |               | Markus                  | Community Detection on Networks                       |
-| 02-May     |               | Markus                  | Exploiting network structure for IR                   | 
-| 06-May     | 11            |                         | **Bank Holiday**                                      |
-| 07-May     |               | Shoaib                  | Mining Data Streams                                   |
-| 09-May     |               | Shoaib                  | Exam Revision Q&A                                     |  
-| 13-May     | 12            | Markus                  | Exam Revision Q&A                                     | 
-| 14-May     |               | Zhiwu                   | Exam Revision Q&A                                     |
+| 28-Apr     | 10            | Markus                  | Link Prediction on Networks                           |
+| 29-Apr     |               | Markus                  | Community Detection on Networks                       |
+| 01-May     |               | Markus                  | Exploiting network structure for IR                   | 
+| 05-May     | 11            |                         | **Bank Holiday**                                      |
+| 06-May     |               | Shoaib                  | Mining Data Streams                                   |
+| 08-May     |               | Shoaib                  | Exam Revision Q&A                                     |  
+| 12-May     | 12            | Zhiwu                   | Exam Revision Q&A                                     | 
+| 13-May     |               | Markus                  | Exam Revision Q&A                                     |
 | 16-May     |               |                         | CW Due                                                | 
 | 20-May     | 13            |                         | **Exams**                                             |
 
@@ -82,8 +81,8 @@ Materials to accompany the lectures can be found here:
 The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
 
 Link for forming groups for the coursework [Link](https://secure.ecs.soton.ac.uk/student/wiki/w/COMP6237-2023-classlist).
-* **[Coursework Brief](https://comp6237.ecs.soton.ac.uk/cw/coursework1.html)** Due Friday 23rd Feb [Handin Link](https://handin.ecs.soton.ac.uk/soton/2324/COMP6237/2/)
-* **Coursework Presentation** Due 18th March - 22nd March 
+* **[Coursework Brief](https://comp6237.ecs.soton.ac.uk/cw/coursework1.html)** Due Friday 21st Feb [Handin Link](https://handin.ecs.soton.ac.uk/soton/2324/COMP6237/2/)
+* **Coursework Presentation** Due 17th March - 21st March 
 * **[Coursework Report](https://comp6237.ecs.soton.ac.uk/cw/coursework1.html)**. Due Friday 16th May [Handin Link](https://handin.ecs.soton.ac.uk/soton/2324/COMP6237/4/)
 
 ## Where to get additional help
