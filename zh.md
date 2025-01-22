@@ -7,7 +7,7 @@ credits: Maintained and taught by <a href="https://www.southampton.ac.uk/people/
 ---
 
 
-Zhiwu's parts of the course will be taught through lectures and demonstrations, based on Jon Hare's and Jo Grundy's lectures and demonstrations written for the course in previous years. Their demonstrations, lecture slides, and videos are available [here](jon.html). Please note that video recordings are not provided for all lectures. This is due to either technical issues or our desire to encourage greater in-person attendance.
+Zhiwu's parts of the course will be taught through lectures and demonstrations, based on Jon Hare's and Jo Grundy's lectures and demonstrations written for the course in previous years. Their demonstrations, lecture slides, and videos are available [here](jon.html). Please note that video recordings are not available for all lectures. This may be due to technical issues or our intention to encourage greater in-person attendance. Additionally, some recordings may only be available for lectures from earlier years.
 
 <!--
 The launcher program that opens when you launch the jar is self explanatory, but once you've selected a presentation or demo you can make it full screen by pressing "f" (press again to exit). For the presentations you can use the left and right arrow keys to navigate. Note that on some of the interactive slides, you might need to click on the slide background for the arrow keys to work if you clicked on any controls other than buttons. 
@@ -37,5 +37,5 @@ Date     | Title        | Slides                             | Handouts  | Code 
 24/03/25 | [Problem Sets](./lectures/pdf/exercise2.pdf) | -- | [Solutions](./lectures/pdf/exercise2_sol.pdf) | -- | -- |
 25/03/25 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | -- | -- | -- |
 27/03/25 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | [Solutions](./lectures/pdf/exercise3_sol.pdf) | -- | -- |
-14/05/25  | Exam Prep and Q&A |  -- | [Exercises](./lectures/pdf/vevox_mcqs.pdf) | -- | -- |
+12/05/25  | Exam Prep and Q&A |  -- | [Exercises](./lectures/pdf/vevox_mcqs.pdf) | -- | -- |
 
