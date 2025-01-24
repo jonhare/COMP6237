@@ -73,13 +73,13 @@ The current timetable is shown below - be aware that this might change (especial
 
 ## Lecture Materials
 Materials to accompany the lectures can be found here:
-* [Zhiwu's and Shoaib's material](zh.html)
-* [Markus's material](http://users.ecs.soton.ac.uk/mb8/stats/datamining.html)
+* [Zhiwu's and Shoaib's material]
+* [Markus's material]
 
 ## Coursework
 The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
 
-Link for forming groups for the coursework [Link](https://secure.ecs.soton.ac.uk/student/wiki/w/COMP6237-2023-classlist).
+Link for forming groups for the coursework [Link](https://secure.ecs.soton.ac.uk/student/wiki/w/COMP6237-2024-classlist).
 * **[Coursework Brief]** Due Friday 21st Feb.
 * **Coursework Presentation** Due 17th March - 21st March. 
 * **[Coursework Report]**. Due Friday 16th May.
