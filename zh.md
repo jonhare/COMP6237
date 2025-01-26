@@ -42,5 +42,4 @@ Date     | Title        | Slides                             | Handouts  | Code 
 25/03/25 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | -- | -- | -- |
 27/03/25 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | [Solutions](./lectures/pdf/exercise3_sol.pdf) | -- | -- |
 12/05/25  | Exam Prep and Q&A |  -- | [Exercises](./lectures/pdf/vevox_mcqs.pdf) | -- | -- |
-
 -->
