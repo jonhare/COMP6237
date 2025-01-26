@@ -18,7 +18,7 @@ The launcher program that opens when you launch the jar is self explanatory, but
 
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
-27/01/25 | Introduction to Data Mining | [PDF](./lectures/pdf/Intro to Data Mining.pdf) | -- | -- | -- |
+27/01/25 | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_to_Data_Mining.pdf) | -- | -- | -- |
 <!--
 [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=11fbdc58-e857-432b-9966-b10600948d8f) |
 
