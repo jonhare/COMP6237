@@ -73,7 +73,7 @@ The current timetable is shown below - be aware that this might change (especial
 
 ## Lecture Materials
 Materials to accompany the lectures can be found here:
-* [Zhiwu's and Shoaib's material]
+* [Zhiwu's and Shoaib's material](zh.md)
 * [Markus's material]
 
 ## Coursework
