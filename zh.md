@@ -21,7 +21,6 @@ Date     | Title        | Slides                             | Handouts  | Code 
 27/01/25 | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_to_Data_Mining.pdf) | -- | -- | -- |
 <!--
 [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=11fbdc58-e857-432b-9966-b10600948d8f) |
-
 28/01/25 | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e30a9080-dd4d-4c06-818f-b10900a5cfb8)|
 30/01/25 | Linear Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ca064b16-ea2e-44d7-b594-b10a00d6b7b1) |
 03/02/25 | [Problem sets](./lectures/pdf/exercise1.pdf) | -- | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | -- |
