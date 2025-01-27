@@ -31,12 +31,12 @@ The current timetable is shown below - be aware that this might change (especial
 | Date       | Semester Week | Lecturer(s)             | Topic/Title                                           | 
 |------------|---------------|-------------------------|-------------------------------------------------------| 
 | 27-Jan     | 1             | Shoaib                  | Intro to data mining                                  | 
-| 28-Jan     |               | Shoaib                  | Linear Regression                                     |
-| 30-Jan     |               | Shoaib                  | Maximum Likelihood Estimation                         | 
-| 03-Feb     | 2             | Shoaib                  | Linear Regression and MLE Problem Sets; Group CW set  | 
-| 04-Feb     |               | Shoaib                  | Logistic Regression                                   |
-| 06-Feb     |               | Shoaib                  | Dealing with non-linear data                          |
-| 10-Feb     | 3             | Shoaib & Zhiwu          | Group coursework Q & A                                |
+| 30-Jan     |               | Shoaib                  | Linear Regression                                     |
+| 03-Feb     | 2             | Shoaib                  | Maximum Likelihood Estimation; Group CW set           | 
+| 04-Feb     |               | Shoaib                  | Linear Regression and MLE Problem Sets                | 
+| 06-Feb     |               | Shoaib                  | Logistic Regression                                   |
+| 10-Feb 12pm| 3             | Shoaib & Zhiwu          | Group coursework Q & A                                |
+| 10-Feb  5pm|               | Shoaib                  | Dealing with non-linear data                          |
 | 11-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |
 | 13-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                | 
 | 17-Feb     | 4             | Zhiwu                   | Making Recommendations                                | 
