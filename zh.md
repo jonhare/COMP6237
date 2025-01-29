@@ -19,8 +19,9 @@ The launcher program that opens when you launch the jar is self explanatory, but
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
 27/01/25 | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_to_Data_Mining.pdf) | -- | -- |[Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57fc4937-57dd-4dba-8d8b-b27200c61d3d)|
+30/01/25 | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video]|
 <!--
-28/01/25 | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e30a9080-dd4d-4c06-818f-b10900a5cfb8)|
+(https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e30a9080-dd4d-4c06-818f-b10900a5cfb8)|
 30/01/25 | Linear Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ca064b16-ea2e-44d7-b594-b10a00d6b7b1) |
 03/02/25 | [Problem sets](./lectures/pdf/exercise1.pdf) | -- | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | -- |
 04/02/25 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa1bda93-293c-4ef3-ae9b-b11000a50487) |
