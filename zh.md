@@ -19,7 +19,7 @@ The launcher program that opens when you launch the jar is self explanatory, but
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
 27/01/25 | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_to_Data_Mining.pdf) | -- | -- |[Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57fc4937-57dd-4dba-8d8b-b27200c61d3d)|
-30/01/25 | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video]|
+30/01/25 | Linear Regression | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=62bea790-f2bc-4e3b-a8b1-b27500b55fc6)|
 <!--
 (https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e30a9080-dd4d-4c06-818f-b10900a5cfb8)|
 30/01/25 | Linear Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ca064b16-ea2e-44d7-b594-b10a00d6b7b1) |
