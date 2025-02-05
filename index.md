@@ -31,15 +31,16 @@ The current timetable is shown below - be aware that this might change (especial
 | Date       | Semester Week | Lecturer(s)             | Topic/Title                                           | 
 |------------|---------------|-------------------------|-------------------------------------------------------| 
 | 27-Jan     | 1             | Shoaib                  | Intro to data mining                                  | 
-| 30-Jan     |               | Shoaib                  | Linear Regression                                     |
-| 03-Feb     | 2             | Shoaib                  | Maximum Likelihood Estimation; Group CW set           | 
-| 04-Feb     |               | Shoaib                  | Linear Regression and MLE Problem Sets                | 
-| 06-Feb     |               | Shoaib                  | Logistic Regression                                   |
+| 30-Jan     |               | Shoaib                  | Linear Regression I                                   |
+| 03-Feb     | 2             | Shoaib                  | Linear Regression II (MLE); Group CW set              | 
+| 04-Feb     |               | Shoaib                  | Linear Regression III                                 | 
+| 06-Feb     |               | Shoaib                  | Linear Regression Problem Sets                        |
 | 10-Feb 12pm| 3             | Shoaib & Zhiwu          | Group coursework Q & A                                |
-| 10-Feb  5pm|               | Shoaib                  | Dealing with non-linear data                          |
+| 10-Feb  5pm|               | Shoaib                  | Logistic Regression                                   |
 | 11-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |
 | 13-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                | 
-| 17-Feb     | 4             | Zhiwu                   | Making Recommendations                                | 
+| 17-Feb 12pm| 4             | Zhiwu                   | Making Recommendations                                |
+| 17-Feb  5pm|               | Shoaib                  | Dealing with non-linear data                          |
 | 18-Feb     |               | Zhiwu                   | Finding Groups                                        |
 | 20-Feb     |               | Zhiwu                   | Covariance                                            |      
 | 24-Feb     | 5             | Zhiwu                   | Embedding Data                                        |
