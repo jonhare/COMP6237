@@ -22,10 +22,9 @@ Date     | Title        | Slides                             | Handouts  | Code 
 30/01/25 | Linear Regression I | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=62bea790-f2bc-4e3b-a8b1-b27500b55fc6)|
 03/02/25 | Linear Regression II        | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c192ef02-4037-4631-971c-b27900c723a7)|
 04/02/25 | Linear Regression III       | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9f755f9-9cc9-47e0-88d5-b27a00a4fd50)|
-06/02/25 | [Linear Regression Problem sets](./lectures/pdf/exercise1.pdf) | -- | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | -- |
-
+06/02/25 | [Linear Regression Problem sets](./lectures/pdf/exercise1.pdf) | -- | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=42aeac54-4a04-4762-8369-b27c00b56072) |
+10/02/25 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | [Video] |
 <!--
-04/02/25 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa1bda93-293c-4ef3-ae9b-b11000a50487) |
 06/02/25 | Logistic Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a513ebef-bde3-403d-967b-b11100d67925) |
 17/02/25  | Making Recommendations | [PDF](./lectures/pdf/01_recommendion_systems_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/02_recommender.ipynb) | -- |
 18/02/25  | Discovering Groups | [PDF](./lectures/pdf/02_discovering_groups_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/03_clusterings_toys.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ea94084f-367f-4892-9103-b122009428a5) |
