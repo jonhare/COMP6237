@@ -24,6 +24,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 04/02/25 | Linear Regression III       | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9f755f9-9cc9-47e0-88d5-b27a00a4fd50)|
 06/02/25 | [Linear Regression Problem sets](./lectures/pdf/exercise1.pdf) | -- | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=42aeac54-4a04-4762-8369-b27c00b56072) |
 10/02/25 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | Video |
+
 <!--
 06/02/25 | Logistic Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a513ebef-bde3-403d-967b-b11100d67925) |
 17/02/25  | Making Recommendations | [PDF](./lectures/pdf/01_recommendion_systems_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/02_recommender.ipynb) | -- |
