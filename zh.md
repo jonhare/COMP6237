@@ -3,13 +3,13 @@ layout: index
 title: "COMP6237 Data Mining"
 subtitle: "Notes, Slides and Demos for COMP6237 2024-25"
 githubHeader: "false"
-credits: Maintained and taught by <a href="https://www.southampton.ac.uk/people/62bxzm/doctor-zhiwu-huang">Dr Zhiwu Huang</a>
+credits: Maintained by <a href="https://www.southampton.ac.uk/people/628dpz/doctor-shoaib-ehsan">Dr Shoaib Ehsan</a> and <a href="https://www.southampton.ac.uk/people/62bxzm/doctor-zhiwu-huang">Dr Zhiwu Huang</a>
 ---
 
 
 Zhiwu's parts of the course will be taught through lectures and demonstrations, based on Jon Hare's and Jo Grundy's lectures and demonstrations written for the course in previous years. Their demonstrations, lecture slides, and videos are available [here](jon.html). Please note that video recordings are not available for all lectures. This may be due to technical issues or our intention to encourage greater in-person attendance. Additionally, some recordings may only be available for lectures from earlier years. 
 
-The module [AICE1006-EDA resource](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA) can help facilitate understanding of the provided code.
+The module [AICE1006-EDA Resource](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA) provides useful insights to help understand the provided codes, while the [Iridis Useful Scripts](https://github.com/ecs-vlc/iridis-useful-scripts) can enhance efficiency for computationally intensive tasks.
 
 <!--
 The launcher program that opens when you launch the jar is self explanatory, but once you've selected a presentation or demo you can make it full screen by pressing "f" (press again to exit). For the presentations you can use the left and right arrow keys to navigate. Note that on some of the interactive slides, you might need to click on the slide background for the arrow keys to work if you clicked on any controls other than buttons. 
@@ -24,6 +24,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 04/02/25 | Linear Regression III       | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9f755f9-9cc9-47e0-88d5-b27a00a4fd50)|
 06/02/25 | [Linear Regression Problem sets](./lectures/pdf/exercise1.pdf) | -- | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=42aeac54-4a04-4762-8369-b27c00b56072) |
 10/02/25 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | Video |
+
 
 <!--
 06/02/25 | Logistic Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a513ebef-bde3-403d-967b-b11100d67925) |
