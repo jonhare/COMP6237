@@ -7,9 +7,9 @@ credits: Maintained by <a href="https://www.southampton.ac.uk/people/628dpz/doct
 ---
 
 
-Zhiwu's parts of the course will be taught through lectures and demonstrations, based on Jon Hare's and Jo Grundy's lectures and demonstrations written for the course in previous years. Their demonstrations, lecture slides, and videos are available [here](jon.html). Please note that video recordings are not available for all lectures. This may be due to technical issues or our intention to encourage greater in-person attendance. Additionally, some recordings may only be available for lectures from earlier years. 
+Zhiwu's parts of the course will be taught through lectures and demonstrations, based on Jon Hare's and Jo Grundy's lectures and demonstrations written for the course in previous years. Their demonstrations, lecture slides, and videos are available [here](jon.html). Please note that video recordings may not be available for all lectures. This may be due to technical issues or our intention to encourage greater in-person attendance. Additionally, some recordings may only be available for lectures from earlier years. 
 
-The module [AICE1006-EDA Resource](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA) provides useful insights to help understand the provided codes, while the [Iridis Useful Scripts](https://github.com/ecs-vlc/iridis-useful-scripts) can enhance efficiency for computationally intensive tasks.
+The module [AICE1006-EDA Resource](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA) provides useful insights and example codes on basic data processing and analysis, while the [Iridis Useful Scripts](https://github.com/ecs-vlc/iridis-useful-scripts) can enhance efficiency for computationally intensive tasks.
 
 <!--
 The launcher program that opens when you launch the jar is self explanatory, but once you've selected a presentation or demo you can make it full screen by pressing "f" (press again to exit). For the presentations you can use the left and right arrow keys to navigate. Note that on some of the interactive slides, you might need to click on the slide background for the arrow keys to work if you clicked on any controls other than buttons. 
