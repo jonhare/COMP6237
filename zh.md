@@ -23,8 +23,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 03/02/25 | Linear Regression II        | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c192ef02-4037-4631-971c-b27900c723a7)|
 04/02/25 | Linear Regression III       | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9f755f9-9cc9-47e0-88d5-b27a00a4fd50)|
 06/02/25 | [Linear Regression Problem sets](./lectures/pdf/exercise1.pdf) | -- | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=42aeac54-4a04-4762-8369-b27c00b56072) |
-10/02/25 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | Video |
-
+10/02/25 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ad073ef8-5914-40c4-947c-b2800118b22a) |
 
 <!--
 06/02/25 | Logistic Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a513ebef-bde3-403d-967b-b11100d67925) |
