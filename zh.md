@@ -25,6 +25,9 @@ Date     | Title        | Slides                             | Handouts  | Code 
 06/02/25 | [Linear Regression Problem sets](./lectures/pdf/exercise1.pdf) | -- | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=42aeac54-4a04-4762-8369-b27c00b56072) |
 10/02/25 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ad073ef8-5914-40c4-947c-b2800118b22a) |
 17/02/25  | Making Recommendations | [PDF](./lectures/pdf/01_recommendion_systems_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/02_recommender.ipynb) | -- |
+18/02/25  | Discovering Groups | [PDF](./lectures/pdf/02_discovering_groups_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/03_clusterings_toys.ipynb) | -- |
+20/02/25  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/03_covariance_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/04_covariance.ipynb) | -- |
+
 
 
 <!--
