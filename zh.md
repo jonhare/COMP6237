@@ -29,7 +29,8 @@ Date     | Title        | Slides                             | Handouts  | Code 
 18/02/25  | Discovering Groups | [PDF](./lectures/pdf/02_discovering_groups_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/03_clusterings_toys.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1ce53ae6-440a-4e99-ad8e-b28800a4a140) |
 24/02/25  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/03_covariance_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/04_covariance.ipynb) | -- |
 24/02/25  | Embedding Data | [PDF](./lectures/pdf/04_embedding_data_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/05_embedding_data.ipynb) | -- |
-
+25/02/25  | Searching and Ranking | [PDF](./lectures/pdf/05_search_rank_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/06_searchRank.ipynb) | -- |
+27/02/25   | Document Filtering  | [PDF](./lectures/pdf/06_document_filtering_ZH.pdf)| -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/07_doc_filtering.ipynb) | -- |
 
 
 <!--
@@ -37,8 +38,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 18/02/25  | Discovering Groups | [PDF](./lectures/pdf/02_discovering_groups_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/03_clusterings_toys.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ea94084f-367f-4892-9103-b122009428a5) |
 20/02/25  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/03_covariance_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/04_covariance.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3bc8088c-2762-43c8-81fc-b12500b57b25) |
 24/02/25  | Embedding Data | [PDF](./lectures/pdf/04_embedding_data_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/05_embedding_data.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=64effc3b-116e-4fd7-b8f6-b1290094129d&start=29.86365581466639) |
-25/02/25  | Searching and Ranking | [PDF](./lectures/pdf/05_search_rank_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/06_searchRank.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=812c79d6-cb6c-4d92-b3d1-b12a00942248) |
-27/02/25   | Document Filtering  | [PDF](./lectures/pdf/06_document_filtering_ZH.pdf)| -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/07_doc_filtering.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=af75af89-37c2-4e34-b677-b12c00a49104) |
+
 03/03/25   | Modelling with Decision Trees | [PDF](./lectures/pdf/07_decision_tree_ZH.pdf)  | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/08_decisiontrees.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e2b687d5-f10c-4413-b6ff-b13000941f18) |
 04/03/25   | Nearest Neighbours | [PDF](./lectures/pdf/08-nearest_nighbours_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/09_nearest_neighbours.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2fa733e5-6831-44ec-ae1e-b13100944dd6) |
 06/03/25  | Market Basket Analysis | [PDF](./lectures/pdf/09-market_basket_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/10_market_basket.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d504ffa5-09b9-4269-ab50-b13300a49038) |
