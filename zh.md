@@ -32,7 +32,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 25/02/25  | Searching and Ranking | [PDF](./lectures/pdf/05_search_rank_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/06_searchRank.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3696f47d-0c0e-4f4e-a9db-b28f00a4890a) |
 27/02/25   | Document Filtering  | [PDF](./lectures/pdf/06_document_filtering_ZH.pdf)| -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/07_doc_filtering.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=daa6bd92-0e61-41e6-8671-b29100c5c869) |
 03/03/25   | Modelling with Decision Trees | [PDF](./lectures/pdf/07_decision_tree_ZH.pdf)  | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/08_decisiontrees.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=599994b7-ed9b-4486-98ba-b29500c58251) |
-04/03/25   | Nearest Neighbours | [PDF](./lectures/pdf/08-nearest_nighbours_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/09_nearest_neighbours.ipynb) | -- |
+04/03/25   | Nearest Neighbours | [PDF](./lectures/pdf/08-nearest_nighbours_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/09_nearest_neighbours.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7424a4e3-c3c0-4992-be5c-b29600a49e31) |
 06/03/25  | Market Basket Analysis | [PDF](./lectures/pdf/09-market_basket_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/10_market_basket.ipynb) | -- |
 
 <!--
