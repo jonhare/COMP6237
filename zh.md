@@ -34,13 +34,15 @@ Date     | Title        | Slides                             | Handouts  | Code 
 03/03/25   | Modelling with Decision Trees | [PDF](./lectures/pdf/07_decision_tree_ZH.pdf)  | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/08_decisiontrees.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=599994b7-ed9b-4486-98ba-b29500c58251) |
 04/03/25   | Nearest Neighbours | [PDF](./lectures/pdf/08-nearest_nighbours_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/09_nearest_neighbours.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7424a4e3-c3c0-4992-be5c-b29600a49e31) |
 06/03/25  | Market Basket Analysis | [PDF](./lectures/pdf/09-market_basket_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/10_market_basket.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=45e65455-23cf-458e-9d72-b29800b4f390)  |
+10/03/25  | Semantic Spaces | [PDF](./lectures/pdf/10_semantic_spaces_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/11_semantic_spaces.ipynb) | --|
+11/03/25  | Finding Independent Features, Topic Modelling | [PDF](./lectures/pdf/11_finding_features_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/12_finding_features.ipynb) | -- |
+13/03/25  | Outlier Detection | [PDF](./lectures/pdf/12_outlier_detection_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/13_outlier.ipynb) | -- |
+
 
 <!--
 06/02/25 | Logistic Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a513ebef-bde3-403d-967b-b11100d67925) |
 
-10/03/25  | Semantic Spaces | [PDF](./lectures/pdf/10_semantic_spaces_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/11_semantic_spaces.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a88da0f0-766b-4f24-81d4-b15a0083911d) |
-11/03/25  | Finding Independent Features, Topic Modelling | [PDF](./lectures/pdf/11_finding_features_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/12_finding_features.ipynb) | -- |
-13/03/25  | Outlier Detection | [PDF](./lectures/pdf/12_outlier_detection_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/13_outlier.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3e887a1d-1659-4440-b95e-b15e00c55a4d) |
+
 24/03/25 | [Problem Sets](./lectures/pdf/exercise2.pdf) | -- | [Solutions](./lectures/pdf/exercise2_sol.pdf) | -- | -- |
 25/03/25 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | -- | -- | -- |
 27/03/25 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | [Solutions](./lectures/pdf/exercise3_sol.pdf) | -- | -- |
