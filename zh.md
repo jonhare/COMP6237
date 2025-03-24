@@ -37,7 +37,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 10/03/25  | Semantic Spaces | [PDF](./lectures/pdf/10_semantic_spaces_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/11_semantic_spaces.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4b8336db-8f02-4d25-8eaa-b29c00c5ba80)|
 11/03/25  | Finding Independent Features, Topic Modelling | [PDF](./lectures/pdf/11_finding_features_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/12_finding_features.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=38a23079-70ed-4122-a576-b29d00a4af41) |
 13/03/25  | Outlier Detection | [PDF](./lectures/pdf/12_outlier_detection_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/13_outlier.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b0a3f8ed-a8cd-4bda-99f0-b29f00b55ed0) |
-24/03/25 | [Logistic Regression Problem Sets] | (./lectures/pdf/LogisticRegressionProblemSets.pdf) | -- | -- | -- |
+24/03/25 | Logistic Regression Problem Sets | [PDF](./lectures/pdf/LogisticRegressionProblemSets.pdf) | -- | -- | -- |
 
 
 <!--
