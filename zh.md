@@ -41,13 +41,4 @@ Date     | Title        | Slides                             | Handouts  | Code 
 25/03/25 | Information Theory - I | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | -- |
 27/03/25 | Information Theory - II | -- | -- | -- | -- |
 
-
-<!--
-06/02/25 | Logistic Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a513ebef-bde3-403d-967b-b11100d67925) |
-
-
-24/03/25 | [Problem Sets](./lectures/pdf/exercise2.pdf) | -- | [Solutions](./lectures/pdf/exercise2_sol.pdf) | -- | -- |
-25/03/25 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | -- | -- | -- |
-27/03/25 | Information Theory | [PDF](./lectures/pdf/Information.pdf) | [Solutions](./lectures/pdf/exercise3_sol.pdf) | -- | -- |
-12/05/25  | Exam Prep and Q&A |  -- | [Exercises](./lectures/pdf/vevox_mcqs.pdf) | -- | -- |
 -->
