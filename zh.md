@@ -41,4 +41,4 @@ Date     | Title        | Slides                             | Handouts  | Code 
 25/03/25 | Information Theory - I | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | -- |
 27/03/25 | Information Theory - II | -- | -- | -- | -- |
 
--->
+
