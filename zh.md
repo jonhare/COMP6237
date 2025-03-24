@@ -38,8 +38,8 @@ Date     | Title        | Slides                             | Handouts  | Code 
 11/03/25  | Finding Independent Features, Topic Modelling | [PDF](./lectures/pdf/11_finding_features_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/12_finding_features.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=38a23079-70ed-4122-a576-b29d00a4af41) |
 13/03/25  | Outlier Detection | [PDF](./lectures/pdf/12_outlier_detection_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/13_outlier.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b0a3f8ed-a8cd-4bda-99f0-b29f00b55ed0) |
 24/03/25 | Logistic Regression Problem Sets | [PDF](./lectures/pdf/LogisticRegressionProblemSets.pdf) | -- | -- | -- |
-
-
+25/03/25 | Information Theory - I | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | -- |
+27/03/25 | Information Theory - II | -- | -- | -- | -- |
 <!--
 06/02/25 | Logistic Regression | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a513ebef-bde3-403d-967b-b11100d67925) |
 
