@@ -40,5 +40,6 @@ Date     | Title        | Slides                             | Handouts  | Code 
 24/03/25 | Logistic Regression Problem Sets | [PDF](./lectures/pdf/LogisticRegressionProblemSets.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0441354a-cc6a-4419-8a0f-b2aa00c60342) |
 25/03/25 | Information Theory - I | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fb7bd107-fd6f-42cb-95c9-b2ab00a4d496) |
 27/03/25 | Information Theory - II | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d860ef39-7959-43d6-9511-b2ad00b55a26) |
+06/05/25 | Mining Data Streams | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | -- |
 
 
