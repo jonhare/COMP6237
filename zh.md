@@ -42,6 +42,6 @@ Date     | Title        | Slides                             | Handouts  | Code 
 27/03/25 | Information Theory - II | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d860ef39-7959-43d6-9511-b2ad00b55a26) |
 06/05/25 | Mining Data Streams | [PDF](./lectures/pdf/Streams.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b1401e7f-2072-448d-a707-b2d50096dd6f) |
 08/05/25 | Information Theory Problem Sets | [PDF](./lectures/pdf/InformationTheoryProblemSets.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dffddda5-741b-43b7-825a-b2d700a58c1b) |
-12/05/25 | Revision (ZH's part) | [PDF](./lectures/pdf/13_revision_ZH.pdf) | [MCQ Examples](./lectures/pdf/13-Revision-MCQ_examples_ZH.pdf) | -- | -- |
+12/05/25 | Revision (ZH's part) | [PDF](./lectures/pdf/13_revision_ZH.pdf) | [MCQ Examples](./lectures/pdf/13-Revision-MCQ_examples_ZH.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f4783d50-25d2-41b8-82ff-b2db00b52556) |
 
 
