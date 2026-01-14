@@ -58,18 +58,18 @@ The current timetable is shown below - be aware that this might change (especial
 | 19-Mar     |               | Shoaib & Zhiwu & Markus | Group Coursework Presentations                        | 
 | 20-Mar     |               | Shoaib & Zhiwu & Markus | Group Coursework Presentations                        | 
 | **Easter** |               |                         |                                                       | 
-| 20-Apr     | 10            | Markus                  | Link Prediction on Networks                           |
+| 20-Apr     | 13            | Markus                  | Link Prediction on Networks                           |
 | 21-Apr     |               | Markus                  | Community Detection on Networks                       |
 | 23-Apr     |               | Markus                  | Exploiting network structure for IR                   |
-| 30-Apr     | 11            | Shoaib                  | Intro to Information Theory                           |
+| 30-Apr     | 14            | Shoaib                  | Intro to Information Theory                           |
 | 01-May     |               | Shoaib                  | Information Theory II                                 |
 | 05-May     |               | Shoaib                  | Information Theory Problem Sets                       |  
 | 07-May     |               | Shoaib                  | Mining Data Streams                                   |
-| 11-May     | 12            | Shoaib                  | Exam Revision Q&A                                     |
+| 11-May     | 15            | Shoaib                  | Exam Revision Q&A                                     |
 | 12-May     |               | Zhiwu                   | Exam Revision Q&A                                     |
 | 14-May     |               | Markus                  | Exam Revision Q&A                                     |
 | 15-May     |               |                         | CW Due                                                | 
-| 18-May     | 13            |                         | **Exams**                                             |
+| 18-May     | 16            |                         | **Exams**                                             |
 
 
 ## Lecture Materials
