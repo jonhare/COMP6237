@@ -1,7 +1,7 @@
 ---
 layout: index
 title: "COMP6237 Data Mining"
-subtitle: "2024-25"
+subtitle: "2025-26"
 githubHeader: "false"
 credits: Maintained by <a href="https://www.southampton.ac.uk/people/628dpz/doctor-shoaib-ehsan">Dr Shoaib Ehsan</a>.
 ---
