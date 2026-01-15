@@ -47,8 +47,8 @@ The current timetable is shown below - be aware that this might change (especial
 | 02-Mar     | 6             | Zhiwu                   | Document filtering                                    |
 | 03-Mar     |               | Zhiwu                   | Modelling with decision trees                         |
 | 05-Mar     |               | Zhiwu                   | Modelling Prices & Nearest Neighbours                 | 
-| 09-Mar     |               | Zhiwu                   | Market Basket Analysis                                |
-| 10-Mar     | 7             | Zhiwu                   | Semantic Spaces & Latent Semantics                    |
+| 09-Mar     | 7             | Zhiwu                   | Market Basket Analysis                                |
+| 10-Mar     |               | Zhiwu                   | Semantic Spaces & Latent Semantics                    |
 | 12-Mar     |               | Zhiwu                   | Topic Modelling                                       |
 | 16-Mar     | 8             | Shoaib & Zhiwu & Markus | Group Coursework Presentations                        | 
 | 17-Mar     |               | Shoaib & Zhiwu & Markus | Group Coursework Presentations                        | 
