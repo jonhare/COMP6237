@@ -30,46 +30,44 @@ The current timetable is shown below - be aware that this might change (especial
 | Date       | Semester Week | Lecturer(s)             | Topic/Title                                           | 
 |------------|---------------|-------------------------|-------------------------------------------------------| 
 | 26-Jan     | 1             | Shoaib                  | Intro to data mining                                  | 
-| 27-Jan     |               | Shoaib                  | Linear Regression I                                   |
-| 29-Jan     |               | Shoaib                  | Linear Regression II (MLE)                            | 
-| 30-Jan     |               | Shoaib                  | Linear Regression III                                 | 
+| 29-Jan     |               | Shoaib                  | Linear Regression I                                   | 
+| 30-Jan     |               | Shoaib                  | Linear Regression II                                  | 
 | 02-Feb     | 2             | Shoaib                  | Linear Regression Problem Sets                        |
 | 03-Feb     |               | Shoaib                  | Logistic Regression                                   |
 | 06-Feb     |               | Shoaib                  | Logistic Regression Problem Sets; Group CW set        |
-| 12-Feb     | 3             | Shoaib & Zhiwu          | Group coursework Q & A                                |
+| 09-Feb     | 3             | Zhiwu                   | Making Recommendations                                |
+| 12-Feb     |               | Shoaib                  | Dealing with non-linear data
 | 13-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |
 | 16-Feb     | 4             | Shoaib & Zhiwu          | Group coursework Q & A                                |
-| 17-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |
-| 19-Feb     |               | Shoaib                  | Dealing with non-linear data                          |
-| 20-Feb     |               | Zhiwu                   | Making Recommendations                                |
-| 23-Feb     | 5             | Zhiwu                   | Finding Groups                                        |
-| 24-Feb     |               | Zhiwu                   | Covariance                                            |      
+| 17-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |                      
+| 19-Feb     |               | Zhiwu                   | Finding Groups                                        |
+| 23-Feb     | 5             | Zhiwu                   | Covariance                                            |      
 | 26-Feb     |               | Zhiwu                   | Embedding Data                                        |
 | 27-Feb     |               | Zhiwu                   | Search                                                |
 | 02-Mar     | 6             | Zhiwu                   | Document filtering                                    |
 | 03-Mar     |               | Zhiwu                   | Modelling with decision trees                         |
 | 05-Mar     |               | Zhiwu                   | Modelling Prices & Nearest Neighbours                 | 
-| 06-Mar     |               | Zhiwu                   | Market Basket Analysis                                |
-| 09-Mar     | 7             | Zhiwu                   | Semantic Spaces & Latent Semantics                    |
-| 10-Mar     |               | Zhiwu                   | Topic Modelling                                       |
-| 12-Mar     |               | Zhiwu                   | Outlier Detection                                     |
+| 09-Mar     |               | Zhiwu                   | Market Basket Analysis                                |
+| 10-Mar     | 7             | Zhiwu                   | Semantic Spaces & Latent Semantics                    |
+| 12-Mar     |               | Zhiwu                   | Topic Modelling                                       |
 | 16-Mar     | 8             | Shoaib & Zhiwu & Markus | Group Coursework Presentations                        | 
 | 17-Mar     |               | Shoaib & Zhiwu & Markus | Group Coursework Presentations                        | 
 | 19-Mar     |               | Shoaib & Zhiwu & Markus | Group Coursework Presentations                        | 
 | 20-Mar     |               | Shoaib & Zhiwu & Markus | Group Coursework Presentations                        | 
 | **Easter** |               |                         |                                                       | 
-| 20-Apr     | 13            | Markus                  | Link Prediction on Networks                           |
-| 21-Apr     |               | Markus                  | Community Detection on Networks                       |
-| 23-Apr     |               | Markus                  | Exploiting network structure for IR                   |
-| 30-Apr     | 14            | Shoaib                  | Intro to Information Theory                           |
+| 20-Apr     | 13            | Zhiwu                   | Outlier Detection                                     |
+| 21-Apr     |               | Markus                  | Link Prediction on Networks                           |
+| 23-Apr     |               | Markus                  | Community Detection on Networks                       |
+| 28-Apr     | 14            | Markus                  | Exploiting network structure for IR                   |
+| 30-Apr     |               | Shoaib                  | Intro to Information Theory                           |
 | 01-May     |               | Shoaib                  | Information Theory II                                 |
-| 05-May     |               | Shoaib                  | Information Theory Problem Sets                       |  
+| 05-May     | 15            | Shoaib                  | Information Theory Problem Sets                       |  
 | 07-May     |               | Shoaib                  | Mining Data Streams                                   |
-| 11-May     | 15            | Shoaib                  | Exam Revision Q&A                                     |
+| 11-May     | 16            | Shoaib                  | Exam Revision Q&A                                     |
 | 12-May     |               | Zhiwu                   | Exam Revision Q&A                                     |
 | 14-May     |               | Markus                  | Exam Revision Q&A                                     |
 | 15-May     |               |                         | CW Due                                                | 
-| 18-May     | 16            |                         | **Exams**                                             |
+| 18-May     | 17            |                         | **Exams**                                             |
 
 
 ## Lecture Materials
