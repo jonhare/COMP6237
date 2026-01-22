@@ -88,10 +88,10 @@ Link for forming groups for the coursework [Link](https://secure.ecs.soton.ac.uk
 <!--* **[Coursework Report](http://comp6237.ecs.soton.ac.uk/cw/coursework1)** Due Friday 15th May.-->
 
 ## Where to get additional help
-Here are a couple of documents to help you. The first is an overview of the course, so that you can see the structure: 
+Here is a document that provides an overview of the course, so that you can see the structure: 
 * [Course Structure](./lectures/pdf/COMP6237KO.pdf)
 
-Talk to us! As we said above, you are more than welcome to arrange to meet with us via Teams (or in the unused lecture slots / at other times if appropriate) to discuss issues related to the course. <a href="https://www.southampton.ac.uk/people/62bxzm/doctor-zhiwu-huang">Zhiwu</a> ([email](mailto:zhiwu.huang@soton.ac.uk)),  <a href="http://www.ecs.soton.ac.uk/people/se3e22">Shoaib</a> ([email](mailto:se3e22@ecs.soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can all be reached by email.
+<!--Talk to us! As we said above, you are more than welcome to arrange to meet with us via Teams (or in the unused lecture slots / at other times if appropriate) to discuss issues related to the course. <a href="https://www.southampton.ac.uk/people/62bxzm/doctor-zhiwu-huang">Zhiwu</a> ([email](mailto:zhiwu.huang@soton.ac.uk)),  <a href="http://www.ecs.soton.ac.uk/people/se3e22">Shoaib</a> ([email](mailto:se3e22@ecs.soton.ac.uk)) and <a href="http://www.ecs.soton.ac.uk/people/mb8">Markus</a> ([email](mailto:mb8@ecs.soton.ac.uk)) can all be reached by email.--->
 <!---or by coming to find us in our offices (32/3091 for Shoaib & 32/4033 for Markus). --->
 
 <!---For further practical help, you can also talk with the PhD students, who run the help desk in the Zepler lab.--->
