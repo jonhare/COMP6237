@@ -29,7 +29,7 @@ The current timetable is shown below - be aware that this might change (especial
 
 | Date       | Semester Week | Lecturer(s)             | Topic/Title                                           | 
 |------------|---------------|-------------------------|-------------------------------------------------------| 
-| 26-Jan     | 1             | Zhiwu                   | Intro to data mining                                  | 
+| 26-Jan     | 1             | Zhiwu                   | Intro to Data Mining                                  | 
 | 29-Jan     |               | Zhiwu                   | Finding Groups                                        | 
 | 30-Jan     |               | Zhiwu                   | Covariance                                            | 
 | 02-Feb     | 2             | Zhiwu                   | Embedding Data                                        |
@@ -37,15 +37,15 @@ The current timetable is shown below - be aware that this might change (especial
 | 06-Feb     |               | Shoaib                  | Linear Regression I; Group CW set                     |
 | 09-Feb     | 3             | Shoaib                  | Linear Regression II                                  |
 | 12-Feb     |               | Shoaib                  | Linear Regression Problem Sets
-| 13-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |
-| 16-Feb     | 4             | Shoaib & Zhiwu          | Group coursework Q & A                                |
-| 17-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |                      
+| 13-Feb     |               | Shoaib & Zhiwu          | Group Coursework Q & A                                |
+| 16-Feb     | 4             | Shoaib & Zhiwu          | Group Coursework Q & A                                |
+| 17-Feb     |               | Shoaib & Zhiwu          | Group Coursework Q & A                                |                      
 | 19-Feb     |               | Shoaib                  | Logistic Regression                                   |
-| 23-Feb     | 5             | Shoaib                  | Dealing with non-linear data                          |      
+| 23-Feb     | 5             | Shoaib                  | Dealing with Non-linear Data                          |      
 | 26-Feb     |               | Shoaib                  | Logistic Regression Problem Sets                      |
 | 27-Feb     |               | Zhiwu                   | Making Recommendations                                |
-| 02-Mar     | 6             | Zhiwu                   | Document filtering                                    |
-| 03-Mar     |               | Zhiwu                   | Modelling with decision trees                         |
+| 02-Mar     | 6             | Zhiwu                   | Document Filtering                                    |
+| 03-Mar     |               | Zhiwu                   | Modelling with Decision Trees                         |
 | 05-Mar     |               | Zhiwu                   | Modelling Prices & Nearest Neighbours                 | 
 | 09-Mar     | 7             | Zhiwu                   | Market Basket Analysis                                |
 | 10-Mar     |               | Zhiwu                   | Semantic Spaces & Latent Semantics                    |
@@ -75,14 +75,16 @@ Materials to accompany the lectures can be found here:
 * [Zhiwu's and Shoaib's material](zh.md)
 * [Markus's material]
 
-## Coursework
-The schedule for each coursework is shown below. Further details will become available below as each coursework is set:
+## Group Coursework
+The schedule for the Group Coursework is shown below. 
 
 Link for forming groups for the coursework [Link](https://secure.ecs.soton.ac.uk/student/wiki/w/COMP6237-2025-classlist).
-* **[Coursework Brief]** Due Friday 20th Feb.
+
+* Coursework Set: Friday 6th Feb.
+* Coursework Brief Due: Friday 20th Feb.
 <!--* **[Coursework Brief](http://comp6237.ecs.soton.ac.uk/cw/coursework1)**  Due Friday 20th Feb.-->
-* **Coursework Presentation** Due 16th March - 20th March. 
-* **[Coursework Report]** Due Friday 15th May.
+* Coursework Presentations Due: 16th March - 20th March. 
+* Coursework Report Due: Friday 15th May.
 <!--* **[Coursework Report](http://comp6237.ecs.soton.ac.uk/cw/coursework1)** Due Friday 15th May.-->
 
 ## Where to get additional help
