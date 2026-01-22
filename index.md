@@ -34,16 +34,16 @@ The current timetable is shown below - be aware that this might change (especial
 | 30-Jan     |               | Zhiwu                   | Covariance                                            | 
 | 02-Feb     | 2             | Zhiwu                   | Embedding Data                                        |
 | 03-Feb     |               | Zhiwu                   | Search                                                |
-| 06-Feb     |               | Shoaib                  | Logistic Regression Problem Sets; Group CW set        |
-| 09-Feb     | 3             | Zhiwu                   | Making Recommendations                                |
-| 12-Feb     |               | Shoaib                  | Dealing with non-linear data
+| 06-Feb     |               | Shoaib                  | Linear Regression I; Group CW set                     |
+| 09-Feb     | 3             | Shoaib                  | Linear Regression II                                  |
+| 12-Feb     |               | Shoaib                  | Linear Regression Problem Sets
 | 13-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |
 | 16-Feb     | 4             | Shoaib & Zhiwu          | Group coursework Q & A                                |
 | 17-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |                      
-| 19-Feb     |               | Shoaib                  | Linear Regression I                                   |
-| 23-Feb     | 5             | Shoaib                  | Linear Regression II                                  |      
-| 26-Feb     |               | Shoaib                  | Linear Regression Problem Sets                        |
-| 27-Feb     |               | Shoaib                  | Logistic Regression                                   |
+| 19-Feb     |               | Shoaib                  | Logistic Regression                                   |
+| 23-Feb     | 5             | Shoaib                  | Dealing with non-linear data                          |      
+| 26-Feb     |               | Shoaib                  | Logistic Regression Problem Sets                      |
+| 27-Feb     |               | Zhiwu                   | Making Recommendations                                |
 | 02-Mar     | 6             | Zhiwu                   | Document filtering                                    |
 | 03-Mar     |               | Zhiwu                   | Modelling with decision trees                         |
 | 05-Mar     |               | Zhiwu                   | Modelling Prices & Nearest Neighbours                 | 
