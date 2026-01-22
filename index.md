@@ -80,10 +80,10 @@ The schedule for each coursework is shown below. Further details will become ava
 
 Link for forming groups for the coursework [Link](https://secure.ecs.soton.ac.uk/student/wiki/w/COMP6237-2025-classlist).
 * **[Coursework Brief]** Due Friday 20th Feb.
-//* **[Coursework Brief](http://comp6237.ecs.soton.ac.uk/cw/coursework1)**  Due Friday 20th Feb.
+<!--* **[Coursework Brief](http://comp6237.ecs.soton.ac.uk/cw/coursework1)**  Due Friday 20th Feb.-->
 * **Coursework Presentation** Due 16th March - 20th March. 
 * **[Coursework Report]** Due Friday 15th May.
-//* **[Coursework Report](http://comp6237.ecs.soton.ac.uk/cw/coursework1)** Due Friday 15th May.
+<!--* **[Coursework Report](http://comp6237.ecs.soton.ac.uk/cw/coursework1)** Due Friday 15th May.-->
 
 ## Where to get additional help
 Here are a couple of documents to help you. The first is an overview of the course, so that you can see the structure: 
