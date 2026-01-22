@@ -29,21 +29,21 @@ The current timetable is shown below - be aware that this might change (especial
 
 | Date       | Semester Week | Lecturer(s)             | Topic/Title                                           | 
 |------------|---------------|-------------------------|-------------------------------------------------------| 
-| 26-Jan     | 1             | Shoaib                  | Intro to data mining                                  | 
-| 29-Jan     |               | Shoaib                  | Linear Regression I                                   | 
-| 30-Jan     |               | Shoaib                  | Linear Regression II                                  | 
-| 02-Feb     | 2             | Shoaib                  | Linear Regression Problem Sets                        |
-| 03-Feb     |               | Shoaib                  | Logistic Regression                                   |
+| 26-Jan     | 1             | Zhiwu                   | Intro to data mining                                  | 
+| 29-Jan     |               | Zhiwu                   | Finding Groups                                        | 
+| 30-Jan     |               | Zhiwu                   | Covariance                                            | 
+| 02-Feb     | 2             | Zhiwu                   | Embedding Data                                        |
+| 03-Feb     |               | Zhiwu                   | Search                                                |
 | 06-Feb     |               | Shoaib                  | Logistic Regression Problem Sets; Group CW set        |
 | 09-Feb     | 3             | Zhiwu                   | Making Recommendations                                |
 | 12-Feb     |               | Shoaib                  | Dealing with non-linear data
 | 13-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |
 | 16-Feb     | 4             | Shoaib & Zhiwu          | Group coursework Q & A                                |
 | 17-Feb     |               | Shoaib & Zhiwu          | Group coursework Q & A                                |                      
-| 19-Feb     |               | Zhiwu                   | Finding Groups                                        |
-| 23-Feb     | 5             | Zhiwu                   | Covariance                                            |      
-| 26-Feb     |               | Zhiwu                   | Embedding Data                                        |
-| 27-Feb     |               | Zhiwu                   | Search                                                |
+| 19-Feb     |               | Zhiwu                   | Linear Regression I                                   |
+| 23-Feb     | 5             | Zhiwu                   | Linear Regression II                                  |      
+| 26-Feb     |               | Zhiwu                   | Linear Regression Problem Sets                        |
+| 27-Feb     |               | Zhiwu                   | Logistic Regression                                   |
 | 02-Mar     | 6             | Zhiwu                   | Document filtering                                    |
 | 03-Mar     |               | Zhiwu                   | Modelling with decision trees                         |
 | 05-Mar     |               | Zhiwu                   | Modelling Prices & Nearest Neighbours                 | 
