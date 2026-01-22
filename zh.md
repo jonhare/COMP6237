@@ -18,7 +18,7 @@ The launcher program that opens when you launch the jar is self explanatory, but
 
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
-27/01/25 | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_to_Data_Mining.pdf) | -- | -- |[Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57fc4937-57dd-4dba-8d8b-b27200c61d3d)|
+<!--27/01/25 | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_to_Data_Mining.pdf) | -- | -- |[Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57fc4937-57dd-4dba-8d8b-b27200c61d3d)|
 30/01/25 | Linear Regression I | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=62bea790-f2bc-4e3b-a8b1-b27500b55fc6)|
 03/02/25 | Linear Regression II        | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c192ef02-4037-4631-971c-b27900c723a7)|
 04/02/25 | Linear Regression III       | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9f755f9-9cc9-47e0-88d5-b27a00a4fd50)|
@@ -43,6 +43,6 @@ Date     | Title        | Slides                             | Handouts  | Code 
 06/05/25 | Mining Data Streams | [PDF](./lectures/pdf/Streams.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b1401e7f-2072-448d-a707-b2d50096dd6f) |
 08/05/25 | Information Theory Problem Sets | [PDF](./lectures/pdf/InformationTheoryProblemSets.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dffddda5-741b-43b7-825a-b2d700a58c1b) |
 12/05/25 | Revision (ZH's part) | [PDF](./lectures/pdf/13_revision_ZH.pdf) | [MCQ Examples](./lectures/pdf/13-Revision-MCQ_examples_ZH.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f4783d50-25d2-41b8-82ff-b2db00b52556) |
-12/05/25 | Revision (Shoaib's part) | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a9fb6088-9994-43b1-a415-b2db0107bdc9) |
+12/05/25 | Revision (Shoaib's part) | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a9fb6088-9994-43b1-a415-b2db0107bdc9) |-->
 
 
