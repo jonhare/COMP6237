@@ -9,7 +9,7 @@ Team size: 4 students.
 
 ### Handin #1
 Due date: Friday 20th February 2026, 16:00.  
-<--![Handin](https://handin.ecs.soton.ac.uk/soton/2425/COMP6237/1/)-->	
+<--! [Handin](https://handin.ecs.soton.ac.uk/soton/2425/COMP6237/1/) -->	
 
 Required files: brief.pdf  Suggested [Brief Template](https://github.com/jonhare/COMP6237/blob/gh-pages/cw/brief_template.tex)
 
