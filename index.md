@@ -19,8 +19,8 @@ The lecture slots are as follows:
 
 Day        | Time  | Room   
 -----------|-------|--------------------------
-Monday     | 5 PM  | B100 4011 (Harvard L/TB)
-Tuesday    | 5 PM  | B06  1077 (L/T A)
+Monday     | 5 PM  | B100 4011 (Harvard L/T B)
+Tuesday    | 5 PM  | B46  2003 (L/T B)
 Thursday	 | 12 PM | B46  2003 (L/T B)
 Friday	   | 3 PM  | B46  2003 (L/T B)
 
