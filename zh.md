@@ -18,9 +18,9 @@ The launcher program that opens when you launch the jar is self explanatory, but
 
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
-<!--
-27/01/25 | Introduction to Data Mining | [PDF](./lectures/pdf/Intro_to_Data_Mining.pdf) | -- | -- |[Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57fc4937-57dd-4dba-8d8b-b27200c61d3d)|
-30/01/25 | Linear Regression I | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=62bea790-f2bc-4e3b-a8b1-b27500b55fc6)|
+
+26/01/25 | Introduction to Data Mining | [PDF](./lectures/pdf/00_introduction_ZH.pdf) | -- | -- |--|
+<!--30/01/25 | Linear Regression I | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=62bea790-f2bc-4e3b-a8b1-b27500b55fc6)|
 03/02/25 | Linear Regression II        | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c192ef02-4037-4631-971c-b27900c723a7)|
 04/02/25 | Linear Regression III       | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9f755f9-9cc9-47e0-88d5-b27a00a4fd50)|
 06/02/25 | [Linear Regression Problem sets](./lectures/pdf/exercise1.pdf) | -- | [Solutions](./lectures/pdf/exercise1_sol.pdf) | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=42aeac54-4a04-4762-8369-b27c00b56072) |
