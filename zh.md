@@ -15,10 +15,9 @@ Zhiwu's parts of the ECS [COMP6237 Data Mining](https://comp6237.ecs.soton.ac.uk
 The launcher program that opens when you launch the jar is self explanatory, but once you've selected a presentation or demo you can make it full screen by pressing "f" (press again to exit). For the presentations you can use the left and right arrow keys to navigate. Note that on some of the interactive slides, you might need to click on the slide background for the arrow keys to work if you clicked on any controls other than buttons. 
 -->
 
-
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
-26/01/25 | Introduction to Data Mining | [PDF](./lectures/pdf/00_introduction_ZH.pdf) | -- | -- |--|
+26/01/23 | Introduction to Data Mining | [PDF](./lectures/pdf/00_introduction_ZH.pdf) | -- | -- | -- |
 <!--30/01/25 | Linear Regression I | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=62bea790-f2bc-4e3b-a8b1-b27500b55fc6)|
 03/02/25 | Linear Regression II        | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c192ef02-4037-4631-971c-b27900c723a7)|
 04/02/25 | Linear Regression III       | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9f755f9-9cc9-47e0-88d5-b27a00a4fd50)|
