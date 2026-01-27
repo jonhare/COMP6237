@@ -17,7 +17,7 @@ The launcher program that opens when you launch the jar is self explanatory, but
 
 Date     | Title        | Slides                             | Handouts  | Code  | Video |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
-26/01/26 | Introduction to Data Mining | [PDF](./lectures/pdf/00_introduction_ZH.pdf) | -- | -- | -- |
+26/01/26 | Introduction to Data Mining | [PDF](./lectures/pdf/00_introduction_ZH.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a12a6437-c0c3-4600-937a-b3de011a8cba) |
 29/01/26  | Discovering Groups | [PDF](./lectures/pdf/02_discovering_groups_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/03_clusterings_toys.ipynb) | -- |
 30/01/26  | Covariance, EVD, PCA & SVD | [PDF](./lectures/pdf/03_covariance_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/04_covariance.ipynb) | -- |
 
