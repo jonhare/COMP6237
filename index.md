@@ -35,7 +35,7 @@ The current timetable is shown below - be aware that this might change (especial
 | 02-Feb     | 2             | Zhiwu                   | Embedding Data                                        |
 | 03-Feb     |               | Zhiwu                   | Search                                                |
 | 06-Feb     |               | Shoaib                  | Linear Regression I; Group CW set                     |
-| 09-Feb     | 3             | Shoaib                  | Linear Regression II                                  |
+| 10-Feb     | 3             | Shoaib                  | Linear Regression II                                  |
 | 12-Feb     |               | Shoaib                  | Linear Regression Problem Sets
 | 13-Feb     |               | Shoaib & Zhiwu          | Group Coursework Q & A                                |
 | 16-Feb     | 4             | Shoaib & Zhiwu          | Group Coursework Q & A                                |
