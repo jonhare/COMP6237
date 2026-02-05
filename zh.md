@@ -24,7 +24,6 @@ Date     | Title        | Slides                             | Handouts  | Code 
 03/02/26  | Searching and Ranking | [PDF](./lectures/pdf/05_search_rank_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/06_searchRank.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f4c426d2-4232-40ba-8a5f-b3e601180a92)  |
 06/02/26 | Linear Regression I | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | -- |
 10/02/26 | Linear Regression II | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | -- |
-
 <!--30/01/25 | Linear Regression I | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=62bea790-f2bc-4e3b-a8b1-b27500b55fc6)|
 03/02/25 | Linear Regression II        | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c192ef02-4037-4631-971c-b27900c723a7)|
 04/02/25 | Linear Regression III       | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9f755f9-9cc9-47e0-88d5-b27a00a4fd50)|
