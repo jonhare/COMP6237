@@ -39,8 +39,8 @@ The current timetable is shown below - be aware that this might change (especial
 | 12-Feb     |               | Shoaib & Zhiwu          | Group Coursework Q & A                                |
 | 13-Feb     |               | Shoaib & Zhiwu          | Group Coursework Q & A                                |                      
 | 16-Feb     | 4             | Shoaib                  | Linear Regression II                                  |
-| 17-Feb     |               | Shoaib                  | Linear Regression Problem Sets                        |
-| 19-Feb     |               | Shoaib                  | Logistic Regression                                   |
+| 19-Feb     |               | Shoaib                  | Linear Regression Problem Sets                        |
+| 20-Feb     |               | Shoaib                  | Logistic Regression                                   |
 | 23-Feb     | 5             | Shoaib                  | Dealing with Non-linear Data                          |      
 | 26-Feb     |               | Shoaib                  | Logistic Regression Problem Sets                      |
 | 27-Feb     |               | Zhiwu                   | Making Recommendations                                |
