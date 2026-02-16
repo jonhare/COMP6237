@@ -23,7 +23,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 02/02/26  |  Dimensionality Reduction II | [PDF](./lectures/pdf/04_embedding_data_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/05_embedding_data.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5be3546f-4db0-4fde-9570-b3e50117fa5a) |
 03/02/26  | Searching and Ranking | [PDF](./lectures/pdf/05_search_rank_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/06_searchRank.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f4c426d2-4232-40ba-8a5f-b3e601180a92)  |
 06/02/26 | Linear Regression I | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a9cc8f67-3d84-44e1-94cd-b3e900f71956) |
-16/02/26 | Linear Regression II | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | -- |
-17/02/26 | Linear Regression Problem Sets | [PDF](./lectures/pdf/LinearRegressionProblemSets.pdf) | -- | -- | -- |
+16/02/26 | Linear Regression II | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8427739e-8d93-4067-8996-b3f301186637) |
+19/02/26 | Linear Regression Problem Sets | [PDF](./lectures/pdf/LinearRegressionProblemSets.pdf) | -- | -- | -- |
 
 
