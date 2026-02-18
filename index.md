@@ -40,13 +40,13 @@ The current timetable is shown below - be aware that this might change (especial
 | 13-Feb     |               | Shoaib & Zhiwu          | Group Coursework Q & A                                |                      
 | 16-Feb     | 4             | Shoaib                  | Linear Regression II                                  |
 | 19-Feb     |               | Shoaib                  | Linear Regression Problem Sets                        |
-| 20-Feb     |               | Shoaib                  | Logistic Regression                                   |
-| 23-Feb     | 5             | Shoaib                  | Dealing with Non-linear Data                          |      
-| 26-Feb     |               | Shoaib                  | Logistic Regression Problem Sets                      |
+| 20-Feb     |               | Shoaib                  | Logistic Regression                                   |  
+| 26-Feb     | 5             | Shoaib                  | Dealing with Non-linear Data                          |
 | 27-Feb     |               | Zhiwu                   | Making Recommendations                                |
 | 02-Mar     | 6             | Zhiwu                   | Document Filtering                                    |
 | 03-Mar     |               | Zhiwu                   | Modelling with Decision Trees                         |
-| 05-Mar     |               | Zhiwu                   | Modelling Prices & Nearest Neighbours                 | 
+| 05-Mar     |               | Zhiwu                   | Modelling Prices & Nearest Neighbours                 |
+| 06-Mar     |               | Shoaib                  | Logistic Regression Problem Sets                      |
 | 09-Mar     | 7             | Zhiwu                   | Market Basket Analysis                                |
 | 10-Mar     |               | Zhiwu                   | Semantic Spaces & Latent Semantics                    |
 | 12-Mar     |               | Zhiwu                   | Topic Modelling                                       |
