@@ -25,6 +25,9 @@ Date     | Title        | Slides                             | Handouts  | Code 
 06/02/26 | Linear Regression I | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a9cc8f67-3d84-44e1-94cd-b3e900f71956) |
 16/02/26 | Linear Regression II | [PDF](./lectures/pdf/LinearRegression.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8427739e-8d93-4067-8996-b3f301186637) |
 19/02/26 | Linear Regression Problem Sets | [PDF](./lectures/pdf/LinearRegressionProblemSets.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9aaa262a-d290-4d95-986b-b3f600c643e2) |
+20/02/26 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | -- |
+26/02/26 | Dealing with Non-Linear Data | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | -- |
+
 
 
 
