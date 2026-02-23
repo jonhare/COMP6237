@@ -27,6 +27,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 19/02/26 | Linear Regression Problem Sets | [PDF](./lectures/pdf/LinearRegressionProblemSets.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9aaa262a-d290-4d95-986b-b3f600c643e2) |
 20/02/26 | Logistic Regression | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | -- |
 26/02/26 | Dealing with Non-Linear Data | [PDF](./lectures/pdf/LogisticRegression.pdf) | -- | -- | -- |
+27/02/26 | Recommendation Systems | [PDF](./lectures/pdf/01_recommendion_systems_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/02_recommender_with_content_visual.ipynb) | -- |
 
 
 
