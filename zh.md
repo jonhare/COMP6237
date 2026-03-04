@@ -30,7 +30,9 @@ Date     | Title        | Slides                             | Handouts  | Code 
 27/02/26 | Recommendation Systems | [PDF](./lectures/pdf/01_recommendion_systems_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/02_recommender_with_content_visual.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=39381dee-aeeb-4a95-b98b-b3fe0108ba09) |
 02/03/26 | Document Filtering | [PDF](./lectures/pdf/06_document_filtering_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/07_document_filtering_spam_ham.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1788f6ce-5b21-4248-a2f2-b40101296fba) |
 03/03/26 | Decision Trees | [PDF](./lectures/pdf/07_decision_tree_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/08_decisiontrees_offer_case.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=609c8f6e-bdea-4fa6-8b14-b402011808e4) |
-06/03/26 | Nearest Neighbours | [PDF](./lectures/pdf/08-nearest_nighbours_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/09_nearest_neighbours_item_based_miley_demo.ipynb) | -- |
+05/03/26 | Nearest Neighbours | [PDF](./lectures/pdf/08-nearest_nighbours_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/09_nearest_neighbours_item_based_miley_demo.ipynb) | -- |
+06/03/26 | Logistic Regression Problem Sets | [PDF](./lectures/pdf/LogisticRegressionProblemsets.pdf) | -- | -- | -- |
+
 
 
 
