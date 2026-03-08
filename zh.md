@@ -34,9 +34,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 06/03/26 | Logistic Regression Problem Sets | [PDF](./lectures/pdf/LogisticRegressionProblemSets.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3afed961-2ab8-40e0-8dcf-b40500f7ee33) |
 09/03/26 | Market Basket Analysis | [PDF](./lectures/pdf/09-market_basket_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/10_market_basket_visual_demo.ipynb) |  --  |
 10/03/26 | Semantic Spaces | [PDF](./lectures/pdf/10_semantic_spaces_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/11_semantic_spaces_visual_demo.ipynb) |  --  |
-12/03/26 | Topic Modelling | [PDF](./lectures/pdf/11_finding_features_ZH) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/12_finding_features_visual_demo.ipynb) |  --  |
-
-
+12/03/26 | Topic Modelling | [PDF](./lectures/pdf/11_finding_features_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/12_finding_features_visual_demo.ipynb) |  --  |
 
 
 
