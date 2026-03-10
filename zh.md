@@ -15,7 +15,7 @@ Zhiwu's parts of the ECS [COMP6237 Data Mining](https://comp6237.ecs.soton.ac.uk
 The launcher program that opens when you launch the jar is self explanatory, but once you've selected a presentation or demo you can make it full screen by pressing "f" (press again to exit). For the presentations you can use the left and right arrow keys to navigate. Note that on some of the interactive slides, you might need to click on the slide background for the arrow keys to work if you clicked on any controls other than buttons. 
 -->
 
-Date     | Title        | Slides                             | Handouts  | Code  | Video |
+Date     | Title        | Slides                             | Handouts  | Code  | Recording |
 ---------| ------------ | ---------------------------------- | --------- | ----- | ----- |
 26/01/26 | Introduction to Data Mining | [PDF](./lectures/pdf/00_introduction_ZH.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a12a6437-c0c3-4600-937a-b3de011a8cba) |
 29/01/26  | Discovering Groups | [PDF](./lectures/pdf/02_discovering_groups_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/03_groups.ipynb) | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=10bd15bf-cc17-422c-ad91-b3e100c5eeaa)  |
