@@ -73,7 +73,7 @@ The current timetable is shown below - be aware that this might change (especial
 ## Lecture Materials
 Materials to accompany the lectures can be found here:
 * [Zhiwu's and Shoaib's material](zh.md)
-* [Markus's material]
+* [Markus's material](https://www.southampton.ac.uk/~mb1a10/stats/datamining.html)
 
 ## Group Coursework
 The schedule for the Group Coursework is shown below. 
