@@ -36,7 +36,9 @@ Date     | Title        | Slides                             | Handouts  | Code 
 10/03/26 | Semantic Spaces | [PDF](./lectures/pdf/10_semantic_spaces_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/11_semantic_spaces_visual_demo.ipynb) |  [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=56a567dd-fa08-49f7-a40e-b4090132a703)  |
 12/03/26 | Topic Modelling | [PDF](./lectures/pdf/11_finding_features_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/12_finding_features_visual_demo.ipynb) |  [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=28703229-febd-439c-bb54-b40b00c5881d)  |
 20/04/26 | Outlier Detection | [PDF](./lectures/pdf/12_outlier_detection_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/13_outlier_detection_demo_consistent.ipynb) |  [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=464980a4-e0fc-48e8-b1f1-b4320107e7d5)  |
-30/04/26 | Information Theory - I | [PDF](./lectures/pdf/information_theory.pdf) | -- | -- | -- |
+30/04/26 | Information Theory - I | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | -- |
+01/05/26 | Information Theory - II | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | -- |
+
 
 
 
