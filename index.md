@@ -60,9 +60,9 @@ The current timetable is shown below - be aware that this might change (especial
 | 23-Apr     |               | Markus                  | Community Detection on Networks                       |
 | 28-Apr     | 14            | Markus                  | Exploiting network structure for IR                   |
 | 30-Apr     |               | Shoaib                  | Intro to Information Theory                           |
-| 01-May     |               | Shoaib                  | Information Theory II                                 |
-| 05-May     | 15            | Shoaib                  | Information Theory Problem Sets                       |  
-| 07-May     |               | Shoaib                  | Mining Data Streams                                   |
+| 05-May     | 15            | Shoaib                  | Information Theory II                                 |
+| 07-May     |               | Shoaib                  | Information Theory Problem Sets                       |  
+| 08-May     |               | Shoaib                  | Mining Data Streams                                   |
 | 11-May     | 16            | Shoaib                  | Exam Revision Q&A                                     |
 | 12-May     |               | Zhiwu                   | Exam Revision Q&A                                     |
 | 14-May     |               | Markus                  | Exam Revision Q&A                                     |
