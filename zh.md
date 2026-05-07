@@ -38,7 +38,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 20/04/26 | Outlier Detection | [PDF](./lectures/pdf/12_outlier_detection_ZH.pdf) | -- | [git](https://github.com/zhiwu-huang/COMP6237-Data-Mining-Demo-Code/blob/master/13_outlier_detection_demo_consistent.ipynb) |  [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=464980a4-e0fc-48e8-b1f1-b4320107e7d5)  |
 30/04/26 | Information Theory - I | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=49c58175-61f6-487b-85ec-b43c00b6eb29) |
 05/05/26 | Information Theory - II | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=75317a59-f0df-4270-9dee-b44101089ea5) |
-07/05/26 | Information Theory - Problem Sets | [PDF](./lectures/pdf/Information.pdf) | -- | -- | -- |
+07/05/26 | Information Theory - Problem Sets | [PDF](./lectures/pdf/InformationTheoryProblemSets.pdf) | -- | -- | -- |
 
 
 
