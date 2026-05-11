@@ -39,6 +39,11 @@ Date     | Title        | Slides                             | Handouts  | Code 
 30/04/26 | Information Theory - I | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=49c58175-61f6-487b-85ec-b43c00b6eb29) |
 05/05/26 | Information Theory - II | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=75317a59-f0df-4270-9dee-b44101089ea5) |
 07/05/26 | Information Theory - Problem Sets | [PDF](./lectures/pdf/InformationTheoryProblemSets.pdf) | -- | -- | -- |
+08/05/26 | Exam Discussion | -- | -- | -- | -- |
+11/05/26 | Mining Data Streams | [PDF](./lectures/pdf/Streams.pdf) | -- | -- | -- |
+
+
+
 
 
 
