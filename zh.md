@@ -40,7 +40,7 @@ Date     | Title        | Slides                             | Handouts  | Code 
 05/05/26 | Information Theory - II | [PDF](./lectures/pdf/InformationTheory.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=75317a59-f0df-4270-9dee-b44101089ea5) |
 07/05/26 | Information Theory - Problem Sets | [PDF](./lectures/pdf/InformationTheoryProblemSets.pdf) | -- | -- | -- |
 08/05/26 | Exam Discussion | -- | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6e8cd3ae-86e4-4370-93e2-b44400e6c7a5) |
-11/05/26 | Mining Data Streams | [PDF](./lectures/pdf/Streams.pdf) | -- | -- | -- |
+11/05/26 | Mining Data Streams | [PDF](./lectures/pdf/Streams.pdf) | -- | -- | [Video](https://southampton.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a0d9f76c-003d-4dbc-adf7-b4470107b09c) |
 12/05/26 | Exam Revision (ZH) | [PDF](./lectures/pdf/13_revision_ZH.pdf) | [MCQs](./lectures/pdf/13-Revision-MCQ_examples_ZH.pdf)| -- | -- |
 
 
